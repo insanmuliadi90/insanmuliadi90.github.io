@@ -113,12 +113,16 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Asia/Makassar"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
 paginate: 5
-
+    # My Popular Repositories
+components:
+    side_bar_repo:
+        enabled: true
+        limit: 5
 kramdown:
   input: GFM
 
