@@ -22,7 +22,7 @@ use-site-title: true
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
-    <div class="post-entry-container">
+    <div class="post-entry-container clearfloat">
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | prepend: site.baseurl }}">
