@@ -118,11 +118,6 @@ markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
 paginate: 5
-    # My Popular Repositories
-components:
-  side_bar_repo:
-    enabled: true
-    limit: 5
     
 kramdown:
   input: GFM
