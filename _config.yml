@@ -72,7 +72,7 @@ footer-links-active:
   facebook: false
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: true
   xing: false
   stackoverflow: false
@@ -83,7 +83,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -91,7 +91,7 @@ url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: ""
+# -- disqus: "sanblog"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-96660715-1"
