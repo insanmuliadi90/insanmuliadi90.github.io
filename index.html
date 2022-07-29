@@ -25,8 +25,8 @@ use-site-title: true
     <div class="post-entry-container clearfloat">
       {% if post.image %}
       <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img class="lazyload" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="300" height="200">
+        <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">
+          <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="300" height="200">
         </a>
       </div>
       {% endif %}
