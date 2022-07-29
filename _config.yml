@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+ title-img: "https://btth.netlify.app/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
@@ -50,7 +50,7 @@ avatar: "/img/avatar-icon.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
- page-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
