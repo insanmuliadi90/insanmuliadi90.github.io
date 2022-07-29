@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Selamat datang di BTTH Topic
+title: 'Selamat datang di BTTH Topic'
 date: '2021-11-11 10:11'
+image: 'https://myoctocat.com/assets/images/base-octocat.svg'
 excerpt: BTTH Topic merupakan situs khusus yang membahas tentang BTTH
 comments: false
 ---
