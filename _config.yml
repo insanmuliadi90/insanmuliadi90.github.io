@@ -120,9 +120,10 @@ highlighter: rouge
 paginate: 5
     # My Popular Repositories
 components:
-    side_bar_repo:
-        enabled: true
-        limit: 5
+  side_bar_repo:
+    enabled: true
+    limit: 5
+    
 kramdown:
   input: GFM
 
