@@ -6,7 +6,7 @@ excerpt: BTTH Topic merupakan situs khusus yang membahas tentang BTTH
 comments: false
 ---
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg | width=100)
 
 Halo selamat datang di situs Battle through The Heavens - BTTH Topic.
 
