@@ -147,7 +147,7 @@ body{font-family:arial,sans-serif;font-size: 15px;}
 
 .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1 {
   float: left;
-  width: 640px;
+  width: calc(100% - 340px);
 }
 .clearfloat:before,.clearfloat:after {
   content: '';
@@ -175,6 +175,9 @@ body{font-family:arial,sans-serif;font-size: 15px;}
      
 @media screen and (max-width:1000px){
 .row{width:95%}
+}
+ @media screen and (max-width:860px){
+  .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1,.sidebar-section{float:none;width:100%}
 }
   </style>
  
