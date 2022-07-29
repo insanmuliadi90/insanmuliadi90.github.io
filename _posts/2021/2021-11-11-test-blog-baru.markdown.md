@@ -3,6 +3,7 @@ layout: post
 title: Selamat datang di BTTH Topic
 date: '2021-11-11 10:11'
 excerpt: BTTH Topic merupakan situs khusus yang membahas tentang BTTH
+image: https://btth.netlify.app/images/finetune_alexnet/alexnet.png
 comments: false
 ---
 
