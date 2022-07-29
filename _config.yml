@@ -73,7 +73,7 @@ footer-links-active:
   email: true
   twitter: true
   github: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
 
