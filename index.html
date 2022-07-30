@@ -8,6 +8,13 @@ use-site-title: true
 <div class="posts-list clearfloat">
   {% for post in paginator.posts %}
   <article class="post-preview">
+      {% if post.image %}
+      <div class="post-image">
+        <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">
+          <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="320" height="213">
+        </a>
+      </div>
+      {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
@@ -23,13 +30,7 @@ use-site-title: true
     </p>
 
     <div class="post-entry-container clearfloat">
-      {% if post.image %}
-      <div class="post-image">
-        <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">
-          <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="320" height="213">
-        </a>
-      </div>
-      {% endif %}
+<!-- gambar -->
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
