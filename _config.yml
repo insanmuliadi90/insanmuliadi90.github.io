@@ -57,11 +57,11 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
+  name: btth guy
+  email: "sanis@my.id"
+  github: -
+  twitter: -
+  linkedin: -
   xing: yourname
   stackoverflow: yourlink
 
