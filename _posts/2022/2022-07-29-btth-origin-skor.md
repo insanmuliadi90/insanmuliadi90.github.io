@@ -11,5 +11,11 @@ comments: false
 
 Battle Through The Heavens: Origin aka BTTH: Origin telah selesai tayang beberapa waktu yang lalu.
 
-Wajar saja, toh hanya ada 3 episode.
+Wajar saja, toh hanya ada 3 episode. Berikut daftar episode BTTH: Origin
+
+- Episode 01
+- Episode 02
+- Episode 03
+
+
 
