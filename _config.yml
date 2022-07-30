@@ -69,10 +69,10 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: false
+  facebook: true
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: true
   xing: false
   stackoverflow: false
@@ -91,7 +91,7 @@ url-pretty: "btth.netlify.app"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+# disqus: "kratzertblog"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-96660715-1"
@@ -113,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Asia/Makassar"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
