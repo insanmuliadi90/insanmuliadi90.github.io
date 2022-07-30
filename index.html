@@ -10,7 +10,7 @@ use-site-title: true
   <article class="post-preview">
       {% if post.image %}
       <div class="post-image">
-        <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">
+        <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" style="background-image:url({{ post.image }})">
           <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="320" height="213">
         </a>
       </div>
