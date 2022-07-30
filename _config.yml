@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://cika.netlify.app/"
+url: "https://btth.netlify.app/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Cika
+title: BTTH Topic
 
 # Short description of your site
-description: Semua Tentang Cika
+description: BTTH | Battle Through The Heavens Topic
 
 # --- Navigation bar options --- #
 
@@ -57,8 +57,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
+  name: BTTH Topic
+  email: "sanis@my.id"
   github: kratzert
   twitter: fkratzert
   linkedin: frederik-kratzert-226a33148
@@ -83,7 +83,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -137,7 +137,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
