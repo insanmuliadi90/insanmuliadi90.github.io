@@ -19,6 +19,9 @@
   {% else %}
   <meta name="description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
   {% endif %}
+  {% if page.keywords %}
+  <meta name="keyword" content="{{ page.keywords }}">
+  {% endif %}
   
   <meta name="google-site-verification" content="t4yIG1Yi0wBDPrnlkVMkEoiGzdxcjIKjRvVTLcitPLY" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -216,7 +219,7 @@ margin-bottom: 10px;
 /* post */
 .post-preview {
 width:48%;float:left;
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 .post-preview:nth-of-type(odd){margin-right:4%;}
 .post-preview:nth-of-type(2n+1){clear:both}
