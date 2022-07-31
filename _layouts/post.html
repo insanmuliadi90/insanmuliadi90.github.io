@@ -38,12 +38,12 @@ layout: base
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
-          <span>[
+          <span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-]</span>
+</span>
           <!--
           {% if site.link-tags %}
           {% for tag in page.tags %}
