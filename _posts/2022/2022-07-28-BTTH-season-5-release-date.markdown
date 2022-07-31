@@ -2,6 +2,7 @@
 layout: post
 title: 'Jadwal rilis BTTH season 5'
 subtitle: Motion Magic langsung merilis 3 episode sekaligus
+description: ini deskripsi
 meta-description: BTTH season 5 resmi dirilis per tanggal 31 Juli 2022. Pihak Motion Magic langsung merilis 3 episode sekaligus
 date: '2022-07-28 10:29'
 image: '/images/btth_img/Battle-Through-The-Heavens-Origin-season-5%20(1).jpg'
