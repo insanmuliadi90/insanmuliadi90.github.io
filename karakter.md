@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tag: karakter"
 tag: karakter
 ---
