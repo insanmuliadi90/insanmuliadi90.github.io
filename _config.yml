@@ -114,9 +114,9 @@ title-separator: "-"
 # Related Post Setting
 # type by tag categories random
 # src https://www.jsware.io/jekyll-related-posts/about.html
-related_limit: 4
+related_limit: 2
 related_by: random
-elated_categories:
+related_categories:
 
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
