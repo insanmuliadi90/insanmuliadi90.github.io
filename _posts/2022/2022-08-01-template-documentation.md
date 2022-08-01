@@ -2,6 +2,7 @@
 layout: post
 title: Template documentation
 date: '2022-08-01 01:22'
+categories: blog
 image: >-
   https://adamtheautomator.com/wp-content/uploads/2020/09/Untitled-2020-09-21T155938.067.png
 ---
