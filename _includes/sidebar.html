@@ -14,7 +14,9 @@
   </div>
   <div clas="list-group">
   <h2>Kategori</h2>
-   {% include categorylist.html %}
+    {% if site.categories != "" %}
+      {% include categorylist.html %}
+    {% endif %}
   </div>
   <!--
   <h3 class="section-header">
