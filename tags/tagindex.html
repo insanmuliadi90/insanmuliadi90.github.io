@@ -12,6 +12,8 @@ sitemap: false
     {% comment %}
     <a href="{{site.url}}{{site.baseurl}}/tags/{{tag}}">{{site.data.tags[tag].name}}</a> ({{site.tags[tag].size}})
     {% commentend %}
+    <a href="{{site.url}}{{site.baseurl}}/tags/{{tag}}">{{site.data.tags[tag].name}}</a> ({{site.tags[tag].size}})
+    <a href="{{site.url}}{{site.baseurl}}/tags/{{tag}}">{{site.tags.name}}</a> ({{site.tags[tag].size}})
     <a href="/tags/{{ tagname }}"><span class="tagtxt">{{ tagname }}</span></a>
   </li>
   {% endfor %}
