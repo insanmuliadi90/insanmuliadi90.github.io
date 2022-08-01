@@ -14,7 +14,10 @@
   </div>
   <div clas="list-group">
   <h2>Kategori</h2>
-   {% include categorylist.html %} 
+   {% include categorylist.html %}
+    {% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
   </div>
   <!--
   <h3 class="section-header">
