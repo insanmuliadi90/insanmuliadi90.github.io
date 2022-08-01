@@ -9,7 +9,10 @@ sitemap: false
   {% for tag_item in tags %}
   {% assign tag = (tag_item | first) %}
   <li>
+    {% comment %}
     <a href="{{site.url}}{{site.baseurl}}/tags/{{tag}}">{{site.data.tags[tag].name}}</a> ({{site.tags[tag].size}})
+    {% commentend %}
+    <a href="/tags/{{ tagname }}"><span class="tagtxt">{{ tagname }}</span></a>
   </li>
   {% endfor %}
 </ul>
