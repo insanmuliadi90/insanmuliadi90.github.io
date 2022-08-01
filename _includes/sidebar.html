@@ -12,7 +12,7 @@
   <div class="list-group">
   {% include archive.html %}
   </div>
-  <div clas="list-group">
+  <div class="list-group">
   <h2>Kategori</h2>
     <!--{% if site.categories != "" %}
       {% include categorylist.html %}
@@ -22,10 +22,7 @@
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-
     <h3 class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></h3>
-    <a name="{{ category_name | slugize }}"></a>
-
   </div>
 {% endfor %}
 </div>
