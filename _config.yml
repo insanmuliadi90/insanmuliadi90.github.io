@@ -125,7 +125,7 @@ elated_categories:
 timezone: "Asia/Makassar"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 paginate: 10
 
 kramdown:
