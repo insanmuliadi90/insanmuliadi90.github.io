@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: "Category: donghua"
-tag: donghua
+categories: donghua
 ---
