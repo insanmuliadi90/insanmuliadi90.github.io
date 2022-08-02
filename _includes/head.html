@@ -197,14 +197,21 @@ h2,h3,h4{font-weight:bold}
     padding-bottom: 8px;
     border-bottom: 1px solid #ddd;
 }
-     .blog-tags nobr{font-size: 12px;font-family:sans-serif}
-     .tagtxt {
-    background: #e0f4f8;
-    padding: 3px 5px;
-    font-size: 12px;
-    border-radius: 2px;
-    color: #2C508B;
+.blog-tags nobr{font-size: 12px;font-family:sans-serif}
+.tagcloud {
+  display: flex;
+  align-items: center;
 }
+.tagcloud a {
+  display: block;
+  background: #e0f4f8;
+  padding: 6px 10px;
+  font-size: 12px;
+  border-radius: 2px;
+  color: #2C508B;
+  margin-right: 6px;
+}
+.tagcloud a:hover{background:#333;color:#fff}
 .post-heading h1 {
   font-size: 24px;
   font-weight: bold;
