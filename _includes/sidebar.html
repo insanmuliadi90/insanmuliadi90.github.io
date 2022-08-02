@@ -1,32 +1,19 @@
 
 <div class="sidebar-section">
   <div class="list-group">
-    <h2>Quick Links</h2>
-    <div class="sidebar-widget">
-    <ul>
-  {% for post in site.posts limit:5 %}
-      <li>
-    <a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
-      </li>
-  {% endfor %}
-      </ul>
-    </div>
-</div>
-  
+    {% include siderecent.html %}
+  </div> 
   <div class="list-group">
-  {% include tags.html %}
+    {% include tags.html %}
   </div>
   <div class="list-group">
-    
+    {% comment %}
+    -------------
     {% if site.categories != "" %}
       {% include categorylist.html %}
     {% endif %}
-
-      {% include categorylist.html %}
-    {% include sidecategory.html %}
-
-    
-    
+    -------------
+    {% endcomment %}
+    {% include sidecategory.html %}      
   </div>
-
 </div>
