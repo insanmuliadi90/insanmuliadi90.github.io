@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="row" id="archives">
+<!--<div class="row" id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -15,10 +15,9 @@ layout: default
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div>-->
 
-<ul class="posts-list">
-  
+<ul class="posts-list">  
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
@@ -29,6 +28,5 @@ layout: default
         <small>{{ post.date | date_to_string }}</small>
       </h3>
     </li>
-  {% endfor %}
-  
+  {% endfor %}  
 </ul>
