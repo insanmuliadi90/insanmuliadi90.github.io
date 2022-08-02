@@ -5,7 +5,7 @@ date: '2022-08-01 01:22'
 categories: blog
 excerpt: This is a static page built in jekyll and github and using a domain service on netlify.
 image: >-
-  https://adamtheautomator.com/wp-content/uploads/2020/09/Untitled-2020-09-21T155938.067.png
+  https://i0.wp.com/rifqimulyawan.com/wp-content/uploads/Gambar-Pengertian-Dari-Static-Web-Page-Apa-Itu-Website-Statis-Content-Dan-Generators-Cara-Kerja-Manfaat-Contoh-Serta-Perbedaannya-Dengan-Dynamic-Atau-Dinamis.jpg
 ---
 
 ## About
