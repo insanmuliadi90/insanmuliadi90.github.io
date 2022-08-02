@@ -1,4 +1,6 @@
 <h2>Label</h2>
+<div class="sidebar-widget">
+  <div class="tagcloud">
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -13,3 +15,5 @@
   {% endcomment %}
   <a href="/tags/{{ tagname }}"><span class="tagtxt">{{ tagname }}</span></a>
 {% endfor %}
+  </div>
+</div>
