@@ -1,1 +1,48 @@
 
+<div class="sidebar-section">
+  <div class="list-group">
+    <h2>Quick Links</h2>
+    <ul>
+  {% for post in site.posts limit:5 %}
+      <li>
+    <a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+      </li>
+  {% endfor %}
+      </ul>
+</div>
+  <div class="list-group">
+  {% include archive.html %}
+  </div>
+  <div class="list-group">
+  <h2>Kategori</h2>
+    <!--{% if site.categories != "" %}
+      {% include categorylist.html %}
+    {% endif %}-->
+    <div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <h3 class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></h3>
+  </div>
+{% endfor %}
+</div>
+  </div>
+  <!--
+  <h3 class="section-header">
+    Get Shiori
+  </h3>
+  <p><a href="https://github.com/ellekasai/shiori" target="_blank" class="btn btn-primary"><i class="fa fa-github fa-lg"></i> View on GitHub &rarr;</a></p>
+  <h3>
+    Author
+  </h3>
+  <p>
+    <div class="media">
+      <h4 class="media-heading">Elle Kasai</h4>
+      <div class="media-body">
+        <img src="https://avatars0.githubusercontent.com/u/2410692?v=2&s=100" alt="Elle Kasai" width="100" height="100">
+      </div>
+    </div>
+  </p>
+-->
+</div>
