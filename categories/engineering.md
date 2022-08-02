@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: "Category: engineering"
-categories: engineering
+permalink: /categories/engineering
 ---
