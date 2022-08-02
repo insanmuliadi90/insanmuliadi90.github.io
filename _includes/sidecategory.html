@@ -1,0 +1,23 @@
+<h2>Kategori</h2>
+<div class="sidebar-widget">
+{% for category in site.categories %}
+  <ul class="kategori-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <li class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></li>
+  </ul>
+{% endfor %}
+</div>
+
+{% comment %}
+-------------------------------
+<div class="sidebar-widget">
+{% for category in site.categories %}
+  <div class="kategori-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <h3 class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></h3>
+  </div>
+{% endfor %}
+</div>
+--------------------------------
+{% endcomment %}
