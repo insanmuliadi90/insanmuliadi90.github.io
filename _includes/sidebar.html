@@ -18,9 +18,9 @@
     <!--{% if site.categories != "" %}
       {% include categorylist.html %}
     {% endif %}-->
-    <div id="archives">
+    <div id="kategori">
 {% for category in site.categories %}
-  <div class="archive-group">
+  <div class="kategori-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <h3 class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></h3>
