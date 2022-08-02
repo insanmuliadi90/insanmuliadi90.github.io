@@ -1,15 +1,38 @@
----
----
 [
-  {% for post in site.posts %}
+  
     {
-
-      "title"    : "{{ post.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "categories" : "{{ post.categories }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}"
-
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "Svelte Shopping Cart",
+      "tags"     : "Svelte, Web-Design, JavaScript",
+      "url"      : "/svelte-ecommerce-shopping-cart/",
+      "date"     : "2021-02-13 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Why do I like Svelte",
+      "tags"     : "Svelte, Web-Design, JavaScript",
+      "url"      : "/why-svelte/",
+      "date"     : "2021-01-28 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "How I built a free ecommerce website - Crocodaily",
+      "tags"     : "Jekyll, Svelte, Opinion",
+      "url"      : "/free-static-ecommerce-website/",
+      "date"     : "2020-06-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Jekyll Data - How it helps designing better websites?",
+      "tags"     : "Jekyll",
+      "url"      : "/jekyll-data-tutorial/",
+      "date"     : "2019-10-19 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "CSS Grid Layout - Try It Now!",
+      "tags"     : "Web-Design",
+      "url"      : "/css-grid/",
+      "date"     : "2018-01-25 00:00:00 +0000"
+    } 
+  
 ]
