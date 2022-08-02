@@ -52,7 +52,7 @@ avatar: "/img/avatar-icon.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
-show_siderecent: true
+show_siderecent: false
 
 # --- Footer options --- #
 
