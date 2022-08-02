@@ -17,21 +17,16 @@
   {% include tags.html %}
   </div>
   <div class="list-group">
-  <h2>Kategori</h2>
     
     {% if site.categories != "" %}
       {% include categorylist.html %}
     {% endif %}
+
+      {% include categorylist.html %}
+    {% include sidecategory.html %}
+
     
-    <div class="sidebar-widget">
-{% for category in site.categories %}
-  <div class="kategori-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <h3 class="category-head"><a href="{{site.baseurl}}/categories/{{category_name|slugize}}">{{ category_name }}</a></h3>
-  </div>
-{% endfor %}
-</div>
+    
   </div>
 
 </div>
