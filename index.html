@@ -58,8 +58,8 @@ use-site-title: true
    </article>
   {% endfor %}
 </div>
-<!--{% include pagination.html %}-->
-<!--{% if paginator.total_pages > 1 %}
+{% include pagination.html %}
+{% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
@@ -72,4 +72,4 @@ use-site-title: true
   </li>
   {% endif %}
 </ul>
-{% endif %}-->
+{% endif %}
