@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
@@ -12,6 +13,7 @@ layout: default
     </article>
     {% endfor %}
   </div>
+{% endfor %}
 <!--<div class="row" id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
