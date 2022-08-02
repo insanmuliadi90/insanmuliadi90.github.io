@@ -2,6 +2,7 @@
 <div class="sidebar-section">
   <div class="list-group">
     <h2>Quick Links</h2>
+    <div class="sidebar-widget">
     <ul>
   {% for post in site.posts limit:5 %}
       <li>
@@ -9,16 +10,20 @@
       </li>
   {% endfor %}
       </ul>
+    </div>
 </div>
+  
   <div class="list-group">
   {% include tags.html %}
   </div>
   <div class="list-group">
   <h2>Kategori</h2>
-    <!--{% if site.categories != "" %}
+    
+    {% if site.categories != "" %}
       {% include categorylist.html %}
-    {% endif %}-->
-    <div id="kategori">
+    {% endif %}
+    
+    <div class="sidebar-widget">
 {% for category in site.categories %}
   <div class="kategori-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -28,21 +33,5 @@
 {% endfor %}
 </div>
   </div>
-  <!--
-  <h3 class="section-header">
-    Get Shiori
-  </h3>
-  <p><a href="https://github.com/ellekasai/shiori" target="_blank" class="btn btn-primary"><i class="fa fa-github fa-lg"></i> View on GitHub &rarr;</a></p>
-  <h3>
-    Author
-  </h3>
-  <p>
-    <div class="media">
-      <h4 class="media-heading">Elle Kasai</h4>
-      <div class="media-body">
-        <img src="https://avatars0.githubusercontent.com/u/2410692?v=2&s=100" alt="Elle Kasai" width="100" height="100">
-      </div>
-    </div>
-  </p>
--->
+
 </div>
