@@ -1,20 +1,16 @@
 ---
 layout: default
 ---
-
+<div class="post row">
+<h1>Tag: {{ page.categories }}</h1>
+<ul>
 {% for post in site.categories[page.categories] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
     {{ post.description }}
   </li>
 {% endfor %}
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>{% endfor %}
-    {% for post in site.categories.donghua %}
-    <article class="archive-item">
-      <h4><a class="www" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>{% endfor %}
+</ul>
+</div>
 
 
 
