@@ -14,6 +14,7 @@ sitemap: false
   {% endfor %}
 </ul>
 
+<ul>
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -23,8 +24,8 @@ sitemap: false
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  {% comment %}
-  <a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
-  {% endcomment %}
-  <a href="/tags/{{ tagname }}"><span class="tagtxt">{{ tagname }}</span></a>
+  <li>
+  <a href="/tags/{{ tagname }}"><span class="">{{ tagname }}</span></a>
+    </li>
 {% endfor %}
+</ul>
