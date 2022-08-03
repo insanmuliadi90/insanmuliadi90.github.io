@@ -17,7 +17,7 @@
   <a href="{{site.baseurl}}/categories/{{category|slugize}}"><span itemprop="name">{{category}}</span></a>
       <meta itemprop="position" content="{{ forloop.index = 1 | plus: 1 }}" />
     </li>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% unless forloop.last %}{% endunless %}
   {% endfor %}
   </ul>
 </div>
