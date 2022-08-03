@@ -44,6 +44,12 @@ Contoh list:
 	- Daftar
     - Styling
     - Publish
+    
+3. Cara membuat blog di Github
+	1. Mendaftar di Github
+    2. Membuat repository
+    3. Menggunakan username pada nama repository
+    4. Deploy
 
 Contoh Quote:
 
