@@ -1,5 +1,7 @@
-<h2>Kategori</h2>
+  {% assign show_siderecent = true %}
+  {% if site.show_siderecent %}
 <div class="sidebar-widget">
+<h2>Quick Links</h2>
   <ul class="kategori-group">
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}  
@@ -7,6 +9,8 @@
 {% endfor %}
     </ul>
 </div>
+</div>
+{% endif %}
 
 {% comment %}
 -------------------------------
