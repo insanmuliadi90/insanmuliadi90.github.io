@@ -1,8 +1,11 @@
 
 <div class="sidebar-section">
+  {% assign show_siderecent = true %}
+  {% if site.show_siderecent %}
   <div class="list-group">
     {% include siderecent.html %}
   </div>
+  {% endif %}
   <div class="list-group">
     {% comment %}
     -------------
