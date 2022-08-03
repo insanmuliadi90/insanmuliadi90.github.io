@@ -1,3 +1,20 @@
+{% if site.categories != "" %}
+<div class="breadcrumbs">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  <ul>
+  {% for category in categories %}
+    <li>
+  <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
+    </li>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
 {% comment %}
 ---
 <div id="breadcrumbs">
