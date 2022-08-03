@@ -4,7 +4,7 @@
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-{% if category in categories %}
+{% if categories in post.categories %}
 <nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
