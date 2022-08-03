@@ -52,6 +52,8 @@ avatar: "/img/avatar-icon.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
+show_siderecent: false
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
