@@ -1,4 +1,4 @@
-
+{% if site.categories != "" %}
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -21,7 +21,7 @@
   {% endfor %}
   </ul>
 </nav>
-
+{% endif %}
 
 {% comment %}
 ---
