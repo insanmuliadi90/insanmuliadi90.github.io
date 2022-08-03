@@ -3,6 +3,7 @@ layout: post
 title: Template documentation
 date: '2022-08-01 01:22'
 categories: blog
+crumbtitle: tutor
 excerpt: >-
   This is a static page built in jekyll and github and using a domain service on
   netlify.
