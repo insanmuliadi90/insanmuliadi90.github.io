@@ -1,6 +1,8 @@
-<h2>Label</h2>
+{% assign show_siderecent = true %}
+  {% if site.show_siderecent %}
 <div class="sidebar-widget">
-  <div class="tagcloud">
+<h2>Quick Links</h2>
+  <div class="widget-content tagcloud">
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -17,3 +19,4 @@
 {% endfor %}
   </div>
 </div>
+{% endif %}
