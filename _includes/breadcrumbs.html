@@ -1,11 +1,11 @@
 {% if site.categories != "" %}
-<div class="breadcrumbs">
+<div class="breadcrumbs-wrapper">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+  <ul class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
       <a itemprop="item" href="/">
         <span itemprop="name">Home</span>
