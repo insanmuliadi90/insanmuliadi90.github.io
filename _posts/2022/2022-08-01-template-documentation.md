@@ -20,8 +20,34 @@ In faucibus leo sed neque tempor suscipit. Nam ultricies mi quis viverra ultrici
 
 Nulla laoreet massa ut pharetra suscipit. Sed tellus tellus, pharetra in maximus sit amet, efficitur sit amet nunc. Aliquam quis felis lacinia, sollicitudin arcu nec, viverra ipsum. Nam euismod id metus et cursus. Donec aliquet mollis ligula. Aliquam a sollicitudin eros. 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vitae vehicula lacus, at tincidunt ante. Praesent non ipsum risus. Mauris nunc ex, suscipit a aliquam id, blandit ac quam. Donec varius aliquet mauris, in vulputate justo aliquet sit amet. 
-
 Morbi dolor lectus, rutrum sed elementum in, sagittis vel dolor. Vestibulum purus justo, auctor quis risus quis, volutpat dignissim quam. 
 
 ### This is h3 tag looks like
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vitae vehicula lacus, at tincidunt ante. Praesent non ipsum risus. Mauris nunc ex, suscipit a aliquam id, blandit ac quam. Donec varius aliquet mauris, in vulputate justo aliquet sit amet. 
+
+**This is bold text**
+
+Contoh list:
+
+1. Platform blogging
+   - Blogger
+   - Wordpress
+   - Static pahe generator
+     - Github
+     - dll
+     
+2. Cara membuat blog
+	- Daftar
+    - Styling
+    - Publish
+
+Contoh Quote:
+
+> Demikianlah perempuan, dia tidak lupa dengan kesalahan seseorang meskipun kecil. Tetapi dia lupa dengan kesalahannya sendiri meskipun begitu besarnya...
+
+[BTTH Topic](https://btth.netlify.app)
+
+### Contoh tag h2 ###
+
+Apa lagi ya?
