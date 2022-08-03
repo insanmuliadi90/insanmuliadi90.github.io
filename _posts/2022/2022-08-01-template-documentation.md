@@ -63,6 +63,6 @@ Apa lagi ya?
 
 Task List
 
-- [x] Task done
-- [ ] Still on progress
-- [ ] Done
+1. [x] Task done
+2. [ ] Still on progress
+3. [ ] Done
