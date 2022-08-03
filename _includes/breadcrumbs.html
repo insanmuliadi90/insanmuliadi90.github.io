@@ -1,4 +1,4 @@
-{% if site.categories != "" %}
+{% if site.categories == "" %}
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -6,7 +6,12 @@
   {% endif %}
 <nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
-
+    <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      <a itemprop="item" href="/">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1" />
+    </li>
   {% for category in categories %}
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
   <a href="{{site.baseurl}}/categories/{{category|slugize}}"><span itemprop="name">{{category}}</span></a>
