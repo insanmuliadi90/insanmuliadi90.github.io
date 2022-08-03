@@ -10,7 +10,7 @@ excerpt: >-
 image: >-
   https://i0.wp.com/rifqimulyawan.com/wp-content/uploads/Gambar-Pengertian-Dari-Static-Web-Page-Apa-Itu-Website-Statis-Content-Dan-Generators-Cara-Kerja-Manfaat-Contoh-Serta-Perbedaannya-Dengan-Dynamic-Atau-Dinamis.jpg
 published: true
-crumb: tutor
+crumb: tutorz
 ---
 
 ![alt](https://idwebhost.com/blog/wp-content/uploads/2016/02/web-statis.png)
