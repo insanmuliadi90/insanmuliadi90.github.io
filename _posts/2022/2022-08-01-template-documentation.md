@@ -3,9 +3,12 @@ layout: post
 title: Template documentation
 date: '2022-08-01 01:22'
 categories: blog
-excerpt: This is a static page built in jekyll and github and using a domain service on netlify.
+excerpt: >-
+  This is a static page built in jekyll and github and using a domain service on
+  netlify.
 image: >-
   https://i0.wp.com/rifqimulyawan.com/wp-content/uploads/Gambar-Pengertian-Dari-Static-Web-Page-Apa-Itu-Website-Statis-Content-Dan-Generators-Cara-Kerja-Manfaat-Contoh-Serta-Perbedaannya-Dengan-Dynamic-Atau-Dinamis.jpg
+published: true
 ---
 
 ![alt](https://idwebhost.com/blog/wp-content/uploads/2016/02/web-statis.png)
@@ -51,3 +54,9 @@ Contoh Quote:
 ### Contoh tag h2 ###
 
 Apa lagi ya?
+
+Task List
+
+- [x] Task done
+- [ ] Still on progress
+- [ ] Done
