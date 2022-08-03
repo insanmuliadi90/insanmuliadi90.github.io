@@ -53,6 +53,8 @@ avatar: "/img/avatar-icon.png"
 # page-img: "/img/bgimage.png"
 
 show_siderecent: true
+show_sidecategory: true
+show_sidetags: false
 
 # --- Footer options --- #
 
