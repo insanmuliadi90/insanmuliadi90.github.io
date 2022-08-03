@@ -4,7 +4,7 @@
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-{% if post.categories %}
+{% if categories %}
 <nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -13,7 +13,7 @@
       </a>
       <meta itemprop="position" content="1" />
     </li>
-    {% endif %}
+    
   {% for category in categories %}
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
   <a href="{{site.baseurl}}/categories/{{category|slugize}}"><span itemprop="name">{{category}}</span></a>
@@ -24,6 +24,8 @@
   </ul>
 </nav>
 {% endif %}
+{% endif %}
+
 {% comment %}
 ---
 <div id="breadcrumbs">
