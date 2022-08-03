@@ -1,5 +1,5 @@
 {% if site.categories != "" %}
-<div class="breadcrumbs-wrapper">
+<nav class="breadcrumbs-wrapper">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -20,7 +20,7 @@
   {% unless forloop.last %}{% endunless %}
   {% endfor %}
   </ul>
-</div>
+</nav>
 {% endif %}
 {% comment %}
 ---
