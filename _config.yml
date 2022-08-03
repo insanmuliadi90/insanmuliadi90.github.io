@@ -56,6 +56,11 @@ show_siderecent: true
 show_sidecategory: true
 show_sidetags: false
 
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
