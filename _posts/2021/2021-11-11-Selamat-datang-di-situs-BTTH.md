@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 'Selamat datang di BTTH Topic'
+title: Selamat datang di BTTH Topic
 date: '2021-11-11 10:11'
 image: 'https://myoctocat.com/assets/images/base-octocat.svg'
 tag: karakter
 excerpt: BTTH Topic merupakan situs khusus yang membahas tentang BTTH
 comments: false
+published: true
+categories:
+  - blog
+  - donghua
 ---
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg | width=100)
