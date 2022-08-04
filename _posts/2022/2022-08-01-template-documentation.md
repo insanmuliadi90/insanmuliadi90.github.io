@@ -13,7 +13,7 @@ published: true
 crumb: tutorz
 ---
 
-![alt](https://idwebhost.com/blog/wp-content/uploads/2016/02/web-statis.png)
+<img alt="alt"  src="https://idwebhost.com/blog/wp-content/uploads/2016/02/web-statis.png" width="2048" height="1024"/>
 
 ## About
 
