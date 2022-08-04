@@ -29,7 +29,7 @@ use-site-title: true
       Posted on {{ post.date | date: "%B %-d, %Y" }}
 	{% assign read_time = post.content | number_of_words | divided_by: 200 %}
 	{% if read_time > 0 %}
-	Read time: {{ read_time }}
+	Read time: {{ read_time }} Menit
 	{% endif %}
     </p>
 
