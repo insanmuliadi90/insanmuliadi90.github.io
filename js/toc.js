@@ -10,7 +10,7 @@ if (container) {
     container.setAttribute("role", "navigation");
     var toc = initTOC({
         selector: 'h2, h3, h4',
-        scope: '.post-body',
+        scope: '.blog-post',
         overwrite: false,
         prefix: 'toc'
     });
