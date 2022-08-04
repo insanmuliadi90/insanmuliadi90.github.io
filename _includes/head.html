@@ -448,7 +448,27 @@ footer .col-lg-8 {
   width: 100%;
   height: auto;
 }
-     
+
+/* Plugin */
+/* daftar isi */
+#daftar-isi{padding:15px;background:#f5f5f5;border:1px solid #ddd;border-radius:3px;margin-bottom:25px;display: inline-block;color:#333;font-size: 14px;}
+#daftar-isi:before,#daftar-isi:after{display:table;content:'';clear:both}
+#daftar-isi ol{margin:10px 0 0;position:relative;counter-reset:sec;display:none;color:inherit}
+#daftar-isi ol ol{counter-reset:sec1;margin-bottom: 8px;margin-top: 2px;}
+#daftar-isi ol ol ol{counter-reset:sec2}
+#daftar-isi ol ol ol ol{counter-reset:sec3}
+#daftar-isi ol li:before{content:counter(sec)'.';counter-increment:sec;margin-right:10px;color:inherit;background:0 0;box-shadow:none;font-size:inherit;min-width:24px;left:0;white-space:nowrap;position:absolute}
+#daftar-isi li{list-style:none;margin: 2px 0;position: relative;}
+#daftar-isi ol li li:before{content:counter(sec)'.'counter(sec1)'.';counter-increment:sec1}
+#daftar-isi ol li li li:before{content:counter(sec)'.'counter(sec2)'.';counter-increment:sec2}
+#daftar-isi ol li li li li:before{content:counter(sec)'.'counter(sec3)'.';counter-increment:sec3}
+#daftar-isi ol ol li{margin-left:20px;padding-left: 40px;}
+#daftar-isi ol li{margin-left:0;padding-left: 24px;}
+.daftar-isi{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="%23999" d="M13 6h-13v-4h13v4zm0 4h-13v4h13v-4zm0 8h-13v4h13v-4zm3-8l4 5.075 4-5.075h-8z"/></svg>');background-repeat:no-repeat;background-position-x:left;padding-left:24px;background-color:transparent;border:0;background-size:14px;font-size:15px;background-position-y:center;position:relative;cursor:pointer;font-family:Roboto,sans-serif;color:inherit;-webkit-tap-highlight-color:transparent;font-weight: bold;}
+#daftar-isi.expandit ol{display:block}
+.daftar-isi:after{content:'[tampilkan]';position:relative;padding-left:10px;color:#246FC8;font-weight: normal;}
+.expandit .daftar-isi:after{content:'[sembunyikan]'}
+ 
 {% include styling.css %}     
      
 @media screen and (max-width:1000px){
