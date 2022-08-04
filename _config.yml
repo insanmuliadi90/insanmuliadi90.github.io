@@ -54,7 +54,7 @@ avatar: "/img/avatar-icon.png"
 
 show_siderecent: true
 show_sidecategory: true
-show_sidetags: false
+show_sidetags: true
 
 breadcrumbs:
   root:
