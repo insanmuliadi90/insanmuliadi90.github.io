@@ -7,10 +7,13 @@ excerpt: >-
   your Python code without many code changes. This post will introduce the
   concept of Numba and compare the actual performance gain.
 comments: true
+published: true
 ---
 
 Recently I found myself watching through some of the videos from the [SciPy 2017 Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf), when I stumbled over the tutorial [Numba - Tell Those C++ Bullies to Get Lost](https://www.youtube.com/watch?v=1AwG0T4gaO0) by [Gil Forsyth](https://twitter.com/gilforsyth) and [Lorena Barba](https://twitter.com/LorenaABarba).
 Although I have to say I find the title a bit pathetic, I really liked what (and how!) they taught. Because I found myself immediately playing around with the library and getting incredible performance out of Python code, I thought I'll write some introductory article about the Numba library and maybe add a small series of more tutorial-like articles in the future.
+
+<div id="daftar-isi"></div>
 
 ## So what is Numba?
 
