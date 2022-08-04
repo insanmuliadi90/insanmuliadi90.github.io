@@ -11,6 +11,7 @@ published: true
 ---
 
 Recently I found myself watching through some of the videos from the [SciPy 2017 Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf), when I stumbled over the tutorial [Numba - Tell Those C++ Bullies to Get Lost](https://www.youtube.com/watch?v=1AwG0T4gaO0) by [Gil Forsyth](https://twitter.com/gilforsyth) and [Lorena Barba](https://twitter.com/LorenaABarba).
+
 Although I have to say I find the title a bit pathetic, I really liked what (and how!) they taught. Because I found myself immediately playing around with the library and getting incredible performance out of Python code, I thought I'll write some introductory article about the Numba library and maybe add a small series of more tutorial-like articles in the future.
 
 <div id="daftar-isi"></div>
@@ -25,7 +26,9 @@ Although I have to say I find the title a bit pathetic, I really liked what (and
   </div>
 </div>
 
-Numba was originally developed internally by Continuum Analytics, the same company who provides you with [Anaconda](https://www.anaconda.com/), but is now open source. The core application area are math-heavy and array-oriented functions, which are in native Python pretty slow. Just imagine writing a model in Python, that has to loop over a very large array, element by element, to perform some calculations, which can't be rewritten using vector operations. Pretty bad idea, huh? So "normally" these kind of functions are written in C/C++ or Fortran, compiled and afterwards used in Python as external library. With Numba, also these kind of functions can be written inside your normal Python module, and the speed difference is diminishing.
+Numba was originally developed internally by Continuum Analytics, the same company who provides you with [Anaconda](https://www.anaconda.com/), but is now open source. The core application area are math-heavy and array-oriented functions, which are in native Python pretty slow. Just imagine writing a model in Python, that has to loop over a very large array, element by element, to perform some calculations, which can't be rewritten using vector operations. 
+
+Pretty bad idea, huh? So "normally" these kind of functions are written in C/C++ or Fortran, compiled and afterwards used in Python as external library. With Numba, also these kind of functions can be written inside your normal Python module, and the speed difference is diminishing.
 
 ## How do I get it?
 
@@ -39,7 +42,10 @@ and this was for long the only way. But with the newest release, which is just a
 
 ## How can I use it?
 
-It doesn't require much. Basically you write your "normal" Python function, and then add a decorator to the function definition (If you aren't so familiar with decorators read [this](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/) or [that](https://realpython.com/blog/python/primer-on-python-decorators/) for an introduction). There exist different kind of decorators you can use, but the `@jit` might be the one of choice for the beginning. The other decorators can be used to e.g. create numpy universal functions `@vectorize` or write code that will be executed on a CUDA GPU `@cuda`. I won't cover these decorators in this article, but maybe in another. For now, let's just have a look on the basic steps.
+It doesn't require much. Basically you write your "normal" Python function, and then add a decorator to the function definition (If you aren't so familiar with decorators read [this](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/) or [that](https://realpython.com/blog/python/primer-on-python-decorators/) for an introduction). There exist different kind of decorators you can use, but the `@jit` might be the one of choice for the beginning. 
+
+The other decorators can be used to e.g. create numpy universal functions `@vectorize` or write code that will be executed on a CUDA GPU `@cuda`. I won't cover these decorators in this article, but maybe in another. For now, let's just have a look on the basic steps.
+
 The code example they provide is a summation function of a 2d-array (you probably would never calculate this way) but here is the code:
 
 ```python
