@@ -453,7 +453,9 @@ footer .col-lg-8 {
 /* daftar isi */
 #daftar-isi{padding:15px;background:#f5f5f5;border:1px solid #ddd;border-radius:3px;margin-bottom:25px;display: inline-block;color:#333;font-size: 14px;}
 #daftar-isi:before,#daftar-isi:after{display:table;content:'';clear:both}
-#daftar-isi ol{margin:10px 0 0;position:relative;counter-reset:sec;display:none;color:inherit}
+#daftar-isi ol{margin:10px 0 0;position:relative;counter-reset:sec;display:none;color:inherit;padding:0}
+#daftar-isi ol li li:after,#daftar-isi ol ol:before{position:absolute;content:''}
+#daftar-isi ol ol:before{height:calc(100% - 8px);left:0;top:0;border-left:1px solid rgba(0,0,0,.2)}#daftar-isi ol li li:after{left:-20px;width:15px;top:12px;height:1px;background:rgba(0,0,0,.2)}
 #daftar-isi ol ol{counter-reset:sec1;margin-bottom: 8px;margin-top: 2px;}
 #daftar-isi ol ol ol{counter-reset:sec2}
 #daftar-isi ol ol ol ol{counter-reset:sec3}
