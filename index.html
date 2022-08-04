@@ -27,6 +27,10 @@ use-site-title: true
 
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
+	{% assign read_time = page.content | number_of_words | divided_by: 200 %}
+	{% if read_time > 0 %}
+	Read time: {{ read_time }}
+	{% endif %}
     </p>
 
     <div class="post-entry-container clearfloat">
