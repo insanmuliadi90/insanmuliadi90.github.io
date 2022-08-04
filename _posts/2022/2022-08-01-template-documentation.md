@@ -15,7 +15,6 @@ crumb: tutorz
 
 <img alt="alt"  src="https://idwebhost.com/blog/wp-content/uploads/2016/02/web-statis.png" width="660" height="330"/>
 
-[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
 
 ## About
 
