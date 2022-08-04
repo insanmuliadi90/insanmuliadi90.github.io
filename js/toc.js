@@ -20,5 +20,4 @@ if (container) {
     let res = str.replace(/\d+\.\s/g,'');
     container.innerHTML = res;
 function exPandit(){var element=document.getElementById("daftar-isi");element.classList.toggle("expandit")}
-};
-function copyIT(){var copyText=document.getElementById("copyValue");navigator.clipboard.writeText(copyText.value).then(()=>{alert("Link Copied")}).catch(()=>{alert("Something Wrong")})}
+}
