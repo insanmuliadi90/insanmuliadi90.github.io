@@ -64,7 +64,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span> - <span class="readtime">	{% assign read_time = post.content | number_of_words | divided_by: 200 %}
+		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span> - <span class="readtime">	{% assign read_time = page.content | number_of_words | divided_by: 200 %}
 	{% if read_time > 0 %}
 	Read time: {{ read_time }} Min
 	{% endif %}</span>
