@@ -20,13 +20,17 @@ Although I have to say I find the title a bit pathetic, I really liked what (and
 
 [Numba](http://numba.pydata.org/) is a library that compiles Python code at runtime to native machine instructions without forcing you to dramatically change your normal Python code (later more on this). The translation/magic is been done using the [LLVM](https://en.wikipedia.org/wiki/LLVM) compiler, which is open sourced and has quite active dev community.
 
+### Origin
+
 <div class="fig figcenter fighighlight">
   <img src="/images/numba_intro/gcc_clang_authors.jpg">
   <div class="figcaption"><br>Active number of authors in the last 60 days. Graph by Nick Desaulniers from his <a href="http://nickdesaulniers.github.io/blog/2017/09/05/gcc-vs-llvm-q3-2017-commit-rates-and-active-developer-counts/">blog</a>. These might not be exact numbers, but show a good trend of the active dev community.<br>
   </div>
 </div>
 
-Numba was originally developed internally by Continuum Analytics, the same company who provides you with [Anaconda](https://www.anaconda.com/), but is now open source. The core application area are math-heavy and array-oriented functions, which are in native Python pretty slow. Just imagine writing a model in Python, that has to loop over a very large array, element by element, to perform some calculations, which can't be rewritten using vector operations. 
+Numba was originally developed internally by Continuum Analytics, the same company who provides you with [Anaconda](https://www.anaconda.com/), but is now open source. The core application area are math-heavy and array-oriented functions, which are in native Python pretty slow. Just imagine writing a model in Python, that has to loop over a very large array, element by element, to perform some calculations, which can't be rewritten using vector operations.
+
+### Expansion
 
 Pretty bad idea, huh? So "normally" these kind of functions are written in C/C++ or Fortran, compiled and afterwards used in Python as external library. With Numba, also these kind of functions can be written inside your normal Python module, and the speed difference is diminishing.
 
