@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Open Learning: "openlearning"
   Projects: "projects"
+  Search: "search.html"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
