@@ -5,6 +5,7 @@ date: '2017-02-24 10:11'
 categories: engineering
 excerpt: This blog post will guide you on how to finetune AlexNet with pure TensorFlow.
 comments: true
+published: false
 ---
 
 <div class="alert alert-info">
