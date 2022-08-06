@@ -9,7 +9,7 @@ excerpt: >-
   netlify.
 image: >-
   https://i0.wp.com/rifqimulyawan.com/wp-content/uploads/Gambar-Pengertian-Dari-Static-Web-Page-Apa-Itu-Website-Statis-Content-Dan-Generators-Cara-Kerja-Manfaat-Contoh-Serta-Perbedaannya-Dengan-Dynamic-Atau-Dinamis.jpg
-published: true
+published: false
 crumb: tutorz
 description: This is this template documentation
 ---
