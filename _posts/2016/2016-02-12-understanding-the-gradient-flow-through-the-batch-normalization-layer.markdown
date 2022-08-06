@@ -1,9 +1,12 @@
 ---
-layout: "post"
-title: "Understanding the backward pass through Batch Normalization Layer"
-date: "2016-02-12 13:54"
-excerpt: "An explanation of gradient flow through BatchNorm-Layer following the circuit representation learned in Standfords class CS231n."
+layout: post
+title: Understanding the backward pass through Batch Normalization Layer
+date: '2016-02-12 13:54'
+excerpt: >-
+  An explanation of gradient flow through BatchNorm-Layer following the circuit
+  representation learned in Standfords class CS231n.
 comments: true
+published: false
 ---
 
 At the moment there is a wonderful course running at Standford University, called [CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), held by Andrej Karpathy, Justin Johnson and Fei-Fei Li. Fortunately all the [course material](http://cs231n.stanford.edu/syllabus.html) is provided for free and all the lectures are recorded and uploaded on [Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). This class gives a wonderful intro to machine learning/deep learning coming along with programming assignments.
