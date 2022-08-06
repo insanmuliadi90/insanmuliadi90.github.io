@@ -28,6 +28,7 @@
   {% endif %}
   {% include gtm_head.html %}
 
+  <!--
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       {% include ext-css.html css=css %}
@@ -63,6 +64,7 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
+-->
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
@@ -134,7 +136,8 @@
   <!--{% if site.tags != "" %}
   {% include collecttags.html %}
   {% endif %}-->
-
+  
+  <link rel="shortcut icon" type="image/png" href="/favicon.svg">
 
    <style>
   
