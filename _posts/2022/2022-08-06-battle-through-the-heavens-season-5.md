@@ -3,8 +3,8 @@ layout: post
 title: Battle Through The Heavens Season 5
 date: '2022-08-06'
 image: /images/btth-s5-min.png
-decription:  Battle Through The Heavens Season 5 merupakan kelanjutan dari seri spesial sebelumnya BTTH: Three Year Agreement. Di Season ini Xio Yan menuju ke kaisaran Jia Nan dan bertemu Xun Er
-excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sejak akhir Juli lalu. Season ini merupakan seson prequel dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu Battle Through The Heaves: Three Year Agreement.
+decription:  Battle Through The Heavens Season 5 merupakan kelanjutan dari seri spesial sebelumnya BTTH Three Year Agreement. Di Season ini Xio Yan menuju ke kaisaran Jia Nan dan bertemu Xun Er
+excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sejak akhir Juli lalu. Season ini merupakan seson prequel dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu Battle Through The Heaves Three Year Agreement.
 ---
 **Battle Through The Heavens Season 5** aka **BTTH Season 5** telah dirilis sejak akhir Juli lalu. Season ini merupakan seson _prequel_ dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu **Battle Through The Heaves: Three Year Agreement**.
 
