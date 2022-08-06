@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Ranking kultivasi
 date: '2022-07-31'
 categories: donghua
@@ -11,4 +11,3 @@ image: >-
 Berikut ini ranking kekuatan kultivasi di BTTH
 
 # Ranking
-
