@@ -9,7 +9,7 @@ excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sej
 **Battle Through The Heavens Season 5** aka **BTTH Season 5** telah dirilis sejak akhir Juli lalu. Season ini merupakan seson _prequel_ dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu **Battle Through The Heaves: Three Year Agreement**.
 
 <figure>
-![Battle Through The Heavens Season 5]({{site.baseurl}}/img/Battle-Through-The-Heavens-Origin-season-5-min.jpg)
+<img src="/img/Battle-Through-The-Heavens-Origin-season-5-min.jpg" alt="Battle Through The Heavens Season 5" width="1024" height="640"/>
 <figcaption>Battle Through The Heavens Season 5, sumber: goinsan.com</figcaption>
 </figure>
 
