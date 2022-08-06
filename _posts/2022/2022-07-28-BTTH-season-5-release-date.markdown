@@ -14,7 +14,7 @@ keywords: BTTH realease date
 excerpt: >-
   An explanation of gradient flow through BatchNorm-Layer following the circuit
   representation learned in Standfords class CS231n.
-published: true
+published: false
 ---
 
 <img alt='btth' src="/images/btth_img/Battle-Through-The-Heavens-Origin-season-5%20(1).jpg" width="640" height="400"/>
