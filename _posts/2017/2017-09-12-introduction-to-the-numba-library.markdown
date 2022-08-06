@@ -7,7 +7,7 @@ excerpt: >-
   your Python code without many code changes. This post will introduce the
   concept of Numba and compare the actual performance gain.
 comments: true
-published: true
+published: false
 ---
 
 Recently I found myself watching through some of the videos from the [SciPy 2017 Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf), when I stumbled over the tutorial [Numba - Tell Those C++ Bullies to Get Lost](https://www.youtube.com/watch?v=1AwG0T4gaO0) by [Gil Forsyth](https://twitter.com/gilforsyth) and [Lorena Barba](https://twitter.com/LorenaABarba).
