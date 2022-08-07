@@ -24,7 +24,7 @@ description: BTTH | Battle Through The Heavens Topic
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Kategori: "/categories/"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
