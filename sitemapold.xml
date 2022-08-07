@@ -8,10 +8,8 @@ search: exclude
 
     {% for post in site.posts %}
     <url>
-        <loc>{{site.url}}{{post.url}}</loc>
+        <loc>btth.netlify.app{{post.url}}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
     </url>
     {% endfor %}
 
