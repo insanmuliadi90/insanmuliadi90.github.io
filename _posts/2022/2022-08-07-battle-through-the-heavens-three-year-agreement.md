@@ -33,7 +33,7 @@ Yanran yang mampu memadatkan armor Dou Qi membuat semua orang terkejut. Banyak y
 
 Namun yang membuat semua orang dan Yanran kaget adalah ternyata Xio Yan juga mampu memadatkan armor Dou Qi, Ia juga adalah seorang Dou Grandmaster layaknya Yanran.
 
-Puncaknya ketika masing-masing mulai mengeluarkan jurus andalan mereka. Yanran menginisiasi jurus dan Xio Yan mulai mengeluarkan api surgawi di tangannya.
+Puncaknya ketika masing-masing mulai mengeluarkan jurus andalan mereka. Yanran menginisiasi jurus pamungkasnya dan Xio Yan mulai mengeluarkan api surgawi di tangannya.
 
 Saat Xiao Yan mengeluarkan dua jenis api surgawi di tangannya, semua orang kaget karena menyadari bahwa Xiao Yan ternyata adalah Yan Xio, **pemuda paling berbakat di kekaisaran Jia Ma**.
 
@@ -41,3 +41,14 @@ Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembu
 
 ---
 
+Nalan Jie sangat terkejut dan tampak kecewa setelah mengetahui bahwa ternyata Xio Yan yang ditolak oleh cucunya ternyata adalah pemuda yang telah menyelamatkan hidupnya dari kematian.
+
+Yanran juga tidak kalah terkejutnya saat menyadari bahwa Xiao dan Yan Xiao ternyata adalah orang yang sama. Pasalnya Yanran menaruh hati kepada Yan Xiao.
+
+Masing-masing melepaskan jurus pamungkas mereka, namun, jurus "Pesona Angin Matahari Terbenam" milik Yanran tidak bisa menandingi jurus Xiao Yan "Teratai Api Kemarahan Budha" yang diperoleh dari pemadatan dua jenis api surgawi.
+
+Leadakan besar terjadi, Yanran terluka di udara. Xiao Yan mulai menggunakan sayap Dou Qi-nya dan terbang untuk menyerang Yanran. Hal itu membuat Yun Leng terkejut. Pasalnya seorang Dou Grandmaster tidak bisa memiliki sayap Dou Qi kecuali memiliki keterampilan petarung.
+
+Serangan terakhir pun dilakukan Xiao Yan untuk mengakhiri pertarungan. Nalan Yanran kalah telak dan mengakui kemenangan Xiao Yan.
+
+Ada banyak even seru yang terjadi di **Battle Through The Heavens: Three Year Agreemen**, akan admin post di artikel selanjutnya.
