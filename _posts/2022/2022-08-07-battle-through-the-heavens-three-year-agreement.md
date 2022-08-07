@@ -35,6 +35,7 @@ Gu Ye bahkan menawarkan pill sebagai kompensasi untuk pembatalan pernikahan. Xia
 
 ---
 
+
 Setibanya di alun-alun sekte Yun Lan, Xiao Yan ternyata sudah disambut dengan banyak orang, tidak hanya oleh murid sekte Yun Lan.
 
 Saat itu ketua sekte Yun Yun sedang tidak berada di tempat sehingga tetua Yun Leng mengambail alih. Ia mengundang para pesohor dari kekaisaran Jia Ma. Niatnya hanya untuk memamerkan kekuatan calon ketua sekte muda sekte Yun Lan.
@@ -56,6 +57,7 @@ Saat Xiao Yan mengeluarkan dua jenis api surgawi di tangannya, semua orang kaget
 Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembuh jiwa untuk gurunya Yao Lao mengikuti kompetisi alkemis dan menyembuhkan kakek Yanran, Nalan Jie yang sedang sekarat. Xio Yan menyembunyikan identotas aslinya dan menggunakan nama Yan Xiao.
 
 ---
+
 
 Nalan Jie sangat terkejut dan tampak kecewa setelah mengetahui bahwa ternyata Xio Yan yang ditolak oleh cucunya ternyata adalah pemuda yang telah menyelamatkan hidupnya dari kematian.
 
