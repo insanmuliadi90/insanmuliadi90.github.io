@@ -1,0 +1,43 @@
+---
+layout: post
+published: false
+title: 'Battle Through The Heavens: Three Year Agreement'
+---
+**Battle Through The Heavens: Three Year Agreement** merupakan season special dan kelanjutan dari season sebelumnya yaitu Battle Through The Heavens season 4.
+
+Di episode spesial in MC (_Main Character_) Xiao Yan datang menuju ke Sekte Yun Lan untuk memenuhi janji yang ia buat tiga tahun lalu untuk bertarung dengan Nalan Yanran.
+
+Sekedar _flashback_, tiga tahun sebelumnya Nalan Yanran ditemani oleh Gu Ye dan temannya Liu Ling datang ke kediaman keluarga Xiao.
+
+Niatnya tidak lain adalah untuk membatalkan pernikahan dengan Xiao Yan dengan memanfaatkan kekuatan sekte Yun Lan di belakangnya.
+
+Di jaman itu pembatalan pernikahan adalah hal yang sangat memalukan. Yanran sama sekali tidak memperdulikan hal tersebut. Ketidakinginannya berhubungan dengan Xiao Yan sangat besar karena tidak dianggap pantas untuknya.
+
+Xiao Yan sendiri hanyalah seorang remaja berusia 15 tahun yang bahkan tidak bisa menyimpan Dou Qi. Sedangkan Yanran adalah calon ketua muda sekte Yun Lan.
+
+Gu Ye bahkan menawarkan pill sebagai kompensasi untuk pembatalan pernikahan. Xiao Yan yang tersinggung menggambil tindakan, Ia membuat kontrak pembatalan pernikahan. Merekapun berjanji untuk bertarung tiga tahun kemudian.
+
+---
+
+Setibanya di alun-alun sekte Yun Lan, Xiao Yan ternyata sudah disambut dengan banyak orang, tidak hanya oleh murid sekte Yun Lan.
+
+Saat itu ketua sekte Yun Yun sedang tidak berada di tempat sehingga tetua Yun Leng mengambail alih. Ia mengundang para pesohor dari kekaisaran Jia Ma. Niatnya hanya untuk memamerkan kekuatan calon ketua sekte muda sekte Yun Lan.
+
+Di dalam arena Xio Yan menawarkan pertarungan hidup mati, Ia bahkan menginisiasi pertarungan sebelum Yun Leng selesai berbicara dan membuat Yun Leng jengkel.
+
+Dalam pertarungan Xiao Yan bebeberapa kali membuat orang terkejut. Ia yang dikenal sebagai sampah yang bahkan tidak bisa menyimpan Dou Qi ternyata sangat luar biasa. 
+
+Ia bahkan bisa mengimbangi kemampuan Nalan Yanran yang _notabene_ mendapatkan pelatihan spesial di sekte Yun Lan.
+
+Yanran yang mampu memadatkan armor Dou Qi membuat semua orang terkejut. Banyak yang tidak ada yang menyangka bahwa Yanran sudah mencapai Dou Grandmaster tingkat 2.
+
+Namun yang membuat semua orang dan Yanran kaget adalah ternyata Xio Yan juga mampu memadatkan armor Dou Qi, Ia juga adalah seorang Dou Grandmaster layaknya Yanran.
+
+Puncaknya ketika masing-masing mulai mengeluarkan jurus andalan mereka. Yanran menginisiasi jurus dan Xio Yan mulai mengeluarkan api surgawi di tangannya.
+
+Saat Xiao Yan mengeluarkan dua jenis api surgawi di tangannya, semua orang kaget karena menyadari bahwa Xiao Yan ternyata adalah Yan Xio, **pemuda paling berbakat di kekaisaran Jia Ma**.
+
+Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembuh jiwa untuk gurunya Yao Lao mengikuti kompetisi alkemis dan menyembuhkan kakek Yanran, Nalan Jie yang sedang sekarat. Xio Yan menyembunyikan identotas aslinya dan menggunakan nama Yan Xiao.
+
+---
+
