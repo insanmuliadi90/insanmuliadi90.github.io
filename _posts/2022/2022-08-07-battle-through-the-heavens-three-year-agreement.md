@@ -1,8 +1,16 @@
 ---
 layout: post
-published: false
 title: 'Battle Through The Heavens: Three Year Agreement'
+excerpt: Battle Through The Heavens Three Year Agreement merupakan sequel dari BTTH season 4. Bercerita tentang pertarungan Xio Yan dengan Nalan Yanran untuk memenuhi perjanjian 3 tahun
+description: Battle Through The Heavens Three Year Agreement merupakan sequel dari BTTH season 4. Bercerita tentang pertarungan Xio Yan dengan Nalan Yanran untuk memenuhi perjanjian 3 tahun
+image: /images/btth_img/btth-3-year-agreement-thumb.jpg
 ---
+
+<figure>
+  <img src="/images/btth_img/btth-3-year-agreement.jpg" width="1000" height="562"/>
+  <figcaption>Battle Through The Heavens: Three Year Agreement, sumber gambar: fandom.com</figcaption>
+<figure>
+
 **Battle Through The Heavens: Three Year Agreement** merupakan season special dan kelanjutan dari season sebelumnya yaitu Battle Through The Heavens season 4.
 
 Di episode spesial in MC (_Main Character_) Xiao Yan datang menuju ke Sekte Yun Lan untuk memenuhi janji yang ia buat tiga tahun lalu untuk bertarung dengan Nalan Yanran.
