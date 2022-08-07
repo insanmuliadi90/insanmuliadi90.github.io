@@ -35,6 +35,7 @@ Gu Ye bahkan menawarkan pill sebagai kompensasi untuk pembatalan pernikahan. Xia
 
 ---
 
+<br/>
 
 Setibanya di alun-alun sekte Yun Lan, Xiao Yan ternyata sudah disambut dengan banyak orang, tidak hanya oleh murid sekte Yun Lan.
 
@@ -58,6 +59,7 @@ Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembu
 
 ---
 
+<br/>
 
 Nalan Jie sangat terkejut dan tampak kecewa setelah mengetahui bahwa ternyata Xio Yan yang ditolak oleh cucunya ternyata adalah pemuda yang telah menyelamatkan hidupnya dari kematian.
 
