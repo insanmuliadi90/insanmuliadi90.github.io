@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'Battle Through The Heavens: Three Year Agreement'
+date: '2022-08-07 1:23'
 excerpt: >-
   Battle Through The Heavens Three Year Agreement merupakan sequel dari BTTH
   season 4. Bercerita tentang pertarungan Xio Yan dengan Nalan Yanran untuk
