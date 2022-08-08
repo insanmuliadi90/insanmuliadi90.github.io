@@ -14,7 +14,7 @@ excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sej
 </figure>
 
 
-Kesuksesan BTTH: Three Year Agreement ini membuat pecinta BTTH berharap besar dan hasil produksi dari studio Motion Magic akan sesuai dengan ekspektasi mereka.
+Kesuksesan [BTTH: Three Year Agreement](https://btth.netlify.app/battle-through-the-heavens-three-year-agreement) ini membuat pecinta BTTH berharap besar dan hasil produksi dari studio Motion Magic akan sesuai dengan ekspektasi mereka.
 
 Para fans memang memiliki ekspektasi yang besar dengan prequel ini, pasalnya BTTH: Three Year Agreement disajikan dengan sangat luar biasa.
 
