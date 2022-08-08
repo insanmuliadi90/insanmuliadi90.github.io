@@ -3,10 +3,18 @@ layout: post
 title: Battle Through The Heavens Season 5
 date: '2022-08-06'
 image: /images/btth-s5-min.png
-decription:  Battle Through The Heavens Season 5 merupakan kelanjutan dari seri spesial sebelumnya BTTH Three Year Agreement. Di Season ini Xio Yan menuju ke kaisaran Jia Nan dan bertemu Xun Er
-excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sejak akhir Juli lalu. Season ini merupakan seson prequel dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu Battle Through The Heaves Three Year Agreement.
+decription: >-
+  Battle Through The Heavens Season 5 merupakan kelanjutan dari seri spesial
+  sebelumnya BTTH Three Year Agreement. Di Season ini Xio Yan menuju ke kaisaran
+  Jia Nan dan bertemu Xun Er
+excerpt: >-
+  Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sejak
+  akhir Juli lalu. Season ini merupakan seson prequel dari 13 epsisode
+  sebelumnya yang rilis tahun 2021 lalu yaitu Battle Through The Heaves Three
+  Year Agreement.
+published: true
 ---
-**Battle Through The Heavens Season 5** aka **BTTH Season 5** telah dirilis sejak akhir Juli lalu. Season ini merupakan seson _prequel_ dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu **Battle Through The Heaves: Three Year Agreement**.
+**Battle Through The Heavens Season 5** aka **BTTH Season 5** telah dirilis sejak akhir Juli lalu. Season ini merupakan seson _sequel_ dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu **Battle Through The Heaves: Three Year Agreement**.
 
 <figure>
 <img src="/img/Battle-Through-The-Heavens-Origin-season-5-min.jpg" alt="Battle Through The Heavens Season 5" width="1024" height="640"/>
@@ -16,17 +24,17 @@ excerpt: Battle Through The Heavens Season 5 aka BTTH Season 5 telah dirilis sej
 
 Kesuksesan [BTTH: Three Year Agreement](https://btth.netlify.app/battle-through-the-heavens-three-year-agreement) ini membuat pecinta BTTH berharap besar dan hasil produksi dari studio Motion Magic akan sesuai dengan ekspektasi mereka.
 
-Para fans memang memiliki ekspektasi yang besar dengan prequel ini, pasalnya BTTH: Three Year Agreement disajikan dengan sangat luar biasa.
+Para fans memang memiliki ekspektasi yang besar dengan sequel ini, pasalnya BTTH: Three Year Agreement disajikan dengan sangat luar biasa.
 
-Pace, storyline, sera koreo pertarungan yang disajikan sangat luar biasa. dalam 13 episode sang pemeran utama **Xiao Yan** harus mengalami banyak even yang sangat menyakitkan. Di season ini juga MC (_Main Character_) mengakhiri latar petualangannya di daratan Jia Ma.
+_Pace_, _storyline_, serta koreo pertarungan yang disajikan sangat luar biasa. dalam 13 episode sang pemeran utama **Xiao Yan** harus mengalami banyak even yang sangat menyakitkan. Di season ini juga MC (_Main Character_) mengakhiri latar petualangannya di daratan Jia Ma.
 
 Di season 5 ini Xiao Yan akan memulai petualangannya di daratan lain yaitu kekaisaran Jia Naan, tempat dimana Xiao Xun Er atau yang nama aslinya **Gu Xun Er** berada.
 
-Namun sebelum menikmati season 5, para fans sebelumnya akan disuguhi oleh story singkat yang berjudul **Battle Through The Heavens: Origin**.
+Namun sebelum menikmati season 5, para fans sebelumnya akan disuguhi oleh _story_ singkat yang berjudul **Battle Through The Heavens: Origin**.
 
 ## Battle Through The Heavens: Origin
 
-**BTTH: Origin** merupakan versi remaku atau lebih tepatnya versi alternatif dari BTTH Season 1. Di versi alternatif ini pihak produksi menyajikan 3 episode saja.
+**BTTH: Origin** merupakan versi _remake_ atau lebih tepatnya versi alternatif dari BTTH Season 1. Di versi alternatif ini pihak produksi menyajikan 3 episode saja.
 
 Munculnya BTTH Origin mungkin untuk menjawab keinginan fans yang menginginkan adanya versi _remake_ untuk season pertama, atau mungkin sudah menjadi niat awal dari pihak rumah produksi untuk membuat serial BTTH menjadi lebih _sinkron_ seutuhnya.
 
@@ -34,11 +42,11 @@ Pasalnya BTTH Season 1 ini digarap oleh rumah produksi yang berbeda yaitu Shangh
 
 Baru di BTTH Special Shanghai Motion Magic mengambil alih. Imbasnya terjadi perubahan yang sangat serius mulai dari detail story line sampai ke desain karakternya yang menjadi jauh lebih baik.
 
-Di BTTH: Origin ini akan berupa flashback Xiao Yan saat masih berada di kota Wutan. Ada beberapa even penting yang disuguhkan di sini yaitu kematian Yao Chen (Yao Lao), **pembatalan pertunangan Xiao Yan dan Nalan Yanran**, pertemuan Xiao Yan dan Yao Lao serta kekuatan misterios Xiao Xun Er.
+Di BTTH: Origin ini akan berupa _flashback_ Xiao Yan saat masih berada di kota Wutan. Ada beberapa even penting yang disuguhkan di sini yaitu kematian Yao Chen (Yao Lao), **pembatalan pertunangan Xiao Yan dan Nalan Yanran**, pertemuan Xiao Yan dan Yao Lao serta kekuatan misterius Xiao Xun Er.
 
 ## Battle Through The Heavens Season 5
 
-BTTH Season 5 pun dirilis pada 31 Juli 2022 lalu. Kabarnya pihak studio langsung merilis 3 epside sekaligus. Si seasoin in Xiao Yan akan memulai petualangannya di tempat yang baru di mana Xun Er berada yaitu Jia Nan.
+BTTH Season 5 pun dirilis pada 31 Juli 2022 lalu. Kabarnya pihak studio langsung merilis 3 epside sekaligus. Si season in Xiao Yan akan memulai petualangannya di tempat yang baru di mana Xun Er berada yaitu Jia Nan.
 
 Di season ini juga akan ada banyak even yang terjadi, apalagi Xiao Yan yang sangat dekat Xun Er yang ternyata dari keluarga besar. Pasti akan ada banyak orang yang cemburu dan benci kepadanya.
 
@@ -69,4 +77,3 @@ Sebelum melarikan diri ke Kekaisaran Jia Nan Xio Yan memang menitip pesan kepada
 Scene ini kemungkinan menjadi penutup di season 5 dan kembalinya Xio Yan dan pertarungan pembalasan dendam kepada sekte Yun Lan akan dirangkum sebagai episode spesial.
 
 Yah itu hanya spekulasi admin, bisa saja kembalinya Xiao Yan ke kaisaran Jia Ma tetap disajikan di **Battle Through The Heavens Season 5** ini apalagi mengingat pada season ini terdapat 52 episode.
-
