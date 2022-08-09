@@ -49,13 +49,13 @@ Ia bahkan bisa mengimbangi kemampuan Nalan Yanran yang _notabene_ mendapatkan pe
 
 Yanran yang mampu memadatkan armor Dou Qi membuat semua orang terkejut. Banyak yang tidak ada yang menyangka bahwa Yanran sudah mencapai Dou Grandmaster tingkat 2.
 
-Namun yang membuat semua orang dan Yanran kaget adalah ternyata Xio Yan juga mampu memadatkan armor Dou Qi, Ia juga adalah seorang Dou Grandmaster layaknya Yanran.
+Namun yang membuat semua orang dan Yanran terkejut adalah ternyata Xio Yan juga mampu memadatkan armor Dou Qi, Ia juga adalah seorang Dou Grandmaster layaknya Yanran.
 
 Puncaknya ketika masing-masing mulai mengeluarkan jurus andalan mereka. Yanran menginisiasi jurus pamungkasnya dan Xio Yan mulai mengeluarkan api surgawi di tangannya.
 
-Saat Xiao Yan mengeluarkan dua jenis api surgawi di tangannya, semua orang kaget karena menyadari bahwa Xiao Yan ternyata adalah Yan Xio, **pemuda paling berbakat di kekaisaran Jia Ma**.
+Saat Xiao Yan mengeluarkan dua jenis api surgawi di tangannya, semua orang terkejut karena menyadari bahwa Xiao Yan ternyata adalah Yan Xio, **pemuda paling berbakat di kekaisaran Jia Ma**.
 
-Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembuh jiwa untuk gurunya Yao Lao mengikuti kompetisi alkemis dan menyembuhkan kakek Yanran, Nalan Jie yang sedang sekarat. Xio Yan menyembunyikan identotas aslinya dan menggunakan nama Yan Xiao.
+Mari kita _flashback_ ke season 4, saat itu Xiao Yan demi mencari resep penyembuh jiwa untuk gurunya Yao Lao mengikuti kompetisi alkemis dan menyembuhkan kakek Yanran, Nalan Jie yang sedang sekarat. Xio Yan menyembunyikan identitas aslinya dan menggunakan nama Yan Xiao.
 
 ---
 
