@@ -19,7 +19,7 @@ image: /images/btth_img/btth-3-year-agreement-thumb.jpg
   <figcaption>Battle Through The Heavens: Three Year Agreement, sumber gambar: fandom.com</figcaption>
 </figure>
 
-**Battle Through The Heavens: Three Year Agreement** merupakan season special dan kelanjutan dari season sebelumnya yaitu Battle Through The Heavens season 4.
+**Battle Through The Heavens: Three Year Agreement** merupakan episode _special_ dan kelanjutan dari season sebelumnya yaitu Battle Through The Heavens season 4.
 
 Di episode spesial in MC (_Main Character_) Xiao Yan datang menuju ke Sekte Yun Lan untuk memenuhi janji yang ia buat tiga tahun lalu untuk bertarung dengan Nalan Yanran.
 
