@@ -3,7 +3,7 @@ layout: post
 title: >-
   Satu-satunya hal yang salah di Battle Through The Heavens: Three Year
   Agreement
-date: 2022-08-11 02:51
+date: 2022-08-11
 image: /images/btth_img/xiaoyanthumb-min.png
 metadescription: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
 excerpt: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
