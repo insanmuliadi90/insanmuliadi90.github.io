@@ -4,10 +4,10 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ base.url }} {{ site.baseurl }}"
+    "@id": "{{ page.url }} {{ blog.url }}"
   },
-  "headline": "{{ page.title }}",
-  "description": "{{ page.metadescription }}",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.metadescription | escape }}",
   "datePublished": "{{ page.date | date: "%B %-d, %Y"  }}",
   "dateModified": "{{ page.date | date: "%B %-d, %Y"  }}",
   
