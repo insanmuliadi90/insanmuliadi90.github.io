@@ -1,0 +1,39 @@
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{base.url}}"
+  },
+  "headline": "{{ page.title }}",
+  "description": "{{ page.metadescription }}",
+  "datePublished": "{{ page.date | date: "%B %-d, %Y"  }}",
+  "dateModified": "{{ page.date | date: "%B %-d, %Y"  }}",
+  
+  "image": {
+    "@type": "ImageObject",
+    
+    "url": "{{ page.image }}",
+    "height": 630,
+    "width": 1200
+    
+  },
+  
+ "publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+      "width": 206,
+      "height": 60
+    }
+  },
+  "author": {
+    "@type": "Person",
+  	"url": "<!--Substitution is not a singleton for tag [post.author]-->",
+    "name": "San Pallawagau"
+  }
+}
+</script>
