@@ -4,7 +4,7 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ page.baseurl }}"
+    "@id": "{{ site.baseurl }}"
   },
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.metadescription | escape }}",
