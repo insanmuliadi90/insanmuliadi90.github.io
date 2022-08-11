@@ -4,7 +4,7 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ page.url }} {{ blog.url }}"
+    "@id": "{{ page.baseurl }}"
   },
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.metadescription | escape }}",
@@ -32,7 +32,7 @@
   },
   "author": {
     "@type": "Person",
-  	"url": "<!--Substitution is not a singleton for tag [post.author]-->",
+  	"url": "{{ page.baseurl }}",
     "name": "San Pallawagau"
   }
 }
