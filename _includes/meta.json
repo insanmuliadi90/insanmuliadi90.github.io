@@ -32,7 +32,7 @@
   },
   "author": {
     "@type": "Person",
-  	"url": "{{ page.baseurl }}",
+  	"url": "/",
     "name": "San Pallawagau"
   }
 }
