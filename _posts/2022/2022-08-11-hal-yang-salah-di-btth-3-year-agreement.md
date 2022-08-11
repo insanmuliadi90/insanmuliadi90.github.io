@@ -3,10 +3,15 @@ layout: post
 title: >-
   Satu-satunya hal yang salah di Battle Through The Heavens: Three Year
   Agreement
-date: 2022-08-11
+date: 'Thu Aug 11 2022 08:00:00 GMT+0800 (Central Indonesia Time)'
 image: /images/btth_img/xiaoyanthumb-min.png
-metadescription: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
-excerpt: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
+metadescription: >-
+  BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik
+  dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
+excerpt: >-
+  BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik
+  dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
+published: true
 ---
 
 ![Xiao Yan](/images/btth_img/xiaoyan-min.jpg)
@@ -15,7 +20,7 @@ excerpt: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri te
 
 Di akhir season 4 Xiao Yan tiba di alun-alun/arena pertarungan sekte Yun Lan (_Misty Cloud_) bersiap menantang Nalan Yanran sesuai janji yang mereka buat 3 tahun yang lalu.
 
-BTTH: Three Year Agreement merupakan yang terbaik dari semua seri BTTH. Di awal episode saja kita sudah disajikan pertarungan yang luar biasa antara Nalan Yanran.
+[BTTH: Three Year Agreement](https://btth.netlify.app/battle-through-the-heavens-three-year-agreement) merupakan yang terbaik dari semua seri BTTH. Di awal episode saja kita sudah disajikan pertarungan yang luar biasa antara Nalan Yanran.
 
 Selain itu muncul banyak momen lain yang sangat seru seperti saat Xiao tdak berhenti mengejutkan semua orang termasuk Nalan Yanran akan kekuatannya.
 
@@ -90,5 +95,3 @@ Namun dari segi logika tentu tidak ada yang salah sama sekali. Pasalnya Xiao Yan
 Hal yang mustahil bagi Xiao Yan untuk merenggut nayawa Yun Leng kecuali dengan satu serangan dahsyat yaitu ledakan Teratai Api Kemarahan Budha.
 
 Bagaimana menurut teman-teman?
-
-
