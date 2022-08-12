@@ -17,4 +17,17 @@ permalink: /karakter/
   <li><a href="/tags/{{ karakter_name }}"><code class="highligher-rouge"><nobr>{{ karakter_name }}</nobr></code>&nbsp;</a></li>
 {% endfor %}
   </ul>
+    <ul class="22332">
+{% for karakter in site.karakter %}
+  {% capture karakter_name %}{{ karakter }}{% endcapture %}
+  <li><a href="/tags/{{ karakter_name }}"><code class="highligher-rouge"><nobr>{{ karakter_name }}</nobr></code>&nbsp;</a></li>
+{% endfor %}
+  </ul>
+  
+    <ul class="4444">
+{% for karakter in site.karakter[page.karakter] %}
+  {% capture karakter_name %}{{ karakter }}{% endcapture %}
+  <li><a href="/tags/{{ karakter_name }}"><code class="highligher-rouge"><nobr>{{ karakter_name }}</nobr></code>&nbsp;</a></li>
+{% endfor %}
+  </ul>
 </div>
