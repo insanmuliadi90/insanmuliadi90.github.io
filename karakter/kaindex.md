@@ -4,9 +4,11 @@ permalink: /karakter/
 ---
 
 <div class="row test">
-{% for post in site.karakter %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
+<h1>Tag: {{ page.karakter }}</h1>
+<ul>
+{% for post in site.karakter[page.karakter] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+  </li>
 {% endfor %}
 </div>
