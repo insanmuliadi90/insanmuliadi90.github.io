@@ -1,5 +1,5 @@
 ---
-layout: karakter
+layout: post
 title: "Xiao Yan"
 karakter: xiao-yan
 ---
