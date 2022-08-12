@@ -12,9 +12,10 @@ permalink: /karakter/
 {% endfor %}
 </ul>
 <ul class="saaa">
+  {% for post in site.karakter %}
 {% capture kar_name %}{{ karakter | first }}{% endcapture %}
 {% for post in site.karakter[kar_name] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
-{% endfor %}
+{% endfor %}{% endfor %}
 </ul> 
 </div>
