@@ -18,4 +18,11 @@ permalink: /karakter/
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
 {% endfor %}{% endfor %}
 </ul> 
+  
+  <ul class="saaaaa">
+{% for post in site.karakter %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+{% endfor %}
+</ul> 
+  
 </div>
