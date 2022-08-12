@@ -3,7 +3,7 @@ layout: default
 permalink: /karakter/
 ---
 
-<div class="post row">
+<div class="post row kar-row">
 <h1>{{ page.karakter }}</h1>
 <ul>
 {% for post in site.karakter[page.karakter] %}
