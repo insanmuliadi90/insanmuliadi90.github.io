@@ -12,3 +12,19 @@ permalink: /karakter/
 {% endfor %}
 </ul> 
 </div>
+
+<div class="row" id="archives">
+{% for karakter in site.karakter %}
+  <div class="archive-group">
+    {% capture category_name %}{{ karakter | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.karakter[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
