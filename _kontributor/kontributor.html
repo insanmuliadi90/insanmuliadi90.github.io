@@ -7,7 +7,7 @@ permalink: /kontributor/
 <div class="row">
 <h1>{{ page.title }}</h1>
   <ul>
-{% for kontributor in site.kontributor %}
+{% for kontributor in site.kontributor[page.kontributor] %}
   <li>
     <a href="{{ kontributor.url }}">
       {{ kontributor.name }} - {{ kontributor.position }}
