@@ -79,3 +79,6 @@ Sebelum melarikan diri ke Kekaisaran Jia Nan Xio Yan memang menitip pesan kepada
 Scene ini kemungkinan menjadi penutup di season 5 dan kembalinya Xio Yan dan pertarungan pembalasan dendam kepada sekte Yun Lan akan dirangkum sebagai episode spesial.
 
 Yah itu hanya spekulasi admin, bisa saja kembalinya Xiao Yan ke kaisaran Jia Ma tetap disajikan di **Battle Through The Heavens Season 5** ini apalagi mengingat pada season ini terdapat 52 episode.
+
+
+<script src="/js/toc.js"></script>
