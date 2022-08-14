@@ -10,7 +10,7 @@ permalink: /kontributor/
 {% for kontributor in site.kontributor %}
   <li>
     <a href="{{ kontributor.url }}">
-      {{ kontributor.name }|{{ kontributor.position }}
+      {{ kontributor.name }}{{ kontributor.position }}
     </a>
 </li>
 {% endfor %}
