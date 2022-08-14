@@ -1,0 +1,19 @@
+---
+layout: default
+title: Karakter
+permalink: /karakter/
+---
+
+
+<div class="row">
+<h1>{{ page.title }}</h1>
+  <ul>
+{% for karakter in site.karakter %}
+  <li>
+    <a href="{{ karakter.url }}">
+      {{ karakter.title }}
+    </a>
+</li>
+{% endfor %}
+  </ul>
+</div>
