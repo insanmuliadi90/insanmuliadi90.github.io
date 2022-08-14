@@ -104,7 +104,7 @@ url-pretty: "btth.netlify.app"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: "kratzertblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+# ---- google_analytics: "UA-96660715-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -129,6 +129,8 @@ related_categories:
 
 collections:
   kontributor:
+    output: true
+  karakter:
     output: true
     
 # --- Don't need to touch anything below here (but you can if you want) --- #
