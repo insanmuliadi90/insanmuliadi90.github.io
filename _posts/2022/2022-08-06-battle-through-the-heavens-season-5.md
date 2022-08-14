@@ -32,6 +32,8 @@ Di season 5 ini Xiao Yan akan memulai petualangannya di daratan lain yaitu kekai
 
 Namun sebelum menikmati season 5, para fans sebelumnya akan disuguhi oleh _story_ singkat yang berjudul **Battle Through The Heavens: Origin**.
 
+<div id="daftar-isi"></div>
+
 ## Battle Through The Heavens: Origin
 
 **BTTH: Origin** merupakan versi _remake_ atau lebih tepatnya versi alternatif dari BTTH Season 1. Di versi alternatif ini pihak produksi menyajikan 3 episode saja.
