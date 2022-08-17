@@ -12,6 +12,7 @@ description: >-
   season 4. Bercerita tentang pertarungan Xio Yan dengan Nalan Yanran untuk
   memenuhi perjanjian 3 tahun
 image: /images/btth_img/btth-3-year-agreement-thumb.jpg
+category: blog
 ---
 
 <figure>
