@@ -13,6 +13,7 @@ excerpt: >-
   sebelumnya yang rilis tahun 2021 lalu yaitu Battle Through The Heaves Three
   Year Agreement.
 published: true
+category: blog
 ---
 **Battle Through The Heavens Season 5** aka **BTTH Season 5** telah dirilis sejak akhir Juli lalu. Season ini merupakan seson _sequel_ dari 13 epsisode sebelumnya yang rilis tahun 2021 lalu yaitu **Battle Through The Heaves: Three Year Agreement**.
 
