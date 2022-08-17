@@ -12,6 +12,7 @@ excerpt: >-
   BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik
   dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
 published: true
+category: blog
 ---
 
 <img alt="Xiao Yan" src="/images/btth_img/xiaoyan-min.jpg" width="1024" height="575"/>
