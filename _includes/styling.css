@@ -5,7 +5,7 @@
   width: 100%;
 }
 #results-container {
-  list-style: inside;
+  list-style: outside;margin-left:25px
 }
 #results-container li a {
   color: red;
