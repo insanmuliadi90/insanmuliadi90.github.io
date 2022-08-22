@@ -8,8 +8,11 @@ excerpt: >-
 description: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
   yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat
-image: /images/btth_img/xiaoyanvsyanranthumb-min.png
+image: /images/btth_img/xiaoyanvsyanranthumb-min.jpg
 ---
+
+<img alt="Xiao Yan VS Yanran" src="/images/btth_img/xiaoyanvsyanran-min.jpg" width="1000" height="562"/>
+
 Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat.
 
 Pertempuran dahsyat antara dua Dou Grandmaster ini tersaji dalam episode spesial Battle Through The Heavens: Three Year Agreement.
