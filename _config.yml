@@ -23,7 +23,7 @@ description: BTTH | Battle Through The Heavens Topic
 
 # List of links in the navigation bar
 navbar-links:
-  Karakter: "/karakter/"
+  Karakter: "https://btth.netlify.app/karakter/"
   Kategori: "https://btth.netlify.app/categories/"
 
 #  Resources:
