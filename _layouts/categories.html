@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: base
 ---
 <div class="post row">
-<h1>Tag: {{ page.categories }}</h1>
+<h1>Kategori: {{ page.categories }}</h1>
 <ul>
 {% for post in site.categories[page.categories] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})
+    {% comment %}<br>
     {{ post.description }}
+    {% endcomment %}
   </li>
 {% endfor %}
 </ul>
