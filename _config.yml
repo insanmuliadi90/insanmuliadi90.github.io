@@ -53,7 +53,7 @@ avatar: "/img/avatar-icon.png"
 # page-img: "/img/bgimage.png"
 
 show_siderecent: true
-show_sidecategory: false
+show_sidecategory: true
 show_sidetags: false
 
 breadcrumbs:
