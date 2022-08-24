@@ -11,7 +11,7 @@ metadescription: >-
 excerpt: >-
   BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik
   dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
-published: true
+published: false
 category: blog
 ---
 
