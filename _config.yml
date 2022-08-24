@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://btth.netlify.app"
+url: "https://edu.supnewz.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,17 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BTTH Topic
+title: SupNewz Pendidikan 
 
 # Short description of your site
-description: BTTH | Battle Through The Heavens Topic
+description: Situs berita pendidikan lomba loker soal jawaban pembahasan ksn sd smp sma ksm mi mts ma kn mipa sertifikasi gaji guru cpns
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Karakter: "https://btth.netlify.app/karakter/"
-  Kategori: "https://btth.netlify.app/categories/"
+  Karakter: "https://edu.supnewz.com/karakter/"
+  Kategori: "https://edu.supnewz.com/categories/"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
