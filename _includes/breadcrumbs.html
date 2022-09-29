@@ -3,9 +3,8 @@
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-<nav class="breadcrumbs-wrapper">
 {% unless page.categories == empty %}
-
+<nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
       <a itemprop="item" href="/">
@@ -21,8 +20,8 @@
   {% unless forloop.last %}{% endunless %}
   {% endfor %}
   </ul>
-{% endunless %}
 </nav>
+{% endunless %}
 {% comment %}
 ---
 <div id="breadcrumbs">
