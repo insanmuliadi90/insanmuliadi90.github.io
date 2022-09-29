@@ -1,16 +1,19 @@
 ---
 layout: base
 ---
-
+<header class="topheader">
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom postpage">
 {% include nav.html %}
 </nav>
 {% include breadcrumbs.html %}
-{% include header.html type="post" %}
+</header>
+
 <div class="container">
   <div class="row clearfloat">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
+      {% include header.html type="post" %}
+      
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
