@@ -45,11 +45,11 @@
   <span class='img-desc'></span>
 </div>
 {% endif %}
+
 <div class="intro-header no-img">
   <div class="container">
-    <div class="row clearfloat">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="{{ include.type }}-heading">
+        <div class="{{ include.type }}-heading clearfloat">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
@@ -62,17 +62,13 @@
 		  
 		  {% if include.type == "post" %}
           <div class="post-meta"><span class="postdate">Terbit pada {{ page.date | date: "%B %-d, %Y" }}</span>	{% assign read_time = page.content | number_of_words | divided_by: 200 %}
-	{% if read_time > 0 %}
-             - <span class="readtime">
-	Lama baca: {{ read_time }} Menit
-            </span>
+	{% if read_time > 0 %} - <span class="readtime">Lama baca: {{ read_time }} Menit</span>
 	{% endif %}
           </div>
 		  {% endif %}
         </div>
       </div>
-    </div>
-  </div>
+   </div>
 </div>
 </header>
 
