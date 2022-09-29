@@ -3,7 +3,7 @@ layout: post
 title: Download GRATIS Kumpulan Soal Seleksi PPPK Guru 2021 PDF + Jawaban LENGKAP!!
 date: 2022-09-29
 categories: PPPK
-excerpt: Dibawah ini adalah download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci jawaban dan pembahasan
+excerpt: Download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci jawaban dan pembahasan
 ---
 
 Dibawah ini adalah download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci jawaban dan pembahasan. Soal-soal ujian PPPK 2021 ini terdiri atas soal tes kompetensi teknis, soal tes bakat skolastik, soal tes kemampuan manajerial, soal tes sosio kultural, dan pertanyaan wawancara. Seleksi ini terbuka untuk guru honorer k2 maupun guru honorer non-k2.
@@ -73,17 +73,17 @@ Anda bisa mengunduhnya melalui link berikut:
 <tbody>
   <tr>
     <td class="tg-jv5h">1.</td>
-    <td class="tg-7d57"><a href="http://web.archive.org/web/20211202061459mp_/https://www.tomatalikuang.com/search?q=Soal+dan+Kunci+Jawaban+PPPK+%2F+P3K+Guru+Tahun+2021+Paket+1+PDF">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 1 PDF</a></td>
+    <td class="tg-7d57">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 1 PDF</td>
     <td class="tg-p3dk"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=1--Wrh3T091kiud0oAMBiyHkneMg-Jxl9&amp;export=download">unduh</a></td>
   </tr>
   <tr>
     <td class="tg-za14">2.</td>
-    <td class="tg-0pky"><a href="http://web.archive.org/web/20211202061459mp_/https://www.tomatalikuang.com/search?q=Soal+dan+Kunci+Jawaban+PPPK+%2F+P3K+Guru+Tahun+2021+Paket+2+PDF">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 2 PDF</a></td>
+    <td class="tg-0pky">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 2 PDF</td>
     <td class="tg-hq1h"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=1NsF-4wtwTUjgJMlKl2qcs8AdR54C-jB4&amp;export=download">unduh</a></td>
   </tr>
   <tr>
     <td class="tg-jv5h">3.</td>
-    <td class="tg-7d57"><a href="http://web.archive.org/web/20211202061459mp_/https://www.tomatalikuang.com/search?q=Soal+dan+Kunci+Jawaban+PPPK+%2F+P3K+Guru+Tahun+2021+Paket+3+PDF">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 3 PDF</a></td>
+    <td class="tg-7d57">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 3 PDF</td>
     <td class="tg-p3dk"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=19DBs5NG735BdIu0HSqD_xkszDabNmci0&amp;export=download">unduh</a></td>
   </tr>
 </tbody>
