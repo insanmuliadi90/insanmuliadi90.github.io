@@ -5,7 +5,9 @@ layout: base
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom postpage">
 {% include nav.html %}
 </nav>
+  {% if page.categories %}
 {% include breadcrumbs.html %}
+  {% endif %}
 </header>
 
 <div class="container">
