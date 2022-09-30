@@ -25,6 +25,10 @@ description: Situs berita pendidikan lomba loker soal jawaban pembahasan ksn sd 
 navbar-links:
   Karakter: "https://edu.supnewz.com/karakter/"
   Kategori: "https://edu.supnewz.com/categories/"
+  Info Lomba: "https://edu.supnewz.com"
+  Pengumuman: "https://edu.supnewz.com"
+  PPPTK: "https://edu.supnewz.com"
+  CPNS: "https://edu.supnewz.com"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
