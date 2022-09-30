@@ -180,7 +180,6 @@ h2,h3,h4{font-weight:bold}
 .avatar-container{width:100px;height:100px;overflow:hidden;display:flex;order:1;margin-right:20px}
 .avatar-img-border img{width:100%;height:auto;display:block}
 .avatar-img-border a{display:block}
-.navbar-toggle{display:none}
 .navbar-header{display:flex;order:2}
 .nav.navbar-nav.navbar-right{display:flex;align-items:center}
 .nav.navbar-nav.navbar-right li{margin-left:15px;position:relative}
@@ -199,7 +198,7 @@ h2,h3,h4{font-weight:bold}
   display: block;
   padding: 10px;
 }
-     .navlinks-parent:after {
+  .navlinks-parent:after {
   content: '▼';
   font-size: 12px;
   margin-left: 5px;
@@ -220,6 +219,7 @@ height: 22px;
   height: 22px;
   fill: #333;
 }    
+.navbar-toggle{display:none;order:4;margin-left:20px}
 .page-heading h1{font-size:22px;font-weight:700;color:#844152;background:linear-gradient(to right,#f85d96 0,#f7c063 100%);background-clip:border-box;-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-shadow:1px 1px .5px rgba(0,0,0,.1)}
 .page-subheading{font-size:12px;color:#397B93}
 .small{display:none;border-top:2px solid #f0628c;color:#f0628c}
@@ -612,6 +612,8 @@ table th, table td {
      
 @media screen and (max-width:1000px){
 .container-fluid,.row{width:95%}
+  #main-navbar{display:none}
+  .navbar-toggle{display:flex}
 }
 @media screen and (max-width:860px){
    .container-fluid,.row{width:93%}
