@@ -32,6 +32,9 @@ navbar-links:
   Pengumuman: "https://edu.supnewz.com"
   PPPTK: "https://edu.supnewz.com"
   CPNS: "https://edu.supnewz.com"
+  Mapel:
+    - MTK: "https://edu.supnewz.com"
+    - PKN: "https://edu.supnewz.com"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
