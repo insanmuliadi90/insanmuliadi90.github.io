@@ -630,6 +630,24 @@ table th, table td {
   #main-navbar{display:none}
   .navbar-toggle{display:flex}
   .searchbtn{margin-left:auto}
+  #main-navbar.show {
+  display: block;
+  position: fixed;
+  width: 50%;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: #fde68a;
+  z-index: 9;
+  border-right: 1px solid #e7d074;
+}
+.nav.navbar-nav.navbar-right {
+  display: block;
+  padding: 20px;
+}
+.nav.navbar-nav.navbar-right li {
+  margin: 0 0 10px;
+}
 }
 @media screen and (max-width:860px){
    .container-fluid,.row{width:93%}
