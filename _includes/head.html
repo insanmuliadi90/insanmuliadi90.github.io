@@ -627,11 +627,7 @@ table th, table td {
      
 @media screen and (max-width:1000px){
 .container-fluid,.row{width:95%}
-  #main-navbar{display:none}
-  .navbar-toggle{display:flex}
-  .searchbtn{margin-left:auto}
-  #main-navbar.show {
-  display: block;
+  #main-navbar{display:none;
   position: fixed;
   width: 50%;
   top: 0;
@@ -639,7 +635,11 @@ table th, table td {
   height: 100%;
   background: #fde68a;
   z-index: 9;
-  border-right: 1px solid #e7d074;
+  border-right: 1px solid #e7d074;}
+  .navbar-toggle{display:flex}
+  .searchbtn{margin-left:auto}
+  #main-navbar.show {
+  display: block;
 }
 .nav.navbar-nav.navbar-right {
   display: block;
