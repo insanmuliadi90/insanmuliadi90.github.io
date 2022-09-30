@@ -74,17 +74,17 @@ Anda bisa mengunduhnya melalui link berikut:
   <tr>
     <td class="tg-jv5h">1.</td>
     <td class="tg-7d57">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 1 PDF</td>
-    <td class="tg-p3dk"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=1--Wrh3T091kiud0oAMBiyHkneMg-Jxl9&amp;export=download">unduh</a></td>
+    <td class="tg-p3dk"><a href="https://drive.google.com/u/0/uc?id=1--Wrh3T091kiud0oAMBiyHkneMg-Jxl9&amp;export=download">unduh</a></td>
   </tr>
   <tr>
     <td class="tg-za14">2.</td>
     <td class="tg-0pky">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 2 PDF</td>
-    <td class="tg-hq1h"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=1NsF-4wtwTUjgJMlKl2qcs8AdR54C-jB4&amp;export=download">unduh</a></td>
+    <td class="tg-hq1h"><a href="https://drive.google.com/u/0/uc?id=1NsF-4wtwTUjgJMlKl2qcs8AdR54C-jB4&amp;export=download">unduh</a></td>
   </tr>
   <tr>
     <td class="tg-jv5h">3.</td>
     <td class="tg-7d57">Soal dan Kunci Jawaban PPPK / P3K Guru Tahun 2021 Paket 3 PDF</td>
-    <td class="tg-p3dk"><a href="http://web.archive.org/web/20211202061459mp_/https://drive.google.com/u/0/uc?id=19DBs5NG735BdIu0HSqD_xkszDabNmci0&amp;export=download">unduh</a></td>
+    <td class="tg-p3dk"><a href="https://drive.google.com/u/0/uc?id=19DBs5NG735BdIu0HSqD_xkszDabNmci0&amp;export=download">unduh</a></td>
   </tr>
 </tbody>
 </table>
