@@ -33,3 +33,22 @@
 
 {% include lazyload.html %}
 {% include google_analytics.html %}
+<script>
+//<![CDATA[
+function showMenu() {
+    document.getElementById("main-navbar").classList.toggle("show");
+}
+window.onclick = function(event) {
+    if (!event.target.closest('.navbar-toggle') && !event.target.closest('#main-navbar')) {
+        var dropdowns = document.getElementsByClassName("navbar-collapse");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
+        }
+    }
+}
+//]]>
+</script>
