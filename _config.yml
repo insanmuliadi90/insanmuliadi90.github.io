@@ -25,7 +25,7 @@ description: Situs berita pendidikan lomba loker soal jawaban pembahasan ksn sd 
 navbar-links:
   Karakter: "https://edu.supnewz.com/karakter/"
   Kategori: "https://edu.supnewz.com/categories/"
-  Info Lomba: 
+  Info Lomba: "https://edu.supnewz.com/categories/"
     - SD: "https://edu.supnewz.com"
     - SMP: "https://edu.supnewz.com"
     - SMA: "https://edu.supnewz.com"
