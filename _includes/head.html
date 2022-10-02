@@ -187,7 +187,7 @@ h2,h3,h4{font-weight:bold}
      
 .navlinks-children {
   display: block;
-  background: #aaa;
+  background: #f3dc80;
   position: absolute;
   left: 0;
   top: 20px;min-width:100%;
@@ -195,15 +195,25 @@ h2,h3,h4{font-weight:bold}
   visibility: hidden;
   z-index:9
 }
-.navlinks-parent:hover ~ .navlinks-children{opacity:1;visibility:visible}
+.navlinks-container:hover .navlinks-children{opacity:1;visibility:visible}
 .navlinks-children a {
-  display: block;
-  padding: 10px;
+    display: block;
+    padding: 10px;
+    border-top: 1px solid #fde68a;
 }
-  .navlinks-parent:after {
+.navlinks-parent:after {
   content: '▼';
   font-size: 12px;
   margin-left: 5px;
+}
+.navlinks-children::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -20px;
+    height: 20px;
+    width: 100%;
 }
 .header-section{display:block}
 .searchbtn {
