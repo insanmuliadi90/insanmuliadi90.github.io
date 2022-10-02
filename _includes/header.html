@@ -2,9 +2,7 @@
 
 {% if page.bigimg or page.title %}
 
-<header class="header-section {% if page.bigimg %}has-img{% endif %}">
-<div class="intro-header no-img">
-        <div class="{{ include.type }}-heading">
+<header class="header-section {% if page.bigimg %}has-img{% endif %} {{ include.type }}-heading">
          	{% if include.type == "page" %}
 		<div class="row">
 		<h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
@@ -24,10 +22,7 @@
 	{% endif %}
           </div>
 		  {% endif %}
-        </div>
-</div>
 </header>
-
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
