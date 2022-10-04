@@ -10,7 +10,7 @@ Dibawah ini adalah download pdf kumpulan contoh dan latihan soal seleksi pegawai
 download soal kunci jawaban pembahasan pppk p3k guru honorer tahun 2021 pdf tomatalikuang.com
 Kumpulan Soal Seleksi PPPK Guru Tahun 2021
 
-Kumpulan Soal dan Kunci Jawaban Seleksi PPPK Guru Tahun 2021
+## Kumpulan Soal dan Kunci Jawaban Seleksi PPPK Guru Tahun 2021
 
 PPPK 2021 | Pada kesempatan kali ini tomatalikuang.com akan membagikan ratusan latihan soal, contoh soal, kunci jawaban, dan pembahasan dari ujian tes seleksi pppk guru tahun 2021, yang bisa bisa dijadikan sebagai referensi untuk persiapan seleksi pppk guru tahun 2021.
 Guru Tak Lagi PNS dan Pemerintah Buka Penerimaan 1 Juta Guru di Tahun 2021
@@ -20,7 +20,7 @@ Jadwal Penerimaan CPNS Tahun 2021
 
 Berdasarkan Materi Paparan Diskusi Kemendikbud dengan Pemerintah Daerah Tentang Seleksi PPPK Guru Tahun 2021 diinformasikan bahwa rencana pelaksanaan jadwal ujian tes seleksi pppk guru tahun 2021 adalah sebagai berikut:
 
-Rencana pelaksanaan:
+### Rencana pelaksanaan:
 - Januari: pendaftaran
 - Februari: materi pembelajaran dapat diakses
 - Mei: ujian seleksi untuk guru TK, SD, SMP, SLB
