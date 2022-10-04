@@ -8,7 +8,7 @@ search: exclude
 
     {% for post in site.posts %}
     <url>
-        <loc>https://btth.netlify.app{{post.url}}</loc>
+        <loc>{{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
     </url>
     {% endfor %}
