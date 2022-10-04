@@ -5,14 +5,12 @@ search: exclude
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' %}
-  {% for page in pages %}
+  
+  {% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != "404.html"' %}
+  {% for file in static_files %}
     <url>
-      <loc>{{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
-      {% if page.last_modified_at %}
-        <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
-      {% endif %}
+      <loc>{{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
+      <lastmod>{{ file.modified_time | date_to_xmlschema }}</lastmod>
     </url>
   {% endfor %}
 
