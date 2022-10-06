@@ -103,6 +103,7 @@ share-links-active:
   twitter: true
   facebook: true
   whatsapp: true
+  telegram: true
   linkedin: false
 
 # How to display the link to the website in the footer
