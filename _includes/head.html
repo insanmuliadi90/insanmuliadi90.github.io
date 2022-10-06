@@ -4,7 +4,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="author" content="{{ site.author.name }}" />
-
   <!--
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}"/>
@@ -163,20 +162,9 @@ h2,h3,h4{font-weight:bold}
 .topheader{margin-bottom:20px}
 .navbar.navbar-default.navbar-fixed-top.navbar-custom {background:#fde68a;/*background: linear-gradient(to right, #f85d96 0%, #f7c063 100%)*/}
 .navbar a{color:#333}
-.navbar-brand {
-  font-weight: bold;
-}
-.navbar-brand.navbar-brand-logo svg {
-  width: 24px;
-  height: 24px;
-  display: block;
-  margin-right: 10px;
-}
-.navbar-brand.navbar-brand-logo {
-  display: flex;
-  position: relative;
-  align-items: center;
-}
+.navbar-brand{font-weight:700}
+     .navbar-brand.navbar-brand-logo svg{width:24px;height:24px;display:block;margin-right:10px}
+     .navbar-brand.navbar-brand-logo{display:flex;position:relative;align-items:center}
 .container-fluid{max-width:1000px;margin:0 auto;display:flex;align-items:center;padding: 15px 0;}
 #main-navbar{display:flex;margin-left:auto;order:3}
 .avatar-container{width:100px;height:100px;overflow:hidden;display:flex;order:1;margin-right:20px}
@@ -184,38 +172,12 @@ h2,h3,h4{font-weight:bold}
 .avatar-img-border a{display:block}
 .navbar-header{display:flex;order:2}
 .nav.navbar-nav.navbar-right{display:flex;align-items:center}
-.nav.navbar-nav.navbar-right li{margin-left:15px;position:relative}
-     
-.navlinks-children {
-  display: block;
-  background: #f3dc80;
-  position: absolute;
-  left: 0;
-  top:30px;min-width:100%;
-  opacity: 0;
-  visibility: hidden;
-  z-index:9
-}
-.navlinks-container:hover .navlinks-children{opacity:1;visibility:visible}
-.navlinks-children a {
-    display: block;
-    padding: 10px;
-    border-top: 1px solid #fde68a;
-}
-.navlinks-parent:after {
-  content: '▼';
-  font-size: 12px;
-  margin-left: 5px;
-}
-.navlinks-children::before {
-    content: '';
-    display: block;
-    position: absolute;
-    left: 0;
-    top: -20px;
-    height: 20px;
-    width: 100%;
-}
+.nav.navbar-nav.navbar-right li{margin-left:15px;position:relative}     
+.navlinks-children{display:block;background:#f3dc80;position:absolute;left:0;top:30px;min-width:100%;opacity:0;visibility:hidden;z-index:9}
+     .navlinks-container:hover .navlinks-children{opacity:1;visibility:visible}
+     .navlinks-children a{display:block;padding:10px;border-top:1px solid #fde68a}
+     .navlinks-parent:after{content:'▼';font-size:12px;margin-left:5px}
+     .navlinks-children:before{content:'';display:block;position:absolute;left:0;top:-20px;height:20px;width:100%}
 .header-section{display:block}
 .page-heading{margin-bottom:30px}
 .post-heading{margin-bottom:15px}
@@ -620,41 +582,21 @@ footer .col-lg-8 {
 .daftar-isi:after{content:'[tampilkan]';position:relative;padding-left:10px;color:#246FC8;font-weight: normal;}
 .expandit .daftar-isi:after{content:'[sembunyikan]'}
 /* tabel */
-table th, table td {
-    border: 1px solid #444;
-    padding: 5px;
-}
- 
+table td,table th{border:1px solid #444;padding:5px}
+     
 {% include styling.css %}     
      
 @media screen and (max-width:1000px){
-.container-fluid,.row{width:95%}
-  #main-navbar{display:none;
-  position: fixed;
-  width: 50%;
-  min-width:50vw;
-  top: 0;
-  left: 0;
-  height: 100%;
-  min-height:100vh;
-  background: #fde68a;
-  z-index: 9;
-  border-right: 1px solid #e7d074;}
+  .container-fluid,.row{width:95%}
+  #main-navbar{display:none;position:fixed;width:50%;min-width:50vw;top:0;left:0;height:100%;min-height:100vh;background:#fde68a;z-index:9;border-right:1px solid #e7d074}
   .navbar-toggle{display:flex}
   .searchbtn{margin-left:auto}
-  #main-navbar.show {
-  display: block;
-}
-.nav.navbar-nav.navbar-right {
-  display: block;
-  padding: 20px;
-}
-.nav.navbar-nav.navbar-right li {
-  margin: 0 0 10px;
-}
+  #main-navbar.show{display:block;}
+  .nav.navbar-nav.navbar-right{display:block;padding:20px}
+  .nav.navbar-nav.navbar-right li{margin:0 0 10px}
 }
 @media screen and (max-width:860px){
-   .container-fluid,.row{width:90%}
+   .container-fluid,.row{width:95%}
    .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1,.sidebar-section{float:none;width:100%}
    .sidebar-section{margin-top:20px}
 }
