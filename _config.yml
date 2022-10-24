@@ -138,6 +138,9 @@ related_limit: 2
 related_by: tags
 related_categories:
 
+# comment
+staticman_url: https://<app-name>/v3/entry/github/<username>/<repo>/<branch>/comments
+
 collections:
   kontributor:
     output: true
