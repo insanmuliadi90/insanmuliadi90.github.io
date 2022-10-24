@@ -139,7 +139,7 @@ related_by: tags
 related_categories:
 
 # comment
-staticman_url: https://<app-name>/v3/entry/github/<username>/<repo>/<branch>/comments
+staticman_url: https://edu-comment.herokuapp.com/v3/entry/github/insanmuliadi90/educomment/main/comments
 
 collections:
   kontributor:
