@@ -97,7 +97,7 @@ Tujuan utama website guruyes ini untuk memudahkan Bapak/Ibu guru dalam men- down
 
 Cukup dengan satu klik aja RPP Merdeka Sekolah Penggerak SMK yang anda butuhkan ini langsung terdownload otomatis dan tersimpan pada Komputer anda. Untuk lebih jelasnya silahkan Download file Doc/PDF di bawah ini.
 
-RPP Merdeka Sekolah Menengah Kejuruan SMK  :  [download di sini](https://drive.google.com/drive/folders/1r3bA9O_xurhpYZVjef8Sx1UZqjZlDdFj?usp=share_link)
+**RPP Merdeka Sekolah Menengah Kejuruan SMK  :  [download di sini](https://drive.google.com/drive/folders/1r3bA9O_xurhpYZVjef8Sx1UZqjZlDdFj?usp=share_link)**
 
 Demikianlah RPP Merdeka Belajar Sekolah Menengah Kejuruan Sekolah Penggerak ini yang besar harapan kami semoga dapat membantu rekan-rekan guru dalam mengembangkan dan menyukseskan visi dan misi pendidikan Indonesia dan jangan lupa lihat juga RPP Merdeka Belajar SMK di Menu lainnya.
 
