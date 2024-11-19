@@ -5,6 +5,7 @@ date: 2022-09-29
 categories: PPPK
 tag: [ pppk,seleksi guru ]
 excerpt: Download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci jawaban dan pembahasan
+published: false
 ---
 
 Dibawah ini adalah **download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru** tahun 2021 yang dilengkapi kunci jawaban dan pembahasan. Soal-soal ujian PPPK 2021 ini terdiri atas soal tes kompetensi teknis, soal tes bakat skolastik, soal tes kemampuan manajerial, soal tes sosio kultural, dan pertanyaan wawancara.
