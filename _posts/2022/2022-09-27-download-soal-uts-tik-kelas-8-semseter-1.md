@@ -3,6 +3,7 @@ layout: post
 date: 2022-07-28
 title: DOWNLOAD Soal UTS TIK Kelas 8 Semester 1 Dan Kunci Jawaban
 excerpt: Download soal-soal UTS TIK untuk kelas 8 semester 1 disertai dengan kunci jawabannya
+published: false
 ---
 
 Simak Soal UTS TIK Kelas 8 Semester 1 Dan Kunci Jawaban lengkap dengan pembahasan kunci jawaban tahun 2022. Ujian auto lancar.
