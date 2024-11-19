@@ -2,6 +2,7 @@
 title: ALUR PENDAFTARAN PPPK GURU DI SSCASN BKN TAHUN 2022
 date: 2022-10-01
 excerpt: Berminat untuk mendaftar menjadi tenaga PPPK guru? silahkan ikuti alur pendaftarannya berikut ini
+published: false
 ---
 
 <img alt="ALUR PENDAFTARAN PPPK GURU DI SSCASN BKN TAHUN 2022" title="ALUR PENDAFTARAN PPPK GURU DI SSCASN BKN TAHUN 2022" src="/img/alur-pppk-min.jpg" width="1280" height="720"/>
