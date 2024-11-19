@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK Kurikulum Merdeka
-published: 2022-11-09
+date: 2022-11-09
+published: false
 description: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
 excerpt: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
 ---
