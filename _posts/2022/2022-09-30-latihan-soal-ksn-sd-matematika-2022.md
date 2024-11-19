@@ -2,6 +2,7 @@
 title: Latihan Soal KSN SD Bidang Matematika Tahun 2022 + Pembahasan
 date: 2022-09-30
 excerpt: Kompetisi Sains Nasional (KSN) 2022 resmi diadakan dan berikut latihan soal KSN SD bidang matematika
+published: false
 ---
 
 Pusat Prestasi Nasional telah mengumunkan secara resmi kebali akan menyelenggarakan Kompetisi Sains Nasional (KSN) tahun 2022.
