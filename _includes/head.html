@@ -364,7 +364,7 @@ h2,h3,h4{font-weight:bold}
 }
 .blog-post {
   margin-bottom: 20px;
-  font-size:16px;
+  font-size:15px;
   color:#444444
 }
 .blog-post h2,.blog-post h3,.blog-post h4 {
@@ -401,78 +401,23 @@ h2,h3,h4{font-weight:bold}
     width: 100%;
 }
 /* share */
-.btn.btn-social-icon,
-.share-sos {
-  align-items: center;
-  display: flex;
-}
-#social-share-section {
-  margin-bottom: 20px;
-}
-#social-share-section .sr-only:first-of-type {
-  font-weight: 700;
-  font-size: 16px;
-  margin-bottom: 10px;
-}
-.btn.btn-social-icon {
-  padding: 8px 10px;
-  border-radius: 2px;
-  position: relative;
-  overflow: hidden;
-}
-.btn.btn-social-icon:not(:last-of-type) {
-  margin-right: 5px;
-}
-.btn.btn-social-icon span {
-  display: flex;
-  z-index: 1;
-}
-.btn.btn-social-icon span:last-child {
-  display: flex;
-  margin-left: 5px;
-  align-items: center;
-}
-.btn.btn-social-icon svg {
-  fill: #fff;
-  width: 18px;
-  height: 18px;
-}
-.btn.btn-twitter {
-  background: #333333;
-}
-.btn.btn-twitter:after,.btn.btn-whatsapp:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  display: block;
-  height: 100%;
-  background: #4099ff;
-  z-index: 0;
-}
-.btn.btn-twitter:after {
-  background: #4099ff;
-}
-.btn.btn-whatsapp:after {
-  background: #25d366;
-}
-.btn.btn-facebook {
-  background: #3b5998;
-}
-.btn.btn-whatsapp {
-  background: #178740
-}
-.btn.btn-telegram {
-  background: #2481cc;
-}
-.btn .sr-only {
-  color: #fff;
-  font-size: 12px;
-}
-.btn.btn-social-icon:hover,.btn.btn-social-icon:hover:after {
- background:#000
-}
+.btn.btn-social-icon,.share-sos{align-items:center;display:flex}
+     #social-share-section{margin-bottom:20px}
+     #social-share-section .sr-only:first-of-type{font-weight:700;font-size:16px;margin-bottom:10px}
+     .btn.btn-social-icon{padding:8px 10px;border-radius:2px;position:relative;overflow:hidden}
+     .btn.btn-social-icon:not(:last-of-type){margin-right:5px}
+     .btn.btn-social-icon span{display:flex;z-index:1}
+     .btn.btn-social-icon span:last-child{display:flex;margin-left:5px;align-items:center}
+     .btn.btn-social-icon svg{fill:#fff;width:18px;height:18px}
+     .btn.btn-twitter{background:#333}
+     .btn.btn-twitter:after,.btn.btn-whatsapp:after{content:"";position:absolute;left:0;top:0;width:100%;display:block;height:100%;background:#4099ff;z-index:0}
+     .btn.btn-twitter:after{background:#4099ff}
+     .btn.btn-whatsapp:after{background:#25d366}
+     .btn.btn-facebook{background:#3b5998}
+     .btn.btn-whatsapp{background:#178740}
+     .btn.btn-telegram{background:#2481cc}
+     .btn .sr-only{color:#fff;font-size:12px}
+     .btn.btn-social-icon:hover,.btn.btn-social-icon:hover:after{background:#000}
 .pager.blog-pager {
   display: flex;
   align-content: center;
@@ -609,7 +554,7 @@ footer .col-lg-8 {
 .expandit .daftar-isi:after{content:'[sembunyikan]'}
 /* tabel */
 table td,table th{border:1px solid #444;padding:5px}
-     
+.blog-post table{margin-bottom:20px}     
 {% include styling.css %}  
 {% include comment.css %}  
      
