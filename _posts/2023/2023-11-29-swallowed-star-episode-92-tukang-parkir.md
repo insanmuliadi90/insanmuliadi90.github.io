@@ -1,5 +1,5 @@
 ---
-title: Swallowed Star Episode 92: Tukang Parkir Stasiun Pemberhentian Planet Horned Dragon Adalah Star Traveller!
+title: 'Swallowed Star Episode 92: Tukang Parkir Stasiun Pemberhentian Planet Horned Dragon Adalah Star Traveller!'
 date: 2023-11-29
 description: Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
 excerpt: Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
