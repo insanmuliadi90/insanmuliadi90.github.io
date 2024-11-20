@@ -160,6 +160,12 @@ paginate: 10
 kramdown:
   input: GFM
 
+toc:
+  min_level: 2
+  max_level: 3
+  no_toc_section_class: "no-toc"
+  toc_class: "toc"
+  
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
