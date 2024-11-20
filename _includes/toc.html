@@ -1,0 +1,16 @@
+{% assign toc = "" %}
+{% assign modified_content = page.content | split: "<h2" %}
+{% for section in modified_content %}
+  {% if forloop.first %}
+    {% assign toc = toc | append: "<div id='toc'><ul>" %}
+    {% assign headings = page.content | split: "<h2" %}
+    {% for heading in headings offset: 1 %}
+      {% assign heading_text = heading | split: "</h2>" | first | strip_html %}
+      {% assign toc = toc | append: "<li>" | append: heading_text | append: "</li>" %}
+    {% endfor %}
+    {% assign toc = toc | append: "</ul></div>" %}
+  {% else %}
+    {{ toc }}
+  {% endif %}
+  <h2{{ section }}
+{% endfor %}
