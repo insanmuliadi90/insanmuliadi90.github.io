@@ -23,7 +23,7 @@
 
     {% if sameTagCount >= minCommonTags %}
       <li class="related-item">
-      <a href="{{ site.baseurl }}{{ post.url }}"><div></div>{{ post.title }}</div><img src="{{ post.image }}"/></a>
+      <a href="{{ site.baseurl }}{{ post.url }}"><div>{{ post.title }}</div><img src="{{ post.image }}"/></a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
