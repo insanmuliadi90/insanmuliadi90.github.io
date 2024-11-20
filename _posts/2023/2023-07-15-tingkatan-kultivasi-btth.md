@@ -6,16 +6,17 @@ categories: [ donghua,btth ]
 tag: [ btth,kultivasi ]
 description: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
 excerpt: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoGKqHy-wjsJqUCFhMCbjfBszqMfcgYBf-X-kEZNKpqRXninXwVSZ_Iat_D8x-fchc9EuugkeJxNDkyr15dEqEmC6-JcmnCI88WKTtQ_l-h5_jpBnjI6wbnOSo0R5EvHu3EzMEEthyx36WU5egP3tws3P8xgGxS2iuaT6XDRZF3sXkPVOigiOfewVnm0/h169-w300-rw/tingkatan-kultivasi-btth.webp
 ---
 <figure>
-	<img alt="Tingkatan Kultivasi BTTH" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoGKqHy-wjsJqUCFhMCbjfBszqMfcgYBf-X-kEZNKpqRXninXwVSZ_Iat_D8x-fchc9EuugkeJxNDkyr15dEqEmC6-JcmnCI88WKTtQ_l-h5_jpBnjI6wbnOSo0R5EvHu3EzMEEthyx36WU5egP3tws3P8xgGxS2iuaT6XDRZF3sXkPVOigiOfewVnm0/s1600/tingkatan-kultivasi-btth.webp" width="1280" />
+	<img alt="Tingkatan Kultivasi BTTH" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoGKqHy-wjsJqUCFhMCbjfBszqMfcgYBf-X-kEZNKpqRXninXwVSZ_Iat_D8x-fchc9EuugkeJxNDkyr15dEqEmC6-JcmnCI88WKTtQ_l-h5_jpBnjI6wbnOSo0R5EvHu3EzMEEthyx36WU5egP3tws3P8xgGxS2iuaT6XDRZF3sXkPVOigiOfewVnm0/s1600-rw/tingkatan-kultivasi-btth.webp" width="1280" />
 </figure>
 <p>
 <b>Tingkatan kultivasi BTTH</b> berikut ini daftarnya. Jika kalian adalah penonton setia donghua atau animasi China, maka Battle Through The Heavens atau yang sering disingkat BTTH merupakan salah satu serial yang harus kalian tonton. Pasalnya serial bergenre xianxia ini sangat populer di seluruh dunia dan menyajikan jalan cerita yang cukup menarik.</p>
 <p>Tingkatan kultivasi atau ranah kultivasi merupakan sebuah <i>state</i> Dou Qi yang dicapai oleh seseorang yang telah melakukan kultivasi dalam bentuk latihan maupun mengkonsumsi obat-obatan tertentu. Tingkatan kultivasi ini menunjukkan seberapa kuat seorang kultivator, semakin tinggi tingkatannya maka akan semakin kuat dan mendominasi kultivator itu.</p>
 <p>Penamaan ranah kultivasi sendiri berbeda-beda pada setiap serial. Di BTTH sendiri penamaannya disesuaikan dengan latar tempat dari cerita, yaitu benua Dou Qi sehingga setiap nama tingkatan kultivasi ini selalu menggunakan kata Dou di depannya misalnya Dou Wang, Dou Huang, Dou Zong dan lain-lain.</p>
 <figure>
-	<img alt="Cai Lin atau ratu Medusa memiliki tingkat kultivasi Dou Zong" height="576" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDU4Q8yekAS47ZWiVn2QTymEgKqwJSYcXCpKZ4ygZQyhymnl3ZBpEVYEUShr0i-dpAvpauM2TsI_dhro_zzBdSeE_0LkpqSLv8WK_4FehxDs1HAkCL8EouhT4b58pBOfD9Xfx0yitb9Z1f7nS97Loag7AVISdTmIfMv5FhvoxdyvVfSHyA4UHpzz73C_m1/s1600/tingkatan-kultivasi-btth-xiao-yan-medusa.webp" width="1024" /><figcaption>Tingkatan kultivasi Medusa adalah Dou Zong (Season 5)</figcaption>
+	<img alt="Cai Lin atau ratu Medusa memiliki tingkat kultivasi Dou Zong" height="576" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDU4Q8yekAS47ZWiVn2QTymEgKqwJSYcXCpKZ4ygZQyhymnl3ZBpEVYEUShr0i-dpAvpauM2TsI_dhro_zzBdSeE_0LkpqSLv8WK_4FehxDs1HAkCL8EouhT4b58pBOfD9Xfx0yitb9Z1f7nS97Loag7AVISdTmIfMv5FhvoxdyvVfSHyA4UHpzz73C_m1/s1600-rw/tingkatan-kultivasi-btth-xiao-yan-medusa.webp" width="1024" /><figcaption>Tingkatan kultivasi Medusa adalah Dou Zong (Season 5)</figcaption>
 </figure>
 <p>Meskipun berbeda dalam hal penamaan pada setiap donghua namun pada dasarnya setiap tingkat kultivasi ini memiliki basis yang sama yaitu berdasarkan dari pengembangan energi "Qi", sebuah energi yang dimiliki oleh manusia menurut kepercayaan taoisme. Qi mengalir melalui jalur-jalur energi
   yang disebut meridian, yang terhubung ke berbagai organ dan bagian tubuh.
