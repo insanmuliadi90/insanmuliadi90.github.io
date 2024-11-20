@@ -19,9 +19,6 @@ image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLktDjjdkUUEwL
 <p>Serial ini memiliki banyak sekali penggemar di seluruh dunia, terutama di China, tempat asalnya. Serial ini juga memiliki banyak adaptasi, baik dalam bentuk film, <em>live action</em>, maupun game. Namun, bagi kamu yang ingin menonton serial animasinya, mungkin kamu akan bingung dengan urutan nontonnya. Pasalnya, serial ini memiliki beberapa season dan episode yang mungkin agak membingungkan.</p>
 <p>Untuk itu, dalam artikel ini, kami akan memberikan urutan nonton serial animasi Battle Through The Heavens yang sesuai dengan <em>timeline</em> ceritanya. Dengan begitu, kamu bisa menikmati alur cerita yang lebih lancar dan mengerti perkembangan karakternya. Berikut adalah urutan nonton serial animasi Battle Through The Heavens:</p>
 
-{% include toc.html %}
-
-
 <h2 style="text-align: left;">Urutan Nonton Battle Through The Heavens</h2>
 <figure>
 	<img alt="daftar urutan nonton BTTH" height="576" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Nt41bS19UVY5q2c3Hl_udugIjmIZkFFhd_lXNvo-obp0TToqxaC_CL_dPQh3yDcFnbvBy_WbprJL4e6lEpCADb9G-NGgZkIjROLct4Mi0LJDbFLCTJTA8LYaInkDoY3FO0gaBMTOrTlNaM8uPsmShVIzzlUfQDxAf6lLHx0od_sQ5PPI6c_i5zCj9BM/s1024-rw/urutan-nonton-btth-thumb.webp" width="1024" />
