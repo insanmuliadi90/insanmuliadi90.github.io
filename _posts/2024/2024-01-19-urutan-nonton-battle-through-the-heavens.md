@@ -8,7 +8,7 @@ categories: [donghua,btth]
 tags: [btth]
 ---
 <figure>
-	<img alt="Urutan Nonton Battle Through The Heavens" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLktDjjdkUUEwLDpIXXybDC9O6ws7VnOiFiuZWCJerMljK_B8tKiqHALega34OC4JV3YnHFKiHr5htMmUCu35RwA_9OVz3apryhnA-hcQFUumXBO9kj7u6HFE2Vj5RtGz_zcXJC-4vstKA5g6J7yp0MOsH6c3gn5_PzHRPXraGUC52o087OYhXvciB-Po/s1600/urutan-nonton-btth.webp" width="1280" />
+	<img alt="Urutan Nonton Battle Through The Heavens" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLktDjjdkUUEwLDpIXXybDC9O6ws7VnOiFiuZWCJerMljK_B8tKiqHALega34OC4JV3YnHFKiHr5htMmUCu35RwA_9OVz3apryhnA-hcQFUumXBO9kj7u6HFE2Vj5RtGz_zcXJC-4vstKA5g6J7yp0MOsH6c3gn5_PzHRPXraGUC52o087OYhXvciB-Po/s1600-rw/urutan-nonton-btth.webp" width="1280" />
 	<figcaption>Urutan nonton BTTH, sumber gambar: Goinsan on Youtube</figcaption>
 </figure>
 <p>
@@ -68,7 +68,7 @@ tags: [btth]
 <p>Animasi season keempat ini akan tayang di Tencent Video pada 28 Maret 2021 dengan total 24 episode.</p>
 <p>Untuk membangunkan Yao Lao, Xiao Yan datang ke ibukota kekaisaran untuk berpartisipasi dalam konferensi alkemis. Saat kompetis, alkemis dari kekaisaran Chu Yun terus menyerang Xiao Yan. Pada saat kritis, Xiao Yan membalikkan keadaan dan berhasil memenangkan kejuaraan, menjaga kehormatan Kekaisaran Jia Ma. Xiao Yan juga bersiap menghadapi perjanjian tiga tahunnya.</p>
 <h3 style="text-align: left;">7. Battle Through The Heavens: Three Year Agreement (2021)</h3>
-<figure><img alt="BTTH: Three Year Agreement" height="640" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMj4KWnWdl9gSry3pOB2ltNd_yiaJc7BYZ91hkWcBRev7FyFQIkjuJs8uV0e-cQ38fTvc2b_uA2EJnOgJV8SKbnR5Ev0VjatVhk6t3sbm4UhkwwP3aBXj1em9UJP3J04HLFYWKSxpOERCQnCBZbGoxgZ_CQ10RgAdpPyFUAsSAJ587PdrF7sz_wjFLw/s16000/btth-3-year-agreement.jpg" title="BTTH: Three Year Agreement" width="1024" /><figcaption>BTTH: Three Year Agreement</figcaption></figure>
+<figure><img alt="BTTH: Three Year Agreement" height="640" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMj4KWnWdl9gSry3pOB2ltNd_yiaJc7BYZ91hkWcBRev7FyFQIkjuJs8uV0e-cQ38fTvc2b_uA2EJnOgJV8SKbnR5Ev0VjatVhk6t3sbm4UhkwwP3aBXj1em9UJP3J04HLFYWKSxpOERCQnCBZbGoxgZ_CQ10RgAdpPyFUAsSAJ587PdrF7sz_wjFLw/s16000-rw/btth-3-year-agreement.jpg" title="BTTH: Three Year Agreement" width="1024" /><figcaption>BTTH: Three Year Agreement</figcaption></figure>
 <p>Animation Special 3 akan tayang di Tencent Video pada 31 Oktober 2021 dengan total 13 episode.</p>
 <p>BTTH Spesial 3 Three Year Agreement mengisahkan Xiao Yan yang datang memenuhi perjanjian tiga tahun dengan Nalan Yanran di sekte Yun Lan. Keduanya pun bertempur dan akhirnya dimenangkan dengan mudah oleh Xiao Yan.</p>
 <p>Tetua sekte Yun Lan, Yun Leng yang merasa dipermalukan oleh Xiao Yan berusaha menahan Xiao Yan, namun tidak mampu karena Xiao Yan mendapat dukungan dari dua Master Dou Huang yaitu Hai Bodong dan Ling Ying.</p>
@@ -76,7 +76,7 @@ tags: [btth]
 <p>Yun Leng kemudian menyerang keluarga Xiao Yan. Xiao yang mendapati keluarga diserang dan ayahnya menghilang kembali ke sekte Yun Lan. Pertempuran antara Xiao Yan Yun Shan tidak terhindari. Xiao Yan dengan bantuan gurunya yang terbangun berhasil memporak-porandakan sekte Yun Lan.</p>
 <h3 style="text-align: left;">8. Battle Through The Heavens Nian Fan (2022 - Sekarang)</h3>
 <figure>
-	<img alt="Battle Through The Heavens Nian Fan" height="720" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8puj63LPmHwrjeQ8xwktTRuYi4jFe1Sd_aaeE_7evyJmzEIO_Q2rZa6U_M2ELJhM-mlaJlyiWiLXbv-HF5OigPDREnxDQSCJx8yJJtIdDYsjHBsX2P9Ni52GUDmqoPiZ5qpkAvJslFW49ECWtAxOd4OibQjMLJkEBOLCD5shSsUPq9NGyQyaK1PWOjzc3/s1600/xiao-yan-btth-3-min.webp" width="1280" />
+	<img alt="Battle Through The Heavens Nian Fan" height="720" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8puj63LPmHwrjeQ8xwktTRuYi4jFe1Sd_aaeE_7evyJmzEIO_Q2rZa6U_M2ELJhM-mlaJlyiWiLXbv-HF5OigPDREnxDQSCJx8yJJtIdDYsjHBsX2P9Ni52GUDmqoPiZ5qpkAvJslFW49ECWtAxOd4OibQjMLJkEBOLCD5shSsUPq9NGyQyaK1PWOjzc3/s1600-rw/xiao-yan-btth-3-min.webp" width="1280" />
   <figcaption>Battle Through The Heavens Nian Fan 3, sumber: Doupo Changqion Official weibo</figcaption>
 </figure>
 <p>BTTH Nian Fan merupakan kelanjutan dari serial animasi BTTH. Awalnya rilisan sekuel bernama Battle Through The Heavens: Jia Naan Academy dengan nama alternatif <strong>Season 5</strong>. Namun kemudian menjadi Nian Fan di tengah jalan. <strong>Nian Fan</strong> sendiri berarti <strong>episode atau musim tahunan</strong>. Artinya serial ini akan menyajikan episode secara <strong>kontinyu</strong> tanpa jeda sama sekali hingga serial tamat.</p>
