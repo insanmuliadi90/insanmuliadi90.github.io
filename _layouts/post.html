@@ -38,7 +38,8 @@ layout: base
       {% endif %}
       
       <article role="main" class="blog-post">
-        {{ content | toc }}
+        {% toc %}
+        {{ content }}
       </article>
 
       {% if page.tags.size > 0 %}
