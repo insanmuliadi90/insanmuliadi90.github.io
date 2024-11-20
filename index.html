@@ -11,7 +11,7 @@ use-site-title: true
       {% if post.image %}
       <div class="post-image">
         <a class="lazyload" title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" data-bg="{{ post.image }}">
-          <!--<img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="320" height="213">-->
+          <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAA1BMVEXz8/SVuXQoAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==" width="320" height="213">
         </a>
       </div>
       {% endif %}
@@ -23,8 +23,7 @@ use-site-title: true
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}-->
-
-
+	  
     <p class="post-meta">
       Terbit pada {{ post.date | date: "%B %-d, %Y" }}
     </p>
