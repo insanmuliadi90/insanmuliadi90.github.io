@@ -4,11 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="author" content="{{ site.author.name }}" />
+  {% comment %}
   <!--
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}"/>
   {% endif %}
   -->
+  {% endcomment %}
   {% if page.description %}
   <meta name="description" content="{{ page.description }}"/>
   {% elsif page.subtitle %}
@@ -28,7 +30,7 @@
   <meta name="robots" content="{{page.robots}}" />
   {% endif %}
   {% include gtm_head.html %}
-
+  {% comment %}
   <!--
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
@@ -65,8 +67,8 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
--->
-
+  -->
+  {% endcomment %}
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
@@ -88,7 +90,6 @@
   <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}"/>
   {% endif %}
 
-
   <meta property="og:type" content="website" />
 
   {% if page.id %}
@@ -103,8 +104,7 @@
   <meta property="og:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% endif %}
-  
+  {% endif %}  
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
@@ -132,12 +132,10 @@
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
-
   
   <!--{% if site.tags != "" %}
   {% include collecttags.html %}
   {% endif %}-->
-  
   
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M2HHX1D2HM"></script>
@@ -148,7 +146,6 @@
 
   gtag('config', 'G-M2HHX1D2HM');
 </script>
-
   
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.svg">
   <link href='/favicon.svg' rel='apple-touch-icon' sizes='120x120'/>
@@ -356,15 +353,15 @@ table td,table th{border:1px solid #444;padding:5px}
   .nav.navbar-nav.navbar-right li{margin:0 0 15px;font-size:15.5px}
 }
 @media screen and (max-width:860px){
-   .container-fluid,.row{width:95%}
-   .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1,.sidebar-section{float:none;width:100%}
-   .sidebar-section{margin-top:20px}
+  .container-fluid,.row{width:95%}
+  .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1,.sidebar-section{float:none;width:100%}
+  .sidebar-section{margin-top:20px}
 }
 @media screen and (max-width:420px){
-.container-fluid,.row{width:94%}
-.post-preview{float:none;width:100%;margin-right:0!important}
-.blog-post img{position:relative;width:100vw;max-width:100vw;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw}
-.post-heading h1{font-size:20px}
+  .container-fluid,.row{width:94%}
+  .post-preview{float:none;width:100%;margin-right:0!important}
+  .blog-post img{position:relative;width:100vw;max-width:100vw;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw}
+  .post-heading h1{font-size:20px}
 }
 </style>
 </head>
