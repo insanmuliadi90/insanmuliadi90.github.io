@@ -19,22 +19,7 @@ image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLktDjjdkUUEwL
 <p>Serial ini memiliki banyak sekali penggemar di seluruh dunia, terutama di China, tempat asalnya. Serial ini juga memiliki banyak adaptasi, baik dalam bentuk film, <em>live action</em>, maupun game. Namun, bagi kamu yang ingin menonton serial animasinya, mungkin kamu akan bingung dengan urutan nontonnya. Pasalnya, serial ini memiliki beberapa season dan episode yang mungkin agak membingungkan.</p>
 <p>Untuk itu, dalam artikel ini, kami akan memberikan urutan nonton serial animasi Battle Through The Heavens yang sesuai dengan <em>timeline</em> ceritanya. Dengan begitu, kamu bisa menikmati alur cerita yang lebih lancar dan mengerti perkembangan karakternya. Berikut adalah urutan nonton serial animasi Battle Through The Heavens:</p>
 
-{% assign toc = "" %}
-{% assign modified_content = page.content | split: "<h2" %}
-{% for section in modified_content %}
-  {% if forloop.first %}
-    {% assign toc = toc | append: "<div id='toc'><ul>" %}
-    {% assign headings = page.content | split: "<h2" %}
-    {% for heading in headings offset: 1 %}
-      {% assign heading_text = heading | split: "</h2>" | first | strip_html %}
-      {% assign toc = toc | append: "<li>" | append: heading_text | append: "</li>" %}
-    {% endfor %}
-    {% assign toc = toc | append: "</ul></div>" %}
-  {% else %}
-    {{ toc }}
-  {% endif %}
-  <h2{{ section }}
-{% endfor %}
+{% include toc.html %}
 
 
 <h2 style="text-align: left;">Urutan Nonton Battle Through The Heavens</h2>
