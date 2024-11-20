@@ -19,7 +19,7 @@ common-js:
 
   {% include head.html %}
 
-  <body class='{% if page.collection == "posts" %}myclass{% else %}default-class{% endif %}'>
+  <body class='{% if page.collection == "posts" %}postpage{% else %}homepage{% endif %}'>
 
     {% include gtm_body.html %}
     
