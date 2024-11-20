@@ -159,12 +159,6 @@ paginate: 10
 
 kramdown:
   input: GFM
-
-toc:
-  min_level: 2
-  max_level: 3
-  no_toc_section_class: "no-toc"
-  toc_class: "toc"
   
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -176,7 +170,6 @@ defaults:
       layout: "post"
       comments: false
       social-share: true
-      toc: true
   -
     scope:
       path: "" # all files
@@ -252,7 +245,6 @@ prose:
 
 plugins:
   - jekyll-paginate
-  - jekyll-toc
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
