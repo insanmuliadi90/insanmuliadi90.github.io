@@ -4,7 +4,6 @@
 {% assign bulan = "Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,November,Desember" | split: "," %}
 {% assign bulan_angka = page.date | date: "%m" | minus: 1 %}
 {% assign nama_bulan = bulan[bulan_angka] %}
-{{ page.date | date: "%d" }} {{ nama_bulan }} {{ page.date | date: "%Y" }}
 <header class="header-section {% if page.bigimg %}has-img{% endif %} {{ include.type }}-heading">
          	{% if include.type == "page" %}
 		<div class="row">
@@ -20,7 +19,7 @@
 		  
 		  {% if include.type == "post" %}
 	<h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>	
-          <div class="post-meta"><span class="postdate">{{ page.date | date: "%d %B %Y" }}</span> {% assign read_time = page.content | number_of_words | divided_by: 200 %}
+          <div class="post-meta"><span class="postdate">{{ page.date | date: "%d" }} {{ nama_bulan }} {{ page.date | date: "%Y" }}</span> {% assign read_time = page.content | number_of_words | divided_by: 200 %}
 	{% if read_time > 0 %} — <span class="readtime">{{ read_time }} Menit</span> <img alt="view counter" src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finsanmuliadi90.github.io%2F/sword-of-coming-bagus-tapi-ganjil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👁&edge_flat=false'/>
 	{% endif %}
           </div>
