@@ -16,7 +16,7 @@ description: >-
 excerpt: >-
   Swallowed Star Episode 97 : Bu Luo yang datang untuk menjajah bumi tidak
   berkutik di depan Luo Feng
-permalink: 2024/02/
+permalink: 2024/02/swallowed-star-episode-97-bu-luo-tidak-berkutik.html
 ---
 <figure>
 <img alt="Swallowed Star Episode 97" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3JgtbxRbSbI2u0Bu-74FXEzNSn1SvydDTZ1g0-fJV7yHCnWObeypjpXEeXfcGtZGJhD8WBOEkeCFHsjBZHTbQl-ad8CKhD74wSnOzmPo7or1wdbP_A7C1OvRMmkhyGH7t_o6MXeEub83ce64H7UCgnapp74uVgCHxunUeipY8gBZ6caD9ovebwerFcGs/s1600/swallowed-star-episode-97-min.webp" width="1280" />
