@@ -7,6 +7,7 @@
 
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
+    {% assign hasSameCategory = false %}
 
     {% for category in post.categories %}
       {% if post.url != page.url %}
@@ -14,13 +15,27 @@
           {% assign sameTagCount = sameTagCount | plus: 1 %}
           {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
+          {% assign hasSameCategory = true %}
         {% endif %}
       {% endif %}
     {% endfor %}
 
+    {% if hasSameCategory %}
+        {% assign postTags = post.tags %}
+        {% assign commonTags = postTags | intersection: page.tags %}
+        {% assign sameTagCount = commonTags | size %}
+    {% endif %}
+
     {% if sameTagCount >= minCommonTags %}
       <li class="related-item">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
+      </li>
+    {% elsif hasSameCategory and (sameTagCount >= 1 or sameTagCount == 0) %}
+      <li class="related-item">
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+        <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/>
+        <div class="related-title">{{ post.title }}</div>
+      </a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
