@@ -4,7 +4,6 @@
 {% endif %}
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  2 %}
-{% assign minCommonTagsOpt =  1 %}
 {% assign maxRelatedCounter = 0 %}
 <ul>
 {% for post in site.posts %}
@@ -26,7 +25,7 @@
       <li class="related-item">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
       </li>
-    {% elsif sameTagCount == minCommonTagsOpt %}
+    {% elsif sameTagCount == 1 %}
       <li class="related-item">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
       </li>
