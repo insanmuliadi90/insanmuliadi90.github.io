@@ -50,6 +50,7 @@ layout: base
     <a href="/tags/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 </span>
+          {% comment %}
           <!--
           {% if site.link-tags %}
           {% for tag in page.tags %}
@@ -59,6 +60,7 @@ layout: base
             {{ page.tags | join: ", " }}
           {% endif %}
           -->
+          {% endcomment %}
         </div>
       {% endif %}
 
