@@ -3,7 +3,11 @@
 <div class='related-title'>Baca Juga</div>
 {% endif %}
 {% assign maxRelated = 4 %}
-{% assign minCommonTags =  1 %}
+{% if page.tags and page.tags.size >= 2 %}
+    {% assign minCommonTags =  2 %}
+    {% else %}
+    {% assign minCommonTags =  1 %}
+{% endif %}
 {% assign maxRelatedCounter = 0 %}
 <ul>
 {% for post in site.posts %}
