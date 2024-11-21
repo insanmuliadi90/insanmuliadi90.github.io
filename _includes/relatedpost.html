@@ -30,8 +30,8 @@
       <li class="related-item">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
       </li>
-    {% elsif hasSameCategory and (sameTagCount >= 1 or sameTagCount == 0) %}
-      <li class="related-item">
+    {% elsif hasSameCategory and sameTagCount == 0 %}
+      <li class="related-item rdl-ps">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
         <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/>
         <div class="related-title">{{ post.title }}</div>
