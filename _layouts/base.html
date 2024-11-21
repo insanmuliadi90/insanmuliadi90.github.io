@@ -15,11 +15,10 @@ common-js:
 ---
 
 <!DOCTYPE html>
-<html lang="en">
-
+<html dir="ltr"  lang="id">
   {% include head.html %}
-
   <body class='{% if page.collection == "posts" %}postpage{% else %}homepage{% endif %}'>
+    <div class="page-wrapper">
 
     {% include gtm_body.html %}
     
@@ -28,6 +27,6 @@ common-js:
     {% include footer.html %}
   
     {% include footer-scripts.html %}
-  
+  </div>
   </body>
 </html>
