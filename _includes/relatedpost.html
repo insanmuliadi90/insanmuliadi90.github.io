@@ -1,10 +1,10 @@
 <div class="relatedPosts">
-{% if maxRelated >= 1 %}
-<div class='related-title'>Baca Juga</div>
-{% endif %}
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
+{% if minCommonTags %}
+<div class='related-title'>Baca Juga</div>
+{% endif %}
 <ul>
 {% for post in site.posts %}
 
