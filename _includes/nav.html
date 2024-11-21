@@ -1,11 +1,12 @@
   <div class="container-fluid">
     <div class="navbar-header">
-	    	<div id="backButton" role="button" onclick="window.history.back()"><svg aria-hidden="true" id="left-arrow" viewBox="0 0 24 24"><title>Arrow Left</title><path d="M15 21l-9-9 9-9 3 3-6.1 6 6.1 6z"></path></svg></div>
+	    	<div id="backButton" role="button" onclick="window.history.back()">
+			<svg aria-hidden="true" id="left-arrow" viewBox="0 0 24 24"><title>Arrow Left</title><path d="M15 21l-9-9 9-9 3 3-6.1 6 6.1 6z"></path></svg>
+		</div>
   <script>
     // Cek apakah referer berasal dari example.com
     const referrer = document.referrer;
     const currentDomain = window.location.origin; // Mendapatkan domain saat ini, misal https://example.com
-
     // Jika referrer termasuk dalam domain yang sama, tampilkan tombol
     if (referrer.startsWith(currentDomain)) {
       document.getElementById('backButton').style.display = 'block';
