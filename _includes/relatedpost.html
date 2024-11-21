@@ -1,7 +1,7 @@
-{% assign filtered_items = site.posts | where: "tags", tags %}
-{% if filtered_items.size >= 2 %}
 <div class="relatedPosts">
+{% if maxRelated %}
 <div class='related-title'>Baca Juga</div>
+{% endif %}
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
@@ -34,4 +34,3 @@
   {% endfor %}
 </ul>
 </div>
-{% endif %}
