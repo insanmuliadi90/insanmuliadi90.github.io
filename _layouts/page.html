@@ -1,18 +1,6 @@
 ---
 layout: base
 ---
-  <button id="backButton" onclick="window.history.back()">Go Back</button>
-
-  <script>
-    // Cek apakah referer berasal dari example.com
-    const referrer = document.referrer;
-    const currentDomain = window.location.origin; // Mendapatkan domain saat ini, misal https://example.com
-
-    // Jika referrer termasuk dalam domain yang sama, tampilkan tombol
-    if (referrer.startsWith(currentDomain)) {
-      document.getElementById('backButton').style.display = 'block';
-    }
-  </script>
 <header class="topheader topheaderindex">
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom indexpage">
 {% include nav.html %}
