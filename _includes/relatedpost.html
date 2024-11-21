@@ -35,7 +35,7 @@
         {% break %}
       {% endif %}
     {% endif %}
-     {% if hasSameCategory and sameTagCount == 0 %}
+     {% if hasSameCategory %}
       <li class="related-item rdl-ps">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
         <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/>
