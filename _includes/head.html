@@ -23,10 +23,7 @@
   {% if page.keywords %}
   <meta name="keyword" content="{{ page.keywords }}"/>
   {% endif %}
-  
-  <meta name="description 2" content="{{ post.description | default: post.subtitle | default: post.excerpt }}"/>
-
-  
+   
   <meta name="google-site-verification" content="BUKsRCQUnW1YHHOwi5qynyjx2-Y4kE0HWw8pJVDRArE" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   {% if page.robots %}
