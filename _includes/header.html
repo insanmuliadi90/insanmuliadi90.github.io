@@ -17,18 +17,6 @@
 	</div>
 	{% endif %}
 	{% if include.type == "post" %}
-	<button id="backButton" onclick="window.history.back()"><svg aria-hidden="true" id="left-arrow" viewBox="0 0 24 24"><title>Arrow Left</title><path d="M15 21l-9-9 9-9 3 3-6.1 6 6.1 6z"></path></svg></button>
-	
-  <script>
-    // Cek apakah referer berasal dari example.com
-    const referrer = document.referrer;
-    const currentDomain = window.location.origin; // Mendapatkan domain saat ini, misal https://example.com
-
-    // Jika referrer termasuk dalam domain yang sama, tampilkan tombol
-    if (referrer.startsWith(currentDomain)) {
-      document.getElementById('backButton').style.display = 'block';
-    }
-  </script>
 	<h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>	
 	<div class="post-meta"><span class="postdate">{{ page.date | date: "%d" }} {{ nama_bulan }} {{ page.date | date: "%Y" }}</span> {% assign read_time = page.content | number_of_words | divided_by: 200 %}
 		{% if read_time > 0 %} — <span class="readtime">{{ read_time }} Menit</span> <img alt="view counter" src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finsanmuliadi90.github.io%2F{{ page.url }}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👁&edge_flat=false
