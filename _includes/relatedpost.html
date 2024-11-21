@@ -1,32 +1,26 @@
 <div class="relatedPosts">
 {% assign maxRelated = 4 %}
+{% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
 <ul>
 {% for post in site.posts %}
 
     {% assign sameTagCount = 0 %}
-    {% assign hasSameCategory = false %}
+    {% assign commonTags = '' %}
 
     {% for category in post.categories %}
-        {% if post.url != page.url %}
-            {% if page.categories contains category %}
-                {% assign hasSameCategory = true %}
-            {% endif %}
+      {% if post.url != page.url %}
+        {% if page.categories contains category %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
+      {% endif %}
     {% endfor %}
 
-    {% if hasSameCategory %}
-        {% assign postTags = post.tags %}
-        {% assign commonTags = postTags | intersection: page.tags %}
-        {% assign sameTagCount = commonTags | size %}
-    {% endif %}
-
-    {% if hasSameCategory and (sameTagCount >= 1 or sameTagCount == 0) %}
+    {% if sameTagCount >= minCommonTags %}
       <li class="related-item">
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
-        <img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/>
-        <div class="related-title">{{ post.title }}</div>
-      </a>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -34,7 +28,6 @@
       {% endif %}
     {% endif %}
 
-{% endfor %}
+  {% endfor %}
 </ul>
 </div>
-
