@@ -10,8 +10,8 @@ tags: [swallowed star]
 description: >-
   Swallowed Star Episode 97 : Bu Luo yang datang untuk menjajah bumi tidak
   berkutik di depan Luo Feng. Baca Selengkapnya berikut ini.
-description: >-
-excerpt: Swallowed Star Episode 97 : Bu Luo yang datang untuk menjajah bumi tidak
+excerpt: >-
+  Swallowed Star Episode 97 : Bu Luo yang datang untuk menjajah bumi tidak
   berkutik di depan Luo Feng
 ---
 <figure>
