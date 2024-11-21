@@ -3,11 +3,8 @@
 <div class='related-title'>Baca Juga</div>
 {% endif %}
 {% assign maxRelated = 4 %}
-{% if page.categories and page.categories.size >= 2 %}
-    {% assign minCommonTags =  2 %}
-    {% else %}
-    {% assign minCommonTags =  1 %}
-{% endif %}
+{% assign minCommonTags =  2 %}
+{% assign minCommonTagsOpt =  1 %}
 {% assign maxRelatedCounter = 0 %}
 <ul>
 {% for post in site.posts %}
@@ -26,6 +23,10 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
+      <li class="related-item">
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
+      </li>
+    {% elsif sameTagCount >= minCommonTagsOpt %}
       <li class="related-item">
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}" height="169" width="300"/><div class="related-title">{{ post.title }}</div></a>
       </li>
