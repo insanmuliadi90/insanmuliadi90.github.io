@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 'Sup Newz'
-subtitle: Situs berita pendidikan lomba loker soal jawaban pembahasan ksn sd smp sma ksm mi mts ma kn mipa sertifikasi gaji guru cpns
+title: Sup Newz
+subtitle: >-
+  Situs berita pendidikan lomba loker soal jawaban pembahasan ksn sd smp sma ksm
+  mi mts ma kn mipa sertifikasi gaji guru cpns
 use-site-title: true
 ---
 
@@ -24,9 +26,9 @@ use-site-title: true
 	  </h3>
 	  {% endif %}-->
 	  
-    <p class="post-meta">
-      Terbit pada {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+    <div class="post-meta">
+     <span>{{ post.author }}</span> — <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+    </div>
 
     <div class="post-entry-container clearfloat">
 <!-- gambar -->
