@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /p
 Sitemap: https://www.supnewz.com/sitemap.xml
