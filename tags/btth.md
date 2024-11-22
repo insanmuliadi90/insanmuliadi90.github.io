@@ -1,6 +1,6 @@
 ---
 layout: newtag
 title: Battle Through The heavens
-tags: btth
+tag: btth
 permalink: /tags/btth/
 ---
