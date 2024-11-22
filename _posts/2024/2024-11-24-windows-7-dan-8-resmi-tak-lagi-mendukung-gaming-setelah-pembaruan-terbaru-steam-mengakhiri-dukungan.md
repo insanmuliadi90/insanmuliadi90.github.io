@@ -1,5 +1,5 @@
 ---
-title: ' Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan'
+title: 'Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan'
 description: Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan
 excerpt: Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan
 date: 2024-11-24
