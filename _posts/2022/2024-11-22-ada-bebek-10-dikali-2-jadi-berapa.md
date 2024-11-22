@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ada bebek 10 dikali 2 jadi berapa?
 permalink: /2022/11/ada-bebek-10-dikali-2-jadi-berapa.html
 subtitle: >-
