@@ -1,5 +1,5 @@
 ---
-title: 'Tes logika: Ada 8 bebek dikali 2 di goreng 4'
+title: "Tes logika: Ada 8 bebek dikali 2 di goreng 4"
 description: 'Ada 8 bebek dikali 2 di goreng 4 🦆 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!"
 excerpt: 'Ada 8 bebek dikali 2 di goreng 4 🦆 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!'
 categories: [tes logika]
