@@ -142,6 +142,8 @@ related_categories:
 staticman_url: https://edu-comment.herokuapp.com/v3/entry/github/insanmuliadi90/educomment/
 
 collections:
+  pages:
+    output: true
   kontributor:
     output: true
   karakter:
