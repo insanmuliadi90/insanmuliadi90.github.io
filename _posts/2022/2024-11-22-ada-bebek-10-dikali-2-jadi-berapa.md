@@ -6,6 +6,9 @@ permalink: /2022/11/ada-bebek-10-dikali-2-jadi-berapa.html
 subtitle: >-
   Berikut ini jawaban ada bebek 10 dikali 2 jadi berapa? Silahkan dicermati
   dengan seksama jawaban yang paling benar dari tes logika ini.
+excerpt: >-
+  Berikut ini jawaban ada bebek 10 dikali 2 jadi berapa? Silahkan dicermati
+  dengan seksama jawaban yang paling benar dari tes logika ini.
 date: '2022-11-06'
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDsn_JdJUCQSrSmT7DF5MCCN9NyEyM6ImwrI7LPDN-i4CEq4qin_OrbJYw5pDQXivZ7kPttlD2Zz9NO8eM_ImUZR4rLfrcWohNEVnbtINIJ9f_ggChUDX83OL18KH-FOB__8g6Nl33p4l8cTrcVPCxsv0LgCgMHzTAG3lMzPTGzzUQURiQuhvr3x5/h169-w300-rw/ADA%20BEBEK%2010-min.jpg
