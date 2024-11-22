@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: /tags/
+---
+
+{% if page.url contains "?" %}
+  {% assign query = page.url | split: "?" | last %}
+  {% assign params = query | split: "=" %}
+  {% assign tag = params[1] | uri_escape | uri_unescape %}
+{% else %}
+  {% assign tag = nil %}
+{% endif %}
+
+{% if tag %}
+  <h1>Posts with tag "{{ tag }}"</h1>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.tags contains tag %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% else %}
+  <h1>No Tag Selected</h1>
+  <p>Please provide a tag in the URL like <code>?tag=yourtag</code></p>
+{% endif %}
