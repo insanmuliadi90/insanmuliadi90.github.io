@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Us
+permalink: /about-us
 ---
 
 Adress: **www.supnewz.com**
