@@ -11,7 +11,7 @@ categories:
 tags:
   - tes logika
   - teka-teki
-permalink: /saat-rina-berumur-16-tahun-umur-dita.html
+permalink: 2020/11/saat-rina-berumur-16-tahun-umur-dita.html
 ---
 Kembali lagi dengan postingan seputar tes logika. Kali ini pertanyaannya begini:
 
