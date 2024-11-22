@@ -144,6 +144,7 @@ staticman_url: https://edu-comment.herokuapp.com/v3/entry/github/insanmuliadi90/
 collections:
   pages:
     output: true
+    permalink: /:title/
   kontributor:
     output: true
   karakter:
