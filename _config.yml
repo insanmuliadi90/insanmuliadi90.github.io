@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://animenow.eu.org/"
+url: "https://www.supnewz.com/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anime Now
+title: Sup Newz
 
 # Short description of your site
-description: Anime Now merupakan situs yang membahas informasi terkini, K-POP, Anime, Donghua, Sinopsis film dan banyak lainnya.
+description: Sup Newz merupakan situs yang membahas informasi terkini, K-POP, Anime, Donghua, Sinopsis film dan banyak lainnya.
 
 # --- Navigation bar options --- #
 
