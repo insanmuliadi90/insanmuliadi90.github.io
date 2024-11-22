@@ -23,18 +23,18 @@ description: Sup Newz merupakan situs yang membahas informasi terkini, K-POP, An
 
 # List of links in the navigation bar
 navbar-links:
-  Karakter: "/karakter/"
-  Kategori: "/categories/"
+  Karakter: "https://www.supnewz.com/karakter/"
+  Kategori: "https://www.supnewz.com/categories/"
   Info Lomba:
-    - SD: "/"
-    - SMP: "/"
-    - SMA: "/"
-  Pengumuman: "/"
-  PPPTK: "/"
-  CPNS: "/"
+    - SD: "https://www.supnewz.com/"
+    - SMP: "https://www.supnewz.com/"
+    - SMA: "https://www.supnewz.com/"
+  Pengumuman: "https://www.supnewz.com/"
+  PPPTK: "https://www.supnewz.com/"
+  CPNS: "https://www.supnewz.com/"
   Mapel:
-    - MTK: "/"
-    - PKN: "/"
+    - MTK: "https://www.supnewz.com/"
+    - PKN: "https://www.supnewz.com/"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
