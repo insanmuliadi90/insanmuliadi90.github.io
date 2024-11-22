@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Kebijakan Privasi
-permalink: /kebijakan-privasi
 ---
-
-## Kebijakan pribadi
-
 Privasi Anda sangat penting bagi kami. Oleh karena itu, kami telah mengembangkan Kebijakan ini agar Anda memahami cara kami mengumpulkan, menggunakan, berkomunikasi, dan mengungkapkan serta memanfaatkan informasi pribadi. Berikut ini menguraikan kebijakan privasi kami.
 
 * Sebelum atau pada saat mengumpulkan informasi pribadi, kami akan mengidentifikasi tujuan pengumpulan informasi.
