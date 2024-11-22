@@ -138,9 +138,6 @@ related_limit: 2
 related_by: tags
 related_categories:
 
-# comment
-staticman_url: https://edu-comment.herokuapp.com/v3/entry/github/insanmuliadi90/educomment/
-
 collections:
   pages:
     output: true
