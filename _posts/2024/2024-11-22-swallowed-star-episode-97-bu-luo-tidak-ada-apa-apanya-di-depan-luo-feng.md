@@ -51,7 +51,7 @@ permalink: 2024/02/swallowed-star-episode-97-bu-luo-tidak-berkutik.html
 </tbody>
 </table>
 <p>Perbedaan kekuatan dua powehouse ini terbilang cukup jauh, pasalnya Luo Feng, Hong dan Lei Shen hanyalah pejuang level Star Traveler sedangkan Bu Luo jauh lebih tinggi yaitu level Stellar.</p>
-<p>Bagi yang belum tahu, dalam tingkatan kultivasi untuk serial Swallowed Star ini, level Planetary/Star Traveler lebih rendah daripada level Stellar. Silahkan baca artikel <a href="https://www.supnewz.com/2024/01/ranah-kultivasi-swallowed-star.html" target="_blank">Tingkatan Kultivasi Swallowed Star</a>.</p>
+<p>Bagi yang belum tahu, dalam tingkatan kultivasi untuk serial Swallowed Star ini, level Planetary/Star Traveler lebih rendah daripada level Stellar. Silahkan baca artikel <a href="https://www.supnewz.com/tingkatan-kultivasi-swallowed-star" target="_blank">Tingkatan Kultivasi Swallowed Star</a>.</p>
 <h2 style="text-align: left;">Luo Feng Sudah Menanti Bu Luo</h2>
 <p>Luo Feng dan CS sudah mengetahui akan kedatangan orang-orang dari klan Noulan Shan. Tentu saja semuanya karena informasi yang berhasil diperoleh oleh sang AI Babata.</p><p>Luo Feng tidak lupa menyiapkan jebakan untuk menyambut kapal asing dari Nolan Shan yang ingin memperbudak bumi.</p><p>Ketika para kru Noulan Shan muncul dengan sombongnya mereka langsung dikejutkan dengan munculnya para prajurit Luo Feng yang levelnya banyak Stellar.&nbsp;</p>
 <figure>
