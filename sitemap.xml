@@ -9,7 +9,14 @@ search: exclude
     {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{post.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <lastmod>
+            {% if post.lastmod % }
+            {{ post.lastmod | date: "%FT%T%:z" }}
+            {% else %}
+            {{site.time | date: "%FT%T%:z" }}
+            {% endif %}
+        </lastmod>
+        
     </url>
     {% endfor %}
 
