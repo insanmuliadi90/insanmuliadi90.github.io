@@ -18,7 +18,7 @@ published: true
   <img alt="Sword of Coming" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7S-9-ZtAC9E_bBMIPGNpTULWhcDQ69zGNH0ZNLRS9bYIB-I7HUpUOs_hG9pvnXa3u7fdu2irTWSqec4v4foSI6R3mLWesgoUYeCF19lKn2r9RrLBSRi9515TjXcMPm8KIOdKdpEznNyM-waliiW0OOiESAK-2PDCgCaEfBPhbgH_IfBT8ZSdBiLkIZ8/s1600-rw/jian-lai.webp" width="1280" />
   <figcaption>Sword of Coming, Sumber: weibo</figcaption>
 </figure>
-<p><strong>Sword of Coming</strong> atau Jian Lai merupakan salah satu donghua debutan 2024 yang langsung menarik banyak perhgatian penggemar <a href="https://www.supnewz.com/search/label/donghua?max-results=10">donghua</a> di Tiongkok.</p>
+<p><strong>Sword of Coming</strong> atau Jian Lai merupakan salah satu donghua debutan 2024 yang langsung menarik banyak perhgatian penggemar <a href="https://www.supnewz.com/donghua/">donghua</a> di Tiongkok.</p>
 <p>Sejak <em>teaser</em> pertamanya muncul kalau tidak salah ingat beberapa yang lalu, donghua ini sudah di antisipasi oleh banyak penggemar donghua.</p>
 <p>Pada teaser yang dirilis, terlihat karakter <em>heroine</em> Ning Yao yang muncul dengan wajah yang cantik dan terlihat misterius.</p>
 <p>Pedangnya yang terhunus membuat penampilannya dalam teaser ini memberikan kesan bahwa Ia akan menjadi karakter yang ikonik.</p>
@@ -39,7 +39,7 @@ published: true
 <p>Lalu darimana dia mendapatkan kemampuan bela diri ini? tidak pernah digambarkan bahwa berlatih beladiri sejadari kecil dan sebagainya.</p>
 <p>Bagi saya ini cukup ganjil. Seorang yang biasa mengalahkan dua orang kultivator!</p>
 <h2>Sejauh ini Bagus Sih</h2>
-<p><a href="https://www.supnewz.com/2024/10/sword-of-coming-bagus-tapi-ganjil.html">Serial donghua Sword of Coming</a> sejauh ini cukup memuaskan sih, setidaknya itu menurut saya.</p>
+<p><a href="https://www.supnewz.com/sword-of-coming-bagus-tapi-ganjil">Serial donghua Sword of Coming</a> sejauh ini cukup memuaskan sih, setidaknya itu menurut saya.</p>
 <p>Desain yang bagus, karakter heroine Ning Yao yang cantik bak adek kakak dengan Lu Xueqi dari serial Jade Dynasty membuat serial ini menarik.</p>
 <p>Wajar saja keduanya terlihat mirip, soalnya kedua serial ini dikerjakan oleh studio yang sama. Mungkin saja database Ning Yao menggunakan database Lu Xueqi.</p>
 <p>Selain itu koreo pertarungan juga terlihat sangat bagus. Keluesan yang ditampilkan membuat level donghua ini masuk top tier.</p>
