@@ -59,6 +59,6 @@ Dalam kaidah bahasa Indonesia umum, kosong berarti tidak ada dan kosong sejatiny
 <p style="text-align: left;">D) 2044 = Dua Nol Empat Empat</p>
 <h2 style="text-align: left;">Jawaban</h2>
 <p style="text-align: left;">Berdasarkan penjelasan di atas maka jawaban yang paling benar adalah A. Ingat jika kita menganggap Nol dan Kosong adalah dua hal yang sama.</p>
-<p style="text-align: left;">__noteSemua Salah</p>
+<p style="text-align: left;">Semua Salah</p>
 <p style="text-align: left;">referensi:</p>
 <p>john-peter.livejournal.com/1229.html</p>
