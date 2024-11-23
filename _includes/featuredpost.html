@@ -2,5 +2,6 @@
 {%- assign fp = site.posts | where: 'featured', true -%}
 {%- for fp in site.posts -%}
   {{- post.title -}}
+  {{- fp.title -}}
 {%- endfor -%}
 </div>
