@@ -108,11 +108,19 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
   {% endif %}
 
+  {% comment %}
   {% if page.share-img %}
   <meta property="og:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% endif %}  
+  {% endif %}
+  {% endcomment %}
+  
+  {% if post %}
+  <meta property="og:image" content="{{ page.image }}" />
+  {% else %}
+  <meta property="og:image" content="{{ site.avatar }}" />
+  {% endif %}
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
