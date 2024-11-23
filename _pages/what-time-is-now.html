@@ -7,7 +7,9 @@ robots: [noindex, nofollow]
 <div id="get-time">
   {{site.time | date: "%FT%T%:z" }}
 </div>
-<button onclick="copyText("get-time")">Copy</button>
+<br>
+<br>
+<button onclick="copyText('get-time')">Copy</button>
 <script>
 function copyText(elementId) {
 	var copyText = document.getElementById(elementId);
