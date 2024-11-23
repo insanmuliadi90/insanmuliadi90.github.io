@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Kebijakan Privasi
 ---
 Privasi Anda sangat penting bagi kami. Oleh karena itu, kami telah mengembangkan Kebijakan ini agar Anda memahami cara kami mengumpulkan, menggunakan, berkomunikasi, dan mengungkapkan serta memanfaatkan informasi pribadi. Berikut ini menguraikan kebijakan privasi kami.
