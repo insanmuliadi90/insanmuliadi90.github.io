@@ -171,6 +171,7 @@ defaults:
       layout: "post"
       comments: false
       social-share: true
+      excerpt: ""
   -
     scope:
       path: "" # all files
