@@ -9,7 +9,7 @@ search: exclude
     {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{post.url}}</loc>
-        <lastmod>{% if post.lastmod %}{{ post.lastmod | date: "%FT%T%:z" }}{% else %}{{ page.date | date: "%FT%T%:z" }}{% endif %}</lastmod>        
+        <lastmod>{% if post.lastmod %}{{ post.lastmod | date: "%FT%T%:z" }}{% else %}{{ post.date | date: "%FT%T%:z" }}{% endif %}</lastmod>        
     </url>
     {% endfor %}
 
