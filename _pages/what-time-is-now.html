@@ -1,5 +1,8 @@
 ---
 layout: null
+title: Current Time
+description: Current Time
+robots: [noindex, nofollow]
 ---
 <div id="get-time">
   {{site.time | date: "%FT%T%:z" }}
@@ -11,7 +14,7 @@ function copyText(elementId) {
 	if (copyText.innerHTML == "") {alert("Konten kosong!");} else {
 		copyText.select();
 		copyText.setSelectionRange(0, 99999);
-		navigator.clipboard.writeText(copyText.value);
+		navigator.clipboard.writeText(copyText.innerHTML);
 		alert("Konten dengan format HTML berhasil disalin!");
 	}
 }
