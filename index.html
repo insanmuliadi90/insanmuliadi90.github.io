@@ -6,7 +6,10 @@ subtitle: >-
   mi mts ma kn mipa sertifikasi gaji guru cpns
 use-site-title: true
 ---
-
+{% if page.bigimg or page.title %}
+{% assign bulan = "Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,November,Desember" | split: "," %}
+{% assign bulan_angka = page.date | date: "%m" | minus: 1 %}
+{% assign nama_bulan = bulan[bulan_angka] %}
 <div class="posts-list clearfloat">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -27,20 +30,20 @@ use-site-title: true
 	  {% endif %}-->
 	  
     <div class="post-meta">
-     <span>{{ site.author.name }}</span> — <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+     <span>{{ site.author.name }}</span> — <span>{{ page.date | date: "%d" }} {{ nama_bulan }} {{ page.date | date: "%Y" }}</span>
     </div>
 
     <div class="post-entry-container clearfloat">
 <!-- gambar -->
       <div class="post-entry">
 	      {% if post.excerpt and post.excerpt != "" %}
-  {{ post.excerpt }}
-{% elsif post.description %}
-  {{ post.description }}
-{% elsif post.subtitle %}
-  {{ post.subtitle }}
-{% endif %}
-
+	      {{ post.excerpt }}
+	      {% elsif post.description %}
+	      {{ post.description }}
+	      {% elsif post.subtitle %}
+	      {{ post.subtitle }}
+	      {% endif %}
+	      
 	      {% comment %}
 	{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
