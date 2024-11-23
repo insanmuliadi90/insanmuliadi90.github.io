@@ -10,6 +10,7 @@ use-site-title: true
 {% assign bulan_angka = post.date | date: "%m" | minus: 1 %}
 {% assign nama_bulan = bulan[bulan_angka] %}
 <div class="posts-list clearfloat">
+	{% include featuredpost.html %}
   {% for post in paginator.posts %}
   <article class="post-preview">
       {% if post.image %}
