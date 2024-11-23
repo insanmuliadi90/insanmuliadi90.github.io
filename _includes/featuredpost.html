@@ -1,6 +1,6 @@
 <div class="featuredpost">
 {%- assign fp = site.posts | where: 'featured', true -%}
-{%- for fp in site.posts limit = 1 -%}
-  {{- fp.title -}}
+{%- for post in fp -%}
+  {{- post.title -}}
 {%- endfor -%}
 </div>
