@@ -42,6 +42,9 @@ use-site-title: true
 	      {% elsif post.subtitle %}
 	      {{ post.subtitle }}
 	      {% endif %}
+	      {% if post.content != post.excerpt %}
+	      ... <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Selengkapnya</a>
+	      {% endif %}
 	      
 	      {% comment %}
 	{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
