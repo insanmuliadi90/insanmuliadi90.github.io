@@ -3,13 +3,14 @@ layout: null
 title: Current Time
 description: Current Time
 robots: [noindex, nofollow]
+search: exclude
 ---
 <textarea id="get-time">
   {{site.time | date: "%FT%T%:z" }}
 </textarea>
 <br>
 <br>
-<button onclick="copyText('get-time')">Copy</button>
+<button onclick="copyText('get-time')">Copy</button><button onclick="location.reload()">Reload</button>
 <script>
 function copyText(elementId) {
 	var copyText = document.getElementById(elementId);
