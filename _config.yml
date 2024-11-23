@@ -23,7 +23,6 @@ description: Sup Newz merupakan situs yang membahas informasi terkini, K-POP, An
 
 # List of links in the navigation bar
 navbar-links:
-  Karakter: "https://www.supnewz.com/karakter/"
   Kategori: "https://www.supnewz.com/categories/"
   Info Lomba:
     - SD: "https://www.supnewz.com/"
