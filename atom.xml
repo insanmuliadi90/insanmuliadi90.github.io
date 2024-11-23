@@ -1,0 +1,12 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="https://www.w3.org/2005/Atom">
+    {% for post in site.posts %}
+    <entry>
+      <link>{{site.url}}{{post.url}}</link>
+      <updated>{{site.time | date: '%Y-%m-%d' }}</updated>
+    </entry>
+    {% endfor %}
+  </feed>
