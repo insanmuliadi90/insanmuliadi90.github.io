@@ -4,7 +4,7 @@ title: Yang Manakah DUA KOSONG DUA EMPAT?
 description: >-
   Yang Manakah DUA KOSONG DUA EMPAT mengharuskan kita cermat dalam melihat
   kalimat apakah sesuai dengan aturan standar yang ada. Mari kita bahas!
-date: 'Sat Aug 18 2018 08:00:00 GMT+0800 (Central Indonesia Time)'
+date: '2018-08-18'
 categories:
   - tes logika
 tags:
