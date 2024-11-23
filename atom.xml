@@ -6,7 +6,7 @@ layout: null
     {% for post in site.posts %}
     <entry>
       <link>{{site.url}}{{post.url}}</link>
-      <updated>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</updated>
+      <updated>{{ post.date | date: "%FT%T%:z" }}</updated>
     </entry>
     {% endfor %}
   </feed>
