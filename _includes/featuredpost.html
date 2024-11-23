@@ -1,10 +1,12 @@
-<div class="featuredpost">
 {%- assign fp = site.posts | where: 'featured', true -%}
+{%- if fp -%}
+<div class="featuredpost">
 {%- for post in fp -%}
-  {%- for tag in post.tags -%}
-  {{- tag -}}
+  {%- for tag in post.tags limit: 1 -%}
+  <div class="fp-label">{{- tag -}}</div>
   {%- endfor -%}
   <img src="{{- post.image -}}" alt="gambar {{- post.title -}}" width="300" height="169"/>
   <h2 class="featured-title"><a class="featured-url" href="{{- post.url | prepend: site.baseurl -}}">{{- post.title -}}</a></h2>
 {%- endfor -%}
 </div>
+{%- endif -%}
