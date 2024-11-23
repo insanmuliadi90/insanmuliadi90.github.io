@@ -2,6 +2,7 @@
 title: "Maju Ke Depan Mundur Ke Belakang Naik Ke Atas Turun Ke Bawah Keluar = ?"
 date: 2019-01-04
 description: 'Tahu Jawabannya? Maju Ke Depan Mundur Ke Belakang Naik Ke Atas Turun Ke Bawah Keluar = ? Teka-teki ini sering muncul di medsos. Berikut pembahasannya!'
+excerpt: 'Tahu Jawabannya? Maju Ke Depan Mundur Ke Belakang Naik Ke Atas Turun Ke Bawah Keluar = ? Teka-teki ini sering muncul di medsos. Berikut pembahasannya!'
 categories: [tes logika]
 tags: [tes logika, teka-teki]
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmdvYLaMbRfvx446sFEW0tge6POiDwyVgW8bKorQmBXx6O6mxQhu5_t9GzNHk489Cp2jfm_7AbCAdYUiz25RD0dI2obabulN8T4MLL9S3-0DMcJUpMSZXDxJSBZu5UI7GT4PVVW1_7s0/h169-w300-rw/Slide1-min.PNG
