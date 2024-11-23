@@ -1,0 +1,4 @@
+{%- assign fp = site.posts | where: 'featured', true -%}
+{%- for fp in site.posts -%}
+  {{- post.title -}}
+{%- endfor -%}
