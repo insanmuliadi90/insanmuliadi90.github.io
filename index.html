@@ -33,7 +33,9 @@ use-site-title: true
     <div class="post-entry-container clearfloat">
 <!-- gambar -->
       <div class="post-entry">
-	{{ page.excerpt | default: page.description | default: page.subtitle }}
+	{{ post.excerpt }}
+	{{ post.description }}
+	{{ post.subtitle }}
           ... <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Selengkapnya</a>
       </div>
     </div>
