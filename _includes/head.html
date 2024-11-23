@@ -257,11 +257,27 @@ h2,h3,h4{font-weight:bold}
     object-fit: cover;
 }
 
-.fp-label {
+  .featured-label {
     position: absolute;
     top: 0;
     left: 0;
     z-index: 2;
+    display: flex;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+.f-title {
+    background: #000;
+}
+
+.featured-label div {
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.fp-label {
+    background: #FF5722;
 }
 
 h2.featured-title {
