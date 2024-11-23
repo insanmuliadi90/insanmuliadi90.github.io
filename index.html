@@ -34,11 +34,12 @@ use-site-title: true
 <!-- gambar -->
       <div class="post-entry">
 	{% if post.excerpt %}
-{{ post.excerpt }}
-{% elsif post.description %}
-{{ post.description }}
-{% else %}
-{{ post.subtitle }}
+	      {{ post.excerpt }}
+	      {% elsif post.description %}
+	      {{ post.description }}
+	      {% else %}
+	      {{ post.subtitle }}
+	{% endif %}
           ... <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Selengkapnya</a>
       </div>
     </div>
