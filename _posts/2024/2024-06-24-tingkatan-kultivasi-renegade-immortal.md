@@ -1,12 +1,22 @@
 ---
 layout: post
-title: 'Tingkatan kultivasi Renegade Immortal (Ranking Kultivasi)'
-date: 2024-06-24
-description: Berikut ini adalah daftar Tingkatan kultivasi donghua Renegade Immortal yang benar
-excerpt: Berikut ini adalah daftar Tingkatan kultivasi donghua Renegade Immortal yang benar
-categories: [donghua,renegade immortal]
-tags: [xian ni]
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa_UHn2UVaN6p5v30MUNPm2i-oqcC5DYieTTFS9ErMBPXH68oG6rGea-sdiEygZrHFnVAtjN8sUT4AIsQXYqfHirlODlfJ_bmNFRkI_B_M1-CCANqhZtN28z8OFjyGP25zQ-4FygBTqUBuC-2J-1uhZhk2Wr-R1cxOD8GRRNRsIu0cCM0/h169-w300-rw/kultivasi-renegade-immortal.webp
+title: Tingkatan kultivasi Renegade Immortal (Ranking Kultivasi)
+date: 'Mon Jun 24 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  Berikut ini adalah daftar Tingkatan kultivasi donghua Renegade Immortal yang
+  benar
+excerpt: >-
+  Berikut ini adalah daftar Tingkatan kultivasi donghua Renegade Immortal yang
+  benar
+categories:
+  - donghua
+  - renegade immortal
+tags:
+  - xian ni
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa_UHn2UVaN6p5v30MUNPm2i-oqcC5DYieTTFS9ErMBPXH68oG6rGea-sdiEygZrHFnVAtjN8sUT4AIsQXYqfHirlODlfJ_bmNFRkI_B_M1-CCANqhZtN28z8OFjyGP25zQ-4FygBTqUBuC-2J-1uhZhk2Wr-R1cxOD8GRRNRsIu0cCM0/h169-w300-rw/kultivasi-renegade-immortal.webp
+published: false
+lastmod: '2024-11-23T14:16:54+08:00'
 ---
 <figure>
   <img alt="Tingkatan kultivasi Renegade Immortal" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa_UHn2UVaN6p5v30MUNPm2i-oqcC5DYieTTFS9ErMBPXH68oG6rGea-sdiEygZrHFnVAtjN8sUT4AIsQXYqfHirlODlfJ_bmNFRkI_B_M1-CCANqhZtN28z8OFjyGP25zQ-4FygBTqUBuC-2J-1uhZhk2Wr-R1cxOD8GRRNRsIu0cCM0/s1600-rw/kultivasi-renegade-immortal.webp" width="1280" />
@@ -27,7 +37,7 @@ image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa
 <h3>6. 婴变 (Soul Transformation/Spirit Severing / Transformasi Jiwa)</h3>
 <p>Terdiri dari empat lapisan: awal, menengah, akhir, dan siklus besar. Kekuatan spiritual bertransformasi menjadi kekuatan immortal, tubuh fana berubah menjadi immortal, dan jiwa origin yang semula ilusi berubah menjadi nyata dan bergabung dengan tubuh immortal.</p>
 <h3>7. 问鼎 (Ascendant)</h3>
-<p>Tahapan ini terdiri dari empat lapisan: awal, menengah, akhir, dan siklus besar. Pada tahap ini, domain berintegrasi dengan kekuatan immortal dan kultivator mulai menguasai kekuatan jiwa sepenuhnya.</p><p>Baca juga: <a href="https://www.supnewz.com/2023/07/tingkatan-kultivasi-btth.html" target="_blank">Sistem Kultivasi BTTH</a>&nbsp;</p>
+<p>Tahapan ini terdiri dari empat lapisan: awal, menengah, akhir, dan siklus besar. Pada tahap ini, domain berintegrasi dengan kekuatan immortal dan kultivator mulai menguasai kekuatan jiwa sepenuhnya.</p><p>Baca juga: <a href="https://www.supnewz.com/tingkatan-kultivasi-btth" target="_blank">Sistem Kultivasi BTTH</a>&nbsp;</p>
 <h2>Langkah kedua</h2>
 <h3>8. 阴虚 (Illusory Yin / Incorporeal Yin)</h3>
 <p>Tahap transisi ini membawa kultivator lebih dekat ke Langkah Kedua, namun belum sepenuhnya mencapainya. Di tahap Yin Xu, jiwa origin mulai berubah dan dapat mengakses serta menggunakan kekuatan origin dari alam. Secara bertahap, kekuatan origin menggantikan kekuatan immortal melalui proses yang dikenal sebagai Hua Yuan, memungkinkan kultivator untuk memanfaatkan kemampuan supernatural yang berasal dari kekuatan origin.</p>
