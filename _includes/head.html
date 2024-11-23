@@ -5,8 +5,13 @@
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="author" content="{{ site.author.name }}" />
   <meta content='max-image-preview:large' name='robots'/>
+  {% if page.robots %}
+  <meta name="robots" content="{{page.robots}}" />
+  <meta name='googlebot' content='{{page.robots}}'/>
+  {% else %}
   <meta content='index/follow' name='robots'/>
   <meta content='index/follow' name='googlebot'/>
+  {% endif %}
   <meta content='jekyll' name='generator'/>
   {% comment %}
   <!--
@@ -30,9 +35,7 @@
    
   <meta name="google-site-verification" content="BUKsRCQUnW1YHHOwi5qynyjx2-Y4kE0HWw8pJVDRArE" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - RSS" href="{{ site.baseurl }}/feed.xml" />
-  {% if page.robots %}
-  <meta name="robots" content="{{page.robots}}" />
-  {% endif %}
+
   {% include gtm_head.html %}
   {% comment %}
   <!--
