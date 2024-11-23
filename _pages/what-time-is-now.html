@@ -4,19 +4,19 @@ title: Current Time
 description: Current Time
 robots: [noindex, nofollow]
 ---
-<div id="get-time">
+<textarea id="get-time">
   {{site.time | date: "%FT%T%:z" }}
-</div>
+</textarea>
 <br>
 <br>
 <button onclick="copyText('get-time')">Copy</button>
 <script>
 function copyText(elementId) {
 	var copyText = document.getElementById(elementId);
-	if (copyText.innerHTML == "") {alert("Konten kosong!");} else {
+	if (copyText.value == "") {alert("Konten kosong!");} else {
 		copyText.select();
 		copyText.setSelectionRange(0, 99999);
-		navigator.clipboard.writeText(copyText.innerHTML);
+		navigator.clipboard.writeText(copyText.value);
 		alert("Konten dengan format HTML berhasil disalin!");
 	}
 }
