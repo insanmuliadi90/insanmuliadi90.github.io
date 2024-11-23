@@ -7,13 +7,11 @@ tags: [tes logika, teka-teki]
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3M16EKlc1UXGlI3ifHyAcW6Ax_ZLP4rKUi2c9DU833fhhBOeZdAyI6aW9nfIXySeWqXIEHjlir6GhIA4BWep9Dg-gzkdzjmO4HmHgGi_jklAJVu5Ryn6Q4BA1FMb4iGKHNFnEG2pylE/h169-w300-rw/2024-min.png
 permalink: /2018/09/yang-manakah-dua-kosong-dua-empat.html
 ---
-
 <p style="text-align: left;">
-	<strong>Yang manakah "DUA KOSONG DUA EMPAT"?</strong>. Pernah mendapatkan teka-teki ini di facebook atau whatsapp grup?. Sebuah pertanyaan yang akan nge<em>drag</em> otak kalian untuk berpikir lebih keras dan kreatif.</p>
-	<figure>
+<strong>Yang manakah "DUA KOSONG DUA EMPAT"?</strong>. Pernah mendapatkan teka-teki ini di facebook atau whatsapp grup?. Sebuah pertanyaan yang akan nge<em>drag</em> otak kalian untuk berpikir lebih keras dan kreatif.</p>
+<figure>
 	<img alt="Yang Manakah dua kosong dua empat" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3M16EKlc1UXGlI3ifHyAcW6Ax_ZLP4rKUi2c9DU833fhhBOeZdAyI6aW9nfIXySeWqXIEHjlir6GhIA4BWep9Dg-gzkdzjmO4HmHgGi_jklAJVu5Ryn6Q4BA1FMb4iGKHNFnEG2pylE/s1600-rw/2024-min.png" title="Yang Manakah dua kosong dua empat" width="1280" />
-	<figcaption>sumber: <a href="http://maps.google.co.kr/url?q=https%3A%2F%2Fwww.goinsan.com%2F" target="_blank">goinsan.com</a>
-</figcaption>
+	<figcaption>sumber: <a href="http://maps.google.co.kr/url?q=https://www.goinsan.com/" target="_blank">goinsan.com</a></figcaption>
 </figure>
 <h2 style="text-align: left;">Pembahasan Yang manakah "DUA KOSONG DUA EMPAT"?</h2>
 <p style="text-align: left;">Pertanyaan lengkapnya kurang lebih seperti ini:</p>
