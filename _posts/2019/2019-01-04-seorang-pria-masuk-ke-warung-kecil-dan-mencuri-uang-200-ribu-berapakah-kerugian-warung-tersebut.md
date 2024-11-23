@@ -10,18 +10,20 @@ subtitle: >-
 date: '2019-01-04'
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRQjgMWmHBJ3srwTzG4FDyac3PEnoAQluX5nFGZ9-4056C0SJ_o2YKFilY3HBJg0IXvN2yeNqvNw8wOo7BMU1Ndn3JovJNvgoZ0iQ8HB75yH1rQJayZ2CTPoPX3gdU7-QBtWBd_aiRro/h169-w300-rw/teka-teki-min.png
+categories: [tes logika]
+tags [tes logika,teka-teki]
 permalink: 2019/01/seorang-pria-masuk-ke-warung-kecil-dan.html
 ---
 Tes Logika...
 
 Seorang pria masuk ke warung kecil, dan mencuri uang 200 ribu tanpa sepengetahuan. 5 menit kemudian pria masuk lagi dan membeli barang 140 ribu dengan uang curian itu dan oleh pemilik warung dia diberi kembalian 60 ribu. Berapakah kerugian warung tersebut?
 
-a. 60 ribu
-b. 140 ribu
-c. 200 ribu
-d. 260 ribu
-e. 340 ribu
-f. 400 ribu
+a. 60 ribu<br>
+b. 140 ribu<br>
+c. 200 ribu<br>
+d. 260 ribu<br>
+e. 340 ribu<br>
+f. 400 ribu<br>
 
 <img alt="Seorang pria masuk ke warung kecil, dan mencuri uang 200 ribu tanpa sepengetahuan. 5 menit kemudian pria masuk lagi dan membeli barang 140 rib dengan kembalian 60 ribu. Berapakah kerugian warung tersebut?" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRQjgMWmHBJ3srwTzG4FDyac3PEnoAQluX5nFGZ9-4056C0SJ_o2YKFilY3HBJg0IXvN2yeNqvNw8wOo7BMU1Ndn3JovJNvgoZ0iQ8HB75yH1rQJayZ2CTPoPX3gdU7-QBtWBd_aiRro/s1600/teka-teki-min.png" title="Seorang pria masuk ke warung kecil, dan mencuri uang 200 ribu tanpa sepengetahuan. 5 menit kemudian pria masuk lagi dan membeli barang 140 rib dengan kembalian 60 ribu. Berapakah kerugian warung tersebut?" width="1280"/>
 
