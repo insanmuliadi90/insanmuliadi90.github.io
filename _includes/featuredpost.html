@@ -1,6 +1,7 @@
 <div class="featuredpost">
 {%- assign fp = site.posts | where: 'featured', true -%}
 {%- for post in fp -%}
-  {{- post.title -}}
+  {{- post.image -}}
+  <h2 class="featured-title"><a class="featured-url" href="{{- post.url | prepend: site.baseurl -}}">{{- post.title -}}</a></h2>
 {%- endfor -%}
 </div>
