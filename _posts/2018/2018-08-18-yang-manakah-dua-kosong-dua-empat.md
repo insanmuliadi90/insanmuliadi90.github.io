@@ -1,6 +1,6 @@
 ---
-title: Yang Manakah DUA KOSONG DUA EMPAT?
-description: Yang Manakah DUA KOSONG DUA EMPAT mengharuskan kita cermat dalam melihat kalimat apakah sesuai dengan aturan standar yang ada. Mari kita bahas!
+title: 'Yang Manakah DUA KOSONG DUA EMPAT?'
+description: 'Yang Manakah DUA KOSONG DUA EMPAT mengharuskan kita cermat dalam melihat kalimat apakah sesuai dengan aturan standar yang ada. Mari kita bahas!'
 categories: [tes logika]
 tags: [tes logika, teka-teki]
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3M16EKlc1UXGlI3ifHyAcW6Ax_ZLP4rKUi2c9DU833fhhBOeZdAyI6aW9nfIXySeWqXIEHjlir6GhIA4BWep9Dg-gzkdzjmO4HmHgGi_jklAJVu5Ryn6Q4BA1FMb4iGKHNFnEG2pylE/h169-w300-rw/2024-min.png
