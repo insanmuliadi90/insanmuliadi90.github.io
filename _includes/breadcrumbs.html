@@ -3,7 +3,6 @@
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-{% assign slug = tag | downcase | replace: ' ', '-' | replace: "'", '' %}
 {% unless page.categories == empty %}
 <nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -14,8 +13,9 @@
       <meta itemprop="position" content="1" />
     </li>
   {% for category in categories %}
+    {% assign slug = category | downcase | replace: ' ', '-' | replace: "'", '' %}
     <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <a itemprop="item" href="{{site.baseurl}}/categories/{{category|slugize}}"><span itemprop="name">{{category}}</span></a>
+      <a itemprop="item" href="{{site.baseurl}}/categories/{{slug}}"><span itemprop="name">{{category}}</span></a>
       <meta itemprop="position" content="{{ forloop.index == 1 | plus: 1 }}" />
     </li>
   {% unless forloop.last %}{% endunless %}
