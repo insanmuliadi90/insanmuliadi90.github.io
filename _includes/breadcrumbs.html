@@ -3,6 +3,7 @@
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
+{% assign slug = tag | downcase | replace: ' ', '-' | replace: "'", '' %}
 {% unless page.categories == empty %}
 <nav class="breadcrumbs-wrapper">
   <ul class="breadcrumbs row" itemscope itemtype="http://schema.org/BreadcrumbList">
