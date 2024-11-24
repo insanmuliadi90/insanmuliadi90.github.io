@@ -9,7 +9,7 @@
         {%- endfor -%}
     	</div>
   <div class="featuredbody">
-    <img src="{{- post.image -}}" alt="gambar {{- post.title -}}" width="300" height="169"/>
+    <img src="{{- post.featuredImage -}}" alt="gambar {{- post.title -}}" width="300" height="169"/>
     <h2 class="featured-title"><a class="featured-url" href="{{- post.url | prepend: site.baseurl -}}">{{- post.title -}}</a></h2>
   </div>
   {%- endfor -%}
