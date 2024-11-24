@@ -48,7 +48,7 @@ layout: base
   {% for tag in page.tags %}
     {% assign slug = tag | downcase | replace: ' ', '-' | replace: "'", '' %}
     {% capture tag_name %}{{ slug }}{% endcapture %}
-    <a href="/tags/{{ tag_name }}"><code class="highligher-rouge">{{ tag }}</code>&nbsp;</a>
+    <a href="/tags/{{ tag_name }}">{{ tag }}</a>
   {% endfor %}
 </span>
           {% comment %}
