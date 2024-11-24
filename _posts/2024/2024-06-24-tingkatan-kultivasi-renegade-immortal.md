@@ -18,6 +18,8 @@ image: >-
 published: true
 lastmod: '2024-11-23T21:20:36+08:00'
 featured: 'true'
+featuredImage: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa_UHn2UVaN6p5v30MUNPm2i-oqcC5DYieTTFS9ErMBPXH68oG6rGea-sdiEygZrHFnVAtjN8sUT4AIsQXYqfHirlODlfJ_bmNFRkI_B_M1-CCANqhZtN28z8OFjyGP25zQ-4FygBTqUBuC-2J-1uhZhk2Wr-R1cxOD8GRRNRsIu0cCM0/h380-w640-rw/kultivasi-renegade-immortal.webp
 ---
 <figure>
   <img alt="Tingkatan kultivasi Renegade Immortal" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8atx38r6roQa_UHn2UVaN6p5v30MUNPm2i-oqcC5DYieTTFS9ErMBPXH68oG6rGea-sdiEygZrHFnVAtjN8sUT4AIsQXYqfHirlODlfJ_bmNFRkI_B_M1-CCANqhZtN28z8OFjyGP25zQ-4FygBTqUBuC-2J-1uhZhk2Wr-R1cxOD8GRRNRsIu0cCM0/s1600-rw/kultivasi-renegade-immortal.webp" width="1280" />
