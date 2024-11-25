@@ -280,8 +280,14 @@ h2,h3,h4{font-weight:bold}
 .featuredinfo {
     position: relative;
     background: #000;
+  z-index:1
 }
-  .featuredtag{display:flex;margin-bottom:10px}
+.featuredtag {
+    display: flex;
+    position: absolute;
+    left: 20px;
+    top: -40px;
+}
   .fp-label a{color:#fff;font-size:12px;padding:4px 6px;display:block;text-transform:capitalize;border-radius:20px;background:#fe5930}
 h2.featured-title {
     font-size: 22px;
