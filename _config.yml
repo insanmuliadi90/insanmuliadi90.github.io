@@ -87,10 +87,10 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
-  facebook: true
-  email: true
-  twitter: true
+  rss: false
+  facebook: false
+  email: false
+  twitter: false
   github: false
   linkedin: false
   xing: false
