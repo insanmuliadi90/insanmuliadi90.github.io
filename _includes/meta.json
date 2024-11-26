@@ -9,7 +9,7 @@
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.metadescription | escape }}",
   "datePublished": "{{ page.date | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
-  "dateModified": "{{ page.lastmod | date: "%Y-%m-%dT%H:%M:%S%:z" | default: page.date | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
+  "dateModified": "{{ page.lastmod | date: "%Y-%m-%dT%H:%M:%S%:z" | default: site.date | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
   
   "image": {
     "@type": "ImageObject",
