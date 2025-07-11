@@ -1,11 +1,22 @@
 ---
-title: 'Swallowed Star Episode 92: Tukang Parkir Stasiun Pemberhentian Planet Horned Dragon Adalah Star Traveller!'
-date: 2023-11-29
-description: Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
-excerpt: Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
-categories: [donghua,swallowed star]
+layout: post
+title: >-
+  Swallowed Star Episode 92: Tukang Parkir Stasiun Pemberhentian Planet Horned
+  Dragon Adalah Star Traveller!
+date: 'Wed Nov 29 2023 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet
+  Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
+excerpt: >-
+  Swallowed Star Episode 92, Luo Feng tiba di stasiun Pemberhentian Planet
+  Horned Dragon. Petugas parkirnya ternyata kultivasinya sangat tinggi!
+categories:
+  - donghua
+  - swallowed star
 tags: swallowed star
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAs2-SaG143yhJoHWvcLiPDQGhseVRHnoRi-oNpU9OHJ3qOjcidc9N2FVNgjSPm9PBx1RO_Uq0qgcx0sU8xs6JROOLa_TJ_y157fo0Hzdo3NwiK3Pe7WWKaqY28I5JK2DsmTA7CJ__f2YmTwa8hxV_QQDHIseXXyKIk1jeD7munv_DCuRHRtBXSHuR8co/h169-w300-rw/petugas-parkir-stasiun-planet-horned-dragon-min.webp
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAs2-SaG143yhJoHWvcLiPDQGhseVRHnoRi-oNpU9OHJ3qOjcidc9N2FVNgjSPm9PBx1RO_Uq0qgcx0sU8xs6JROOLa_TJ_y157fo0Hzdo3NwiK3Pe7WWKaqY28I5JK2DsmTA7CJ__f2YmTwa8hxV_QQDHIseXXyKIk1jeD7munv_DCuRHRtBXSHuR8co/h169-w300-rw/petugas-parkir-stasiun-planet-horned-dragon-min.webp
+published: false
 ---
 <figure>
 	<img alt="Swallowed Star Episode 92: Tukang Parkir Stasiun Pemberhentian Planet Horned Dragon Adalah Star Traveler Tingkat 9" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAs2-SaG143yhJoHWvcLiPDQGhseVRHnoRi-oNpU9OHJ3qOjcidc9N2FVNgjSPm9PBx1RO_Uq0qgcx0sU8xs6JROOLa_TJ_y157fo0Hzdo3NwiK3Pe7WWKaqY28I5JK2DsmTA7CJ__f2YmTwa8hxV_QQDHIseXXyKIk1jeD7munv_DCuRHRtBXSHuR8co/s1600-rw/petugas-parkir-stasiun-planet-horned-dragon-min.webp" width="1280" />
