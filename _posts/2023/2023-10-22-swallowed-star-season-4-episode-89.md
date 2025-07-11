@@ -1,11 +1,22 @@
 ---
-title: Swallowed Star Season 4 Episode 89, PUASS! Luo Feng Tidak Memberi Ampun Kepada Atkin DKK
-date: 2023-10-22
-categories: [donghua,swallowed star]
+layout: post
+title: >-
+  Swallowed Star Season 4 Episode 89, PUASS! Luo Feng Tidak Memberi Ampun Kepada
+  Atkin DKK
+date: 'Sun Oct 22 2023 08:00:00 GMT+0800 (Central Indonesia Time)'
+categories:
+  - donghua
+  - swallowed star
 tags: []
-description: Swallowed Star Season 4 episode 89 Luo Feng yang berhasil membentuk tubuh klon, kembali ke Hanxia untuk membalas penyerang Xu Xin. Baca selengkapnya
-excerpt: Swallowed Star Season 4 episode 89 Luo Feng yang berhasil membentuk tubuh klon, kembali ke Hanxia untuk membalas penyerang Xu Xin. Baca selengkapnya
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_iv5U5Y6x-gX3ZyXcW_MxGHllPACkY92dpvB5UO7APlpBImOT7ED0MTYuWY0VjGAFa1MKBjtWHIDa2dgQdn6dzkmLL8z-u3KLgOEIAJeTI0d-jnCB-AgnmTHcoTKTW1xPpJ_IDSwoAB256ApmTqof5IbHsQGi-4mCI0yduAXJl5Ap9iCfPKwE0u2PRiQ/h169-w300-rw/luo-feng-vs-atkin.webp
+description: >-
+  Swallowed Star Season 4 episode 89 Luo Feng yang berhasil membentuk tubuh
+  klon, kembali ke Hanxia untuk membalas penyerang Xu Xin. Baca selengkapnya
+excerpt: >-
+  Swallowed Star Season 4 episode 89 Luo Feng yang berhasil membentuk tubuh
+  klon, kembali ke Hanxia untuk membalas penyerang Xu Xin. Baca selengkapnya
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_iv5U5Y6x-gX3ZyXcW_MxGHllPACkY92dpvB5UO7APlpBImOT7ED0MTYuWY0VjGAFa1MKBjtWHIDa2dgQdn6dzkmLL8z-u3KLgOEIAJeTI0d-jnCB-AgnmTHcoTKTW1xPpJ_IDSwoAB256ApmTqof5IbHsQGi-4mCI0yduAXJl5Ap9iCfPKwE0u2PRiQ/h169-w300-rw/luo-feng-vs-atkin.webp
+published: false
 ---
 <figure>
 	<img alt="Swallowed Star Season 4 Episode 89" height="598" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_iv5U5Y6x-gX3ZyXcW_MxGHllPACkY92dpvB5UO7APlpBImOT7ED0MTYuWY0VjGAFa1MKBjtWHIDa2dgQdn6dzkmLL8z-u3KLgOEIAJeTI0d-jnCB-AgnmTHcoTKTW1xPpJ_IDSwoAB256ApmTqof5IbHsQGi-4mCI0yduAXJl5Ap9iCfPKwE0u2PRiQ/s1600-rw/luo-feng-vs-atkin.webp" width="1063" />
