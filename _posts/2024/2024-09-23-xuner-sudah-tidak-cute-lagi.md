@@ -1,11 +1,17 @@
 ---
+layout: post
 title: Xun'er Sudah Tidak Cute Lagi
 description: Xun'er akhirnya mendapatkan upgrade baru untuk wajahnya
-date: 2024-09-23
-categories: [donghua,btth]
-tags: [xun'er]
+date: 'Mon Sep 23 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+categories:
+  - donghua
+  - btth
+tags:
+  - xun'er
 excerpt: Desain baru wajah Xun'er di BTTH
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1D7m6_S4f-PEUkkGY3gtbvVWricMSsUHr1_-pNvZKVT1trCm_lkPGSq9st7XIhz0YuoECI3ihSK5oD-x7exKH54loRfa97qvH_sD_T4BMT9E378Q3zlbiySFfVrg1GQH6BY3P7yCBp8cqGV9_VNsMl_1fK9530JSSVL_x1m1xum1FKfNj8Bq7R0WGNng/h169-w300-rw/xiao-xuner.webp
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1D7m6_S4f-PEUkkGY3gtbvVWricMSsUHr1_-pNvZKVT1trCm_lkPGSq9st7XIhz0YuoECI3ihSK5oD-x7exKH54loRfa97qvH_sD_T4BMT9E378Q3zlbiySFfVrg1GQH6BY3P7yCBp8cqGV9_VNsMl_1fK9530JSSVL_x1m1xum1FKfNj8Bq7R0WGNng/h169-w300-rw/xiao-xuner.webp
+published: true
 ---
 <figure>
   <img alt="" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1D7m6_S4f-PEUkkGY3gtbvVWricMSsUHr1_-pNvZKVT1trCm_lkPGSq9st7XIhz0YuoECI3ihSK5oD-x7exKH54loRfa97qvH_sD_T4BMT9E378Q3zlbiySFfVrg1GQH6BY3P7yCBp8cqGV9_VNsMl_1fK9530JSSVL_x1m1xum1FKfNj8Bq7R0WGNng/s1600-rw/xiao-xuner.webp" width="1280" />
