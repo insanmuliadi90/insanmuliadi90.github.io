@@ -1,12 +1,21 @@
 ---
+layout: post
 title: 'Teka-teki: Berapakah kode kunci yang benar?'
-date: 2020-07-08
-description: 'KODE KUNCI GEMBOK 6,8,2 satu nomor benar dan di posisi yang tepat 6,1,4 satu nomor benar tetapi di posisi yang salah 2,0,6 dua nomor benar,  jawaban'
-excerpt: 'KODE KUNCI GEMBOK 6,8,2 satu nomor benar dan di posisi yang tepat 6,1,4 satu nomor benar tetapi di posisi yang salah 2,0,6 dua nomor benar,  jawaban'
-categories: [tes logika]
-tags: [tes logika, teka-teki]
-permalink : /2020/07/teka-teki-berapakah-kode-kunci-yang-benar.html
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdlGgT3NlO79DBMyRjyCbhteYBAmLzKJwxcngeqi9A2VOXWxW8S2c8oVt6PfT1hFsNuzIH6u-E7PfS82JXJ92KerpEIapVKLTy11hO5avr2LCKJyA4nFpZNXbGSMZfswzUOIMOCvrmv-c/h169-w300-rw/kode+kunci-min.png
+date: 'Wed Jul 08 2020 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  KODE KUNCI GEMBOK 6,8,2 satu nomor benar dan di posisi yang tepat 6,1,4 satu
+  nomor benar tetapi di posisi yang salah 2,0,6 dua nomor benar,  jawaban
+excerpt: >-
+  KODE KUNCI GEMBOK 6,8,2 satu nomor benar dan di posisi yang tepat 6,1,4 satu
+  nomor benar tetapi di posisi yang salah 2,0,6 dua nomor benar,  jawaban
+categories:
+  - tes logika
+tags:
+  - tes logika
+  - teka-teki
+permalink: /2020/07/teka-teki-berapakah-kode-kunci-yang-benar.html
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdlGgT3NlO79DBMyRjyCbhteYBAmLzKJwxcngeqi9A2VOXWxW8S2c8oVt6PfT1hFsNuzIH6u-E7PfS82JXJ92KerpEIapVKLTy11hO5avr2LCKJyA4nFpZNXbGSMZfswzUOIMOCvrmv-c/h169-w300-rw/kode+kunci-min.png
 ---
 
 <p style="text-align: left;">Kembali dengan topik teka-teki seperti biasanya. Kali ini saya akan membahas
