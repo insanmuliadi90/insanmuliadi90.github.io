@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: 'Saat Rina berumur 16 tahun, umur Dita setengah umur Rina'
 date: '2020-11-07'
 image: >-
