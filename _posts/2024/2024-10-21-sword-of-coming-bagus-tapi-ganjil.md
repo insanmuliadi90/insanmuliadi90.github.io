@@ -12,7 +12,7 @@ description: Beberapa keganjilan serial Sword of Coming
 excerpt: Beberapa keganjilan serial Sword of Coming
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7S-9-ZtAC9E_bBMIPGNpTULWhcDQ69zGNH0ZNLRS9bYIB-I7HUpUOs_hG9pvnXa3u7fdu2irTWSqec4v4foSI6R3mLWesgoUYeCF19lKn2r9RrLBSRi9515TjXcMPm8KIOdKdpEznNyM-waliiW0OOiESAK-2PDCgCaEfBPhbgH_IfBT8ZSdBiLkIZ8/h169-w300-rw/jian-lai.webp
-published: true
+published: false
 ---
 <figure>
   <img alt="Sword of Coming" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7S-9-ZtAC9E_bBMIPGNpTULWhcDQ69zGNH0ZNLRS9bYIB-I7HUpUOs_hG9pvnXa3u7fdu2irTWSqec4v4foSI6R3mLWesgoUYeCF19lKn2r9RrLBSRi9515TjXcMPm8KIOdKdpEznNyM-waliiW0OOiESAK-2PDCgCaEfBPhbgH_IfBT8ZSdBiLkIZ8/s1600-rw/jian-lai.webp" width="1280" />
