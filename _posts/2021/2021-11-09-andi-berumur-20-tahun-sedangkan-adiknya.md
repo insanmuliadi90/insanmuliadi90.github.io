@@ -16,6 +16,7 @@ tags:
 image: >-
   https://blogger.googleusercontent.com/img/a/AVvXsEjFmBlOMA9ewSsUobeleIxPabBAxvNBkg7tMtE6GEUFgK-LmCzGDA_krbzobCKQlvAFWoFHPoD5iw5MJguWjpkm_XOghMuMUp3oEYFJVxUqGgYfqUgABPkarOVPYTw-d1n2YVtjYMoHwc-OCBr_X0y9hlsLS7W4RMpIk134JynjRkK8SlqxBgL9Zt2c=h169-w300-rw
 permalink: /2021/11/andi-berumur-20-tahun-sedangkan-adiknya.html
+published: false
 ---
 <img alt="Andi berumur 20 tahun sedangkan adiknya 1/2 tahun umurnya andi jika andi berumur 50 tahun berapa umur adik andi?" height="720" src="https://blogger.googleusercontent.com/img/a/AVvXsEjFmBlOMA9ewSsUobeleIxPabBAxvNBkg7tMtE6GEUFgK-LmCzGDA_krbzobCKQlvAFWoFHPoD5iw5MJguWjpkm_XOghMuMUp3oEYFJVxUqGgYfqUgABPkarOVPYTw-d1n2YVtjYMoHwc-OCBr_X0y9hlsLS7W4RMpIk134JynjRkK8SlqxBgL9Zt2c=s16000-rw" title="Andi berumur 20 tahun sedangkan adiknya 1/2 tahun umurnya andi jika andi berumur 50 tahun berapa umur adik andi?" width="1280"/><br /><p>
   Andi berumur 20 tahun sedangkan adiknya 1/2 tahun umurnya andi jika andi
