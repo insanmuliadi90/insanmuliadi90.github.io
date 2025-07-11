@@ -1,11 +1,18 @@
 ---
+layout: post
 title: Ranah Kultivasi Swallowed Star
-date: 2024-01-24
-description: Berikut Ranah Kultivasi Swallowed Star mulai dari rank terendah sampai tertinggi
-categories: [donghua, swallowed star]
+date: 'Wed Jan 24 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  Berikut Ranah Kultivasi Swallowed Star mulai dari rank terendah sampai
+  tertinggi
+categories:
+  - donghua
+  - swallowed star
 tags: []
-excerpt: Sistem kultivasi yang ada dalam serial ini secara terstruktur 
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9N1khjr6nRjLfDRcldZuopBmDdbKWF_PXWjJafFjyLxcRjecXzY6wsRRyMIXtEJayV1sIqU8jHfdTDVQ7O82YuVSk1TXImk8_AwiW-DXh89VFVZnpwKR50v_JFEdrzTNPTuMFNaamkwiuhoPc8leBDmsM7Rh7gU_TvM9ZGrpbC1T3koYVNWRHH05WCpI/h169-w300-rw/ranah-kultivasi-swallowed-star.webp
+excerpt: Sistem kultivasi yang ada dalam serial ini secara terstruktur
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9N1khjr6nRjLfDRcldZuopBmDdbKWF_PXWjJafFjyLxcRjecXzY6wsRRyMIXtEJayV1sIqU8jHfdTDVQ7O82YuVSk1TXImk8_AwiW-DXh89VFVZnpwKR50v_JFEdrzTNPTuMFNaamkwiuhoPc8leBDmsM7Rh7gU_TvM9ZGrpbC1T3koYVNWRHH05WCpI/h169-w300-rw/ranah-kultivasi-swallowed-star.webp
+published: false
 ---
 <figure>
 	<img alt="Ranah Kultivasi Swallowed Star" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9N1khjr6nRjLfDRcldZuopBmDdbKWF_PXWjJafFjyLxcRjecXzY6wsRRyMIXtEJayV1sIqU8jHfdTDVQ7O82YuVSk1TXImk8_AwiW-DXh89VFVZnpwKR50v_JFEdrzTNPTuMFNaamkwiuhoPc8leBDmsM7Rh7gU_TvM9ZGrpbC1T3koYVNWRHH05WCpI/s1600-rw/ranah-kultivasi-swallowed-star.webp" width="1280" />
