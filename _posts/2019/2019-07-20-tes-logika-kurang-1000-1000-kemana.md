@@ -14,6 +14,7 @@ categories:
 tags: tes logika
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwMwhLhzO86zP97aN4Hn4aQ2YjGithfAXTZ9HkgGA2JRvAc8-Jl4Vpwy9sM1kzbrEWQ6UZ3iRmMXpGjcd9Iiuh1ivs3IfDVsorXn0LVyzwqoSsTMtnJH3UStQkqq4XzQdmd09aeL0CRE/h169-w300-rw/FB_IMG_1556683377479-min.jpg
+published: false
 ---
 <p style="text-align: left;">Nah satu lagi teka-tegi/tes logi yang sering berseliweran di media sosial facebook adalah "Uangnya kurang 1000".</p><h2 style="text-align: left;">Kurang 1000, 1000 kemana?</h2><p style="text-align: left;">Lengkapnya berupa sebuah kkronologi dimana ada seseorang yang memiliki sejumlah uang yang kemudian ia belanjakan. Ia kemudian menjumlah uang sisanya dan ternyata jumlah totalnya tidak sesuai dengan jumlah awalnya, Untuk lebih jelasnya perhatikan gambar berikut:</p><div>
 <figure>
