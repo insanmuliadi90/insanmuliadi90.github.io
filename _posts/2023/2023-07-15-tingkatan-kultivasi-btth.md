@@ -7,6 +7,7 @@ tag: [ btth,kultivasi ]
 description: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
 excerpt: Download RPP Merdeka Dasar-dasar Agriteknologi Pengolahan hasil pertanian SMK untuk  Sekolah Menengah Kejuruan  sesuai kurikulum
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoGKqHy-wjsJqUCFhMCbjfBszqMfcgYBf-X-kEZNKpqRXninXwVSZ_Iat_D8x-fchc9EuugkeJxNDkyr15dEqEmC6-JcmnCI88WKTtQ_l-h5_jpBnjI6wbnOSo0R5EvHu3EzMEEthyx36WU5egP3tws3P8xgGxS2iuaT6XDRZF3sXkPVOigiOfewVnm0/h169-w300-rw/tingkatan-kultivasi-btth.webp
+published: false
 ---
 <figure>
 	<img alt="Tingkatan Kultivasi BTTH" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoGKqHy-wjsJqUCFhMCbjfBszqMfcgYBf-X-kEZNKpqRXninXwVSZ_Iat_D8x-fchc9EuugkeJxNDkyr15dEqEmC6-JcmnCI88WKTtQ_l-h5_jpBnjI6wbnOSo0R5EvHu3EzMEEthyx36WU5egP3tws3P8xgGxS2iuaT6XDRZF3sXkPVOigiOfewVnm0/s1600-rw/tingkatan-kultivasi-btth.webp" width="1280" />
