@@ -1,14 +1,17 @@
 ---
 layout: post
-published: true
+published: false
 title: Berapakah Jumlah Kotak Pada Gambar Ini? ∫ Teka-Teki Facebook
 subtitle: Teka-teki. tes logika cara menghitung berapa jumlah kotak
 excerpt: Teka-teki. tes logika cara menghitung berapa jumlah kotak
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvh1HWDYPiPUa17cDg1LJhcias5OOFhIZ8ra34egSx8Nm3ZURuVzS-krzJ__8mUUUi6EF1jHTnT4X7npQAr-1zWLCUMqwOX5np_9vfpTQxbs9COIWXczMyzqyyzRLXPAmZXAvu32W-pqwd8mv8VwduFxV5G5qlFfz0GP59dNZPFf3QkVt_Q0MRzFvo0ec/h169-w300-rw/jumlah-kotak-min.png
 date: '2019-06-19'
-categories: [tes logika]
-tags: [tes logika, teka-teki]
+categories:
+  - tes logika
+tags:
+  - tes logika
+  - teka-teki
 ---
 <figure>
 	<img alt="Berapakah Jumlah Kotak Pada Gambar Ini?" height="720" width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvh1HWDYPiPUa17cDg1LJhcias5OOFhIZ8ra34egSx8Nm3ZURuVzS-krzJ__8mUUUi6EF1jHTnT4X7npQAr-1zWLCUMqwOX5np_9vfpTQxbs9COIWXczMyzqyyzRLXPAmZXAvu32W-pqwd8mv8VwduFxV5G5qlFfz0GP59dNZPFf3QkVt_Q0MRzFvo0ec/s1600/jumlah-kotak-min.png"/>
