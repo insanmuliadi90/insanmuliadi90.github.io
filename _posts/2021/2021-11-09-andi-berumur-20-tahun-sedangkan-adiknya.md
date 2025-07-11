@@ -1,11 +1,20 @@
 ---
+layout: post
 title: Andi berumur 20 tahun sedangkan adiknya 1/2 tahun
-date: 2021-11-09
-description: Jangan sampai bilang jawabannya adalah 25 tahun. Teka-teki ini memang sangat gampang namun tetap saja banyak orang yang terjebak
-excerpt: Jangan sampai bilang jawabannya adalah 25 tahun. Teka-teki ini memang sangat gampang namun tetap saja banyak orang yang terjebak
-categories: [tes logika]
-tags: [tes logika,teka-teki]
-image: https://blogger.googleusercontent.com/img/a/AVvXsEjFmBlOMA9ewSsUobeleIxPabBAxvNBkg7tMtE6GEUFgK-LmCzGDA_krbzobCKQlvAFWoFHPoD5iw5MJguWjpkm_XOghMuMUp3oEYFJVxUqGgYfqUgABPkarOVPYTw-d1n2YVtjYMoHwc-OCBr_X0y9hlsLS7W4RMpIk134JynjRkK8SlqxBgL9Zt2c=h169-w300-rw
+date: 'Tue Nov 09 2021 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  Jangan sampai bilang jawabannya adalah 25 tahun. Teka-teki ini memang sangat
+  gampang namun tetap saja banyak orang yang terjebak
+excerpt: >-
+  Jangan sampai bilang jawabannya adalah 25 tahun. Teka-teki ini memang sangat
+  gampang namun tetap saja banyak orang yang terjebak
+categories:
+  - tes logika
+tags:
+  - tes logika
+  - teka-teki
+image: >-
+  https://blogger.googleusercontent.com/img/a/AVvXsEjFmBlOMA9ewSsUobeleIxPabBAxvNBkg7tMtE6GEUFgK-LmCzGDA_krbzobCKQlvAFWoFHPoD5iw5MJguWjpkm_XOghMuMUp3oEYFJVxUqGgYfqUgABPkarOVPYTw-d1n2YVtjYMoHwc-OCBr_X0y9hlsLS7W4RMpIk134JynjRkK8SlqxBgL9Zt2c=h169-w300-rw
 permalink: /2021/11/andi-berumur-20-tahun-sedangkan-adiknya.html
 ---
 <img alt="Andi berumur 20 tahun sedangkan adiknya 1/2 tahun umurnya andi jika andi berumur 50 tahun berapa umur adik andi?" height="720" src="https://blogger.googleusercontent.com/img/a/AVvXsEjFmBlOMA9ewSsUobeleIxPabBAxvNBkg7tMtE6GEUFgK-LmCzGDA_krbzobCKQlvAFWoFHPoD5iw5MJguWjpkm_XOghMuMUp3oEYFJVxUqGgYfqUgABPkarOVPYTw-d1n2YVtjYMoHwc-OCBr_X0y9hlsLS7W4RMpIk134JynjRkK8SlqxBgL9Zt2c=s16000-rw" title="Andi berumur 20 tahun sedangkan adiknya 1/2 tahun umurnya andi jika andi berumur 50 tahun berapa umur adik andi?" width="1280"/><br /><p>
