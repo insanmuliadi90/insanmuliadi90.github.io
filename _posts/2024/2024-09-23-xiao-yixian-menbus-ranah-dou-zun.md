@@ -1,11 +1,18 @@
 ---
+layout: post
 title: Xiao Yixian Menembus Ranah Dou Zun
 description: Xiao Yixian menembus ranah Dou Zun
-date: 2024-09-23
-categories: [donghua,btth]
-tags: [btth,xiao yixian]
+date: 'Mon Sep 23 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+categories:
+  - donghua
+  - btth
+tags:
+  - btth
+  - xiao yixian
 excerpt: Xiao Yixian menembus ranah Dou Zun
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvPblfzlMFIZDilH6yioSMb9Wl6GBqU2z1deKFILpPnLfuyFO2CBjbZGCik-ZXxOu1Yl9ZjrZ12yNb7KfCxzLkvoODuNKkk-L_0ZnsEp49fM9elC7z8mMd449j5XcWd5FcxuqhRGiRjydCqOWnOAiZQwGsEerQJso1LcSaVl_0mUb1ORPUVOG9BoIa1Q/h169-w300-rw/xiao-yixian-zun-zhe.webp
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvPblfzlMFIZDilH6yioSMb9Wl6GBqU2z1deKFILpPnLfuyFO2CBjbZGCik-ZXxOu1Yl9ZjrZ12yNb7KfCxzLkvoODuNKkk-L_0ZnsEp49fM9elC7z8mMd449j5XcWd5FcxuqhRGiRjydCqOWnOAiZQwGsEerQJso1LcSaVl_0mUb1ORPUVOG9BoIa1Q/h169-w300-rw/xiao-yixian-zun-zhe.webp
+published: true
 ---
 <figure>
   <img alt="Xiao Yixian BTTH" height="576" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvPblfzlMFIZDilH6yioSMb9Wl6GBqU2z1deKFILpPnLfuyFO2CBjbZGCik-ZXxOu1Yl9ZjrZ12yNb7KfCxzLkvoODuNKkk-L_0ZnsEp49fM9elC7z8mMd449j5XcWd5FcxuqhRGiRjydCqOWnOAiZQwGsEerQJso1LcSaVl_0mUb1ORPUVOG9BoIa1Q/s1600-rw/xiao-yixian-zun-zhe.webp" width="1024" />
