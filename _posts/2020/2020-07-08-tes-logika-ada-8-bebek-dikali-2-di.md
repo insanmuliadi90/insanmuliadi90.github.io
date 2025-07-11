@@ -1,12 +1,18 @@
 ---
-title: "Tes logika: Ada 8 bebek dikali 2 di goreng 4"
-date: 2020-07-08
-description: 'Ada 8 bebek dikali 2 di goreng 4 🦆 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!'
-excerpt: 'Ada 8 bebek dikali 2 di goreng 4 🦆 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!'
-categories: [tes logika]
-tags: [tes logika, teka-teki]
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0SzyrW81zf5HrrTAL3j5RnRA2yAguQpMtjWHimyOcaVw5TiykVngso1fkJoNOt9Zdn0mPV-QQ_LDy_C1uk0kC0KxbwGi7SNqPwQQTO5Bev45FOyByuTup2JGulovvypjI0GXctrkmrY/h169-w300-rw/ada+8+bebebk-min%25281%2529.PNG
+layout: post
+title: 'Tes logika: Ada 8 bebek dikali 2 di goreng 4'
+date: 'Wed Jul 08 2020 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: "Ada 8 bebek dikali 2 di goreng 4 \U0001F986 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!"
+excerpt: "Ada 8 bebek dikali 2 di goreng 4 \U0001F986 Berapa sisa bebeknya? Apakah kalian bisa menemukan jawaban tes logika atau teka-teki ini? Simak pembahasannya!"
+categories:
+  - tes logika
+tags:
+  - tes logika
+  - teka-teki
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0SzyrW81zf5HrrTAL3j5RnRA2yAguQpMtjWHimyOcaVw5TiykVngso1fkJoNOt9Zdn0mPV-QQ_LDy_C1uk0kC0KxbwGi7SNqPwQQTO5Bev45FOyByuTup2JGulovvypjI0GXctrkmrY/h169-w300-rw/ada+8+bebebk-min%25281%2529.PNG
 permalink: /2020/07/tes-logika-ada-8-bebek-dikali-2-di.html
+published: false
 ---
 <p style="text-align: left;">Satu lagi pertanyaan yang menguji logika kadang kita temui di grup facebook dan whatsapp yaitu ada 8 bebek dikali 2 digoreng 4. Berapa sisa bebeknya? 99% orang gagal menjawab!</p><h2 style="text-align: left;">Tes Logika Ada 8 bebek dikali 2 di goreng 4</h2><div>
 <figure>
