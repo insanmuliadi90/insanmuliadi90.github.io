@@ -1,11 +1,20 @@
 ---
-title: 'Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan'
-description: Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan
-excerpt: Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru Steam Mengakhiri Dukungan
-date: 2024-11-12
+layout: post
+title: >-
+  Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru
+  Steam Mengakhiri Dukungan
+description: >-
+  Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru
+  Steam Mengakhiri Dukungan
+excerpt: >-
+  Windows 7 dan 8 Resmi Tak Lagi Mendukung Gaming, Setelah Pembaruan Terbaru
+  Steam Mengakhiri Dukungan
+date: 'Tue Nov 12 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
 categories: game
 tags: game
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ5b1qGzfQkJLshDxnzdMFPCjXLW4lzckytSgFu8pCXV_fInKyn5qt80tWMCQUyW4b-sON0AwzgNXI33fDDiaO2YCIT_WaZtVB7ilWnCcc4DieLb3RojWcssk044D_F_5yuqxgoOKOJzLMV7yYc1MM6avrNAho8YCBhDqBbG5_Gof4F5dn3bx8tX7y0ts/h169-w300-rw/widows-7-min.webp
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ5b1qGzfQkJLshDxnzdMFPCjXLW4lzckytSgFu8pCXV_fInKyn5qt80tWMCQUyW4b-sON0AwzgNXI33fDDiaO2YCIT_WaZtVB7ilWnCcc4DieLb3RojWcssk044D_F_5yuqxgoOKOJzLMV7yYc1MM6avrNAho8YCBhDqBbG5_Gof4F5dn3bx8tX7y0ts/h169-w300-rw/widows-7-min.webp
+published: true
 ---
 <figure>
   <img alt="windows 7" height="360" width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ5b1qGzfQkJLshDxnzdMFPCjXLW4lzckytSgFu8pCXV_fInKyn5qt80tWMCQUyW4b-sON0AwzgNXI33fDDiaO2YCIT_WaZtVB7ilWnCcc4DieLb3RojWcssk044D_F_5yuqxgoOKOJzLMV7yYc1MM6avrNAho8YCBhDqBbG5_Gof4F5dn3bx8tX7y0ts/s1600-rw/widows-7-min.webp"/>
