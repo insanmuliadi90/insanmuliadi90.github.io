@@ -16,6 +16,7 @@ tags:
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmdvYLaMbRfvx446sFEW0tge6POiDwyVgW8bKorQmBXx6O6mxQhu5_t9GzNHk489Cp2jfm_7AbCAdYUiz25RD0dI2obabulN8T4MLL9S3-0DMcJUpMSZXDxJSBZu5UI7GT4PVVW1_7s0/h169-w300-rw/Slide1-min.PNG
 permalink: /2019/01/maju-ke-depan-mundur-ke-belakang-naik.html
+published: false
 ---
 <p style="text-align: left;">
   Nah salah satu teki-teki tes logika yang sering muncul di facebook adalah teki
