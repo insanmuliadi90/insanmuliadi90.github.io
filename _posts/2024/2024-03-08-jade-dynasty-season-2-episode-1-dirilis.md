@@ -1,11 +1,21 @@
 ---
-title: 'Jade Dynasty Season 2 Episode 1 dirilis secara offline'
-date: 2024-03-08
-description: donghua Jade Dynasty season 2 merilis preview dan bahkan episode pertamanya secara offline. Baca selengkapnya pada artikel berikut ini
-excerpt: donghua Jade Dynasty season 2 merilis preview dan bahkan episode pertamanya secara offline. Baca selengkapnya pada artikel berikut ini
-categories: [donghua,jade dynasty]
-tags: [jade dynasty]
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigymqdKYw-FAYat3YgxKiQsvfhNemKedJq2SZJRV1rMCEpGLbC_UWlOd5-l-7_gu8lrndxfvrnOxPGyLyzVrs6FqXkDv3adgUQGytsMeYIH9ed4xofNIojWHxUWDmEN9d4rGzmTOd7sAvhIjMVgMb-8NAprLhDpxCEsW11_151WbS6TB5hN8LFPWnevVA/h169-w300-rw/jade-dynasty-season-2.webp'
+layout: post
+title: Jade Dynasty Season 2 Episode 1 dirilis secara offline
+date: 'Fri Mar 08 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  donghua Jade Dynasty season 2 merilis preview dan bahkan episode pertamanya
+  secara offline. Baca selengkapnya pada artikel berikut ini
+excerpt: >-
+  donghua Jade Dynasty season 2 merilis preview dan bahkan episode pertamanya
+  secara offline. Baca selengkapnya pada artikel berikut ini
+categories:
+  - donghua
+  - jade dynasty
+tags:
+  - jade dynasty
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigymqdKYw-FAYat3YgxKiQsvfhNemKedJq2SZJRV1rMCEpGLbC_UWlOd5-l-7_gu8lrndxfvrnOxPGyLyzVrs6FqXkDv3adgUQGytsMeYIH9ed4xofNIojWHxUWDmEN9d4rGzmTOd7sAvhIjMVgMb-8NAprLhDpxCEsW11_151WbS6TB5hN8LFPWnevVA/h169-w300-rw/jade-dynasty-season-2.webp
+published: false
 ---
 <figure>
   <img alt="Jade Dynasty Season 2" height="720" width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigymqdKYw-FAYat3YgxKiQsvfhNemKedJq2SZJRV1rMCEpGLbC_UWlOd5-l-7_gu8lrndxfvrnOxPGyLyzVrs6FqXkDv3adgUQGytsMeYIH9ed4xofNIojWHxUWDmEN9d4rGzmTOd7sAvhIjMVgMb-8NAprLhDpxCEsW11_151WbS6TB5hN8LFPWnevVA/s1600-rw/jade-dynasty-season-2.webp"/>
