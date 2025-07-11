@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2022-07-28
+date: 'Thu Jul 28 2022 08:00:00 GMT+0800 (Central Indonesia Time)'
 title: DOWNLOAD Soal UTS TIK Kelas 8 Semester 1 Dan Kunci Jawaban
-excerpt: Download soal-soal UTS TIK untuk kelas 8 semester 1 disertai dengan kunci jawabannya
+excerpt: >-
+  Download soal-soal UTS TIK untuk kelas 8 semester 1 disertai dengan kunci
+  jawabannya
 published: false
 ---
 
