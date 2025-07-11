@@ -1,10 +1,15 @@
 ---
 layout: post
 title: Download GRATIS Kumpulan Soal Seleksi PPPK Guru 2021 PDF + Jawaban LENGKAP!!
-date: 2022-09-29
+date: 'Thu Sep 29 2022 08:00:00 GMT+0800 (Central Indonesia Time)'
 categories: PPPK
-tag: [ pppk,seleksi guru ]
-excerpt: Download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci jawaban dan pembahasan
+tag:
+  - pppk
+  - seleksi guru
+excerpt: >-
+  Download pdf kumpulan contoh dan latihan soal seleksi pegawai pemerintah
+  dengan perjanjian kerja (pppk / p3k) guru tahun 2021 yang dilengkapi kunci
+  jawaban dan pembahasan
 published: false
 ---
 
