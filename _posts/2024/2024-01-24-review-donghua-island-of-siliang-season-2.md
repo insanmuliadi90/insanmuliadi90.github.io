@@ -1,11 +1,20 @@
 ---
-title: 'Review Donghua The Island Of Siliang Season 2 Serta Informasi Lengkap Resminya'
-date: 2024-01-24
-description: Supnewz.com, Simak review anime The Island of Siliang Season 2 serta informasi tanggal rilis dari animasi Tiongkok berikut ini
-excerpt: Supnewz.com, Simak review anime The Island of Siliang Season 2 serta informasi tanggal rilis dari animasi Tiongkok berikut ini
-categories: [donghua, the island of siliang]
+layout: post
+title: Review Donghua The Island Of Siliang Season 2 Serta Informasi Lengkap Resminya
+date: 'Wed Jan 24 2024 08:00:00 GMT+0800 (Central Indonesia Time)'
+description: >-
+  Supnewz.com, Simak review anime The Island of Siliang Season 2 serta informasi
+  tanggal rilis dari animasi Tiongkok berikut ini
+excerpt: >-
+  Supnewz.com, Simak review anime The Island of Siliang Season 2 serta informasi
+  tanggal rilis dari animasi Tiongkok berikut ini
+categories:
+  - donghua
+  - the island of siliang
 tags: []
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJl1evOzJ10OgZfGV69xFkBUwhUehEsTozAoaaHZEDZjMPtj2zKVQbcqARzOcF_hugDC2upiTU2ij9wr-NUy-8hmv5NBLyGooPV1Uf_MdPRlmtpy9Ll6Htj69mLnEnrHDFRqugmb9Q6-of4rzBdxn4DkmKrdpUcD93FPWQCrfNKcXmzuQE8VQglp-jrtM/h169-w300-rw/the-island-of-siliang-season-2-img.webp
+image: >-
+  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJl1evOzJ10OgZfGV69xFkBUwhUehEsTozAoaaHZEDZjMPtj2zKVQbcqARzOcF_hugDC2upiTU2ij9wr-NUy-8hmv5NBLyGooPV1Uf_MdPRlmtpy9Ll6Htj69mLnEnrHDFRqugmb9Q6-of4rzBdxn4DkmKrdpUcD93FPWQCrfNKcXmzuQE8VQglp-jrtM/h169-w300-rw/the-island-of-siliang-season-2-img.webp
+published: false
 ---
 <figure>
 	<img alt="Review Donghua The Island Of Siliang Season 2 Serta Informasi Lengkap Resminya" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJl1evOzJ10OgZfGV69xFkBUwhUehEsTozAoaaHZEDZjMPtj2zKVQbcqARzOcF_hugDC2upiTU2ij9wr-NUy-8hmv5NBLyGooPV1Uf_MdPRlmtpy9Ll6Htj69mLnEnrHDFRqugmb9Q6-of4rzBdxn4DkmKrdpUcD93FPWQCrfNKcXmzuQE8VQglp-jrtM/s1600-rw/the-island-of-siliang-season-2-img.webp" width="1280" />
