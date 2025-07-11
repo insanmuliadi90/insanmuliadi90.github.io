@@ -61,7 +61,7 @@ title-img: /favicon.svg
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
-show_siderecent: true
+show_siderecent: false
 show_sidecategory: false
 show_sidetags: false
 
