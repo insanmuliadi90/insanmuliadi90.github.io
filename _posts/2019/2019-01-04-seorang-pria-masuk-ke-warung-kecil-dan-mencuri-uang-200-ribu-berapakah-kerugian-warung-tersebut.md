@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: >-
   Seorang pria masuk ke warung kecil, dan mencuri uang 200 ribu Berapakah
   kerugian warung tersebut?
@@ -10,8 +10,11 @@ subtitle: >-
 date: '2019-01-04'
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRQjgMWmHBJ3srwTzG4FDyac3PEnoAQluX5nFGZ9-4056C0SJ_o2YKFilY3HBJg0IXvN2yeNqvNw8wOo7BMU1Ndn3JovJNvgoZ0iQ8HB75yH1rQJayZ2CTPoPX3gdU7-QBtWBd_aiRro/h169-w300-rw/teka-teki-min.png
-categories: [tes logika]
-tags: [tes logika,teka-teki]
+categories:
+  - tes logika
+tags:
+  - tes logika
+  - teka-teki
 permalink: 2019/01/seorang-pria-masuk-ke-warung-kecil-dan.html
 ---
 Tes Logika...
