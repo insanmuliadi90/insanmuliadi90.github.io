@@ -16,6 +16,7 @@ tags:
 permalink: /2020/07/teka-teki-berapakah-kode-kunci-yang-benar.html
 image: >-
   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdlGgT3NlO79DBMyRjyCbhteYBAmLzKJwxcngeqi9A2VOXWxW8S2c8oVt6PfT1hFsNuzIH6u-E7PfS82JXJ92KerpEIapVKLTy11hO5avr2LCKJyA4nFpZNXbGSMZfswzUOIMOCvrmv-c/h169-w300-rw/kode+kunci-min.png
+published: false
 ---
 
 <p style="text-align: left;">Kembali dengan topik teka-teki seperti biasanya. Kali ini saya akan membahas
